@@ -4,13 +4,3 @@ Data/Landing_Zone/emf-mqtt-dump/mqtt.emf.camp.2026-main.zip
 ETL/venv
 .env
 Data/Landing_Zone/Recordings/*.opus
-
-EMF_Camp/Raw_data/emf-mqtt-dump/mqtt.emf.camp.2026-main.zip
-EMF_Camp/Raw_data/emf-mqtt-dump/combined.csv - Copy/mqtt.emf.camp.csv
-EMF_Camp/Raw_data/emf-mqtt-dump/combined.csv/mqtt.emf.camp.csv
-venv/
-.venv/
-env/
-__pycache__/
-.env
-EMF_Camp/Raw_data/Recordings/*.opus
