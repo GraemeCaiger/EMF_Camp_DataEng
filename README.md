@@ -35,6 +35,7 @@ However due to long compute times and the high likelyhood of the disaperance of 
 
 ## Data Model
 [Insert Entity relationship diagram here.] 
+Questions to consider: what normalisation level? Reasons to choose given fact or dim, ensure refresh fundementals on this. 
 
 
 
