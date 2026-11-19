@@ -1,6 +1,6 @@
 Data/Landing_Zone/emf-mqtt-dump/combined.csv - Copy/*
 Data/Landing_Zone/emf-mqtt-dump/combined.csv/*
 Data/Landing_Zone/emf-mqtt-dump/mqtt.emf.camp.2026-main.zip
-ETL/venv
+ETL/.venv
 .env
 Data/Landing_Zone/Recordings/*.opus

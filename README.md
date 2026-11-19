@@ -10,8 +10,7 @@ This projects aim is to build a data warehouse by ingesting and processing avail
 So as to demonstrate ability with both. ELT and ETL approaches have been used separately to achieve this goal. 
 <br><br>
 
-**Setup note:** <br>
-run setup.ps1 powershell script to build python enviroment and ensure when running notebooks that this is the enviroment used. 
+## [Setup Guide](/Documentation/Setup.md)
 
 ## Hypothetical Business cases: 
 **Topic modelling: Sponsorship identification** <br>
