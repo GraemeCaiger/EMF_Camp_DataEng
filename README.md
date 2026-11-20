@@ -45,7 +45,16 @@ Questions to consider: what normalisation level? Reasons to choose given fact or
 
 
 # Current todo 
-- [] Refactor to send not tabular data to landing zone and then subseqently to bronze silver gold etc.
+- Should refactor to a medalian arcitecture. 
+    - Bronze: Raw, append only, never modified, metadata abot loadtimes etc. 
+    - Silver is clean, typed, duplicated and conformed, no buisness definitions/metrics. 
+
+Data flows through each layer, transformations need to be made idempotent (state indepedent ) Quality checks sit at layer boundaries. 
+<br><br>
+Having the boilerplate for a retention policy even though this isnt really applicable likely good for mature consideration. 
+
+
+[] Refactor to send not tabular data to landing zone and then subseqently to bronze silver gold etc.
 - Seperate notebooks into folders Extract, Transform and load refactoring as neccesary. 
 - Data from experements like getting weather, villages etc should have their own notebooks. mqtt_get_villages.ipynb etc. 
 
