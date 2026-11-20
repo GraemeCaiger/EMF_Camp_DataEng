@@ -9,3 +9,4 @@ openai-whisper  # For audio transcription
 imageio-ffmpeg  # For handling FFmpeg integration with imageio
 rapidfuzz 
 pyarrow         # for parquet support
+pyprojroot      # Tool to help simplify accessing the correct directories within the project. 
