@@ -1,0 +1,312 @@
+[00:00] You can see that you have to do that.
+[00:05] You can see that you have to do it.
+[00:12] Whoop!
+[00:14] He and F-Kamp, how are we doing?
+[00:15] Come on, no.
+[00:18] Perfect.
+[00:21] Awesome.
+[00:23] Cool.
+[00:25] It's my change of tone coming in.
+[00:27] and look to be quite like hilarious.
+[00:30] Do not do what we are going to discuss in this session today at home.
+[00:34] We are security researchers.
+[00:36] We have done this research together with international law enforcement
+[00:40] and also with international primary borders.
+[00:42] So we had support and backing throughout this entire journey.
+[00:45] Do not just start doing things with North Koreans.
+[00:48] You might be putting yourself in danger.
+[00:50] Anyway, speaking about putting yourself in danger
+[00:52] and the back is my intern right there while I'm driving a van.
+[00:56] I'm Simon. I'm the founder of CEOC site.
+[00:58] I'm a starter founder.
+[00:59] Like there are many that are not special.
+[01:01] I am the chair of the anti-fraud Division of the W3C,
+[01:05] which is a small community group.
+[01:07] I run a small cybersecurity company around web security.
+[01:11] It kind of the starting stories very simple.
+[01:13] I realized that firewall vendors were claiming to know things about browsers
+[01:17] and unfortunately they didn't.
+[01:18] And there wasn't really enough of a browser level security company in the world.
+[01:23] Anyway, originally from Belgium, I used to live here in the UK
+[01:26] but since a little while now, I haven't based in Cerro Cisco.
+[01:30] Alright, so what do you do when you start a startup you do fundraising?
+[01:33] And as is always the case with fundraising,
+[01:35] there is of course mandatory press coverage that comes as part of that.
+[01:39] And what do you do when you get given money?
+[01:41] You have to deploy that money and hire people to go build that thing, build that vision.
+[01:46] So I put a bunch of jobs online.
+[01:48] I used a very well-known applicant tracking system that then posted a job on various platforms.
+[01:53] LinkedIn, indeed, ex jobs, that's a thing nowadays, a bunch of those platforms.
+[01:59] And then of course our investors were nice and reposted that on their platforms.
+[02:03] And kind of a bit expected.
+[02:05] There were some press articles out there.
+[02:07] People were somewhat interested in what we were doing.
+[02:09] And there you go.
+[02:10] We started getting job applicants.
+[02:13] Until we received thousands.
+[02:15] Now, how do you go to, like, sorry, I'm going to start there.
+[02:19] On paper, all these candidates look great.
+[02:21] They had very relevant background, worked at the right companies before they had an active GitHub account.
+[02:27] It just made sense.
+[02:28] So these profiles were almost too good to be true.
+[02:31] And then how do you see through so many of these applications?
+[02:34] Well, you start filtering for the best ones and then you send them a homework assessment.
+[02:37] Do a coding assessment, fill out this Q&A.
+[02:41] That's due to this personality assessment to understand how you are.
+[02:44] And then it should really only take you now or so.
+[02:47] And then here's what came back.
+[02:49] Flying colors.
+[02:51] People got 94%.
+[02:53] There were some signs of cheating, which is tolerable.
+[02:56] They smashed it 10 out of 10 out of 10 out of everything.
+[03:00] And somehow, they were also interested in learnings, felt it, which is not that on popular.
+[03:05] Now, another candidate, who is another one, similar thing, 92%.
+[03:10] And then, however, our React vetter app wasn't too much to ask.
+[03:14] Well, what do you do in candidates?
+[03:16] Like this, what you have to call.
+[03:18] And they were a little awkward.
+[03:21] I'll let you judge.
+[03:24] So in this question that's going to come up now, like in the response I'm going to give,
+[03:27] I asked about a border gate report.
+[03:29] The reason why I asked that is because when you ask people,
+[03:32] how does it work to get a web page in a browser?
+[03:35] Well, networking is part of that.
+[03:37] They often forget it and I ask.
+[03:38] And kind of what I'm hoping to get here is people saying I don't know and asking questions,
+[03:42] or either giving me a perfect answer and then we'll dig deeper.
+[03:45] The border gate report call is the thing that makes the internet route.
+[03:48] I have a server in LA that I need to reach.
+[03:50] How do I get there?
+[03:51] Right? That's what the BGP does.
+[03:55] This is going to hurt your brain.
+[03:57] It did to me as well.
+[03:58] And I had to sit through the whole thing.
+[04:00] I'm not going to have you do that, but here we go.
+[04:03] Actually, the regarding this, Ballerator report call,
+[04:05] it just combination after operator of the baller.
+[04:10] So actually the potential context where the term might apply
+[04:16] and this kind of policy, the border management.
+[04:22] And then also the political commentary is really important.
+[04:28] Needless to say, none of this made any sense.
+[04:31] And so if you think that was bad, I kind of doubled down.
+[04:35] And I asked, get us quite high level.
+[04:37] Can you just be more precise?
+[04:39] I really just want to hear about the networking side of things.
+[04:42] Well, actually, this is just what I told you is just,
+[04:45] will I provide you?
+[04:46] It's just a big picture of the options for each management
+[04:50] and then also maybe the policies.
+[04:52] So maybe if I can give you some examples,
+[04:57] you kind of examples, then for example, the agencies like
+[05:01] the government and also the protection, or maybe organizations
+[05:06] and other countries, then it is just just the response of force.
+[05:10] So this guy was talking about border protection.
+[05:13] So clearly border gate report call using his AI tool,
+[05:17] meant border enforcement, the physical people at the airport
+[05:21] asking you a few broadening chocolates from abroad.
+[05:24] What did you notice? Well, a few initial signs.
+[05:27] And if you start having a bunch of these calls, they're quite clear signs.
+[05:31] There's really significant lag.
+[05:33] He claimed to be a native English speaker now.
+[05:35] I really don't want to be using that too much as a vector,
+[05:38] but was he?
+[05:39] It didn't really sound like that.
+[05:41] And honestly, nothing he said made any sense.
+[05:43] Now, this particular recording was made in 2024 before AI got good.
+[05:47] Nowadays, he would probably give you a better answer.
+[05:50] But as I said, at the end of that thing, I wasn't going to have you sit with that whole thing.
+[05:54] At the end, I say, let's move on.
+[05:56] Which is like the line if any interviewer ever says,
+[05:59] let's move on, you know your basically screw with you've been called bullshit thing.
+[06:02] Anyway, this was another one of those candidates.
+[06:05] I found this one particularly funny because in his glasses,
+[06:08] you can see that he was getting some external help.
+[06:11] Anyway, and then, well, every good employer needs to know who they're talking to
+[06:17] and if you're trying to be so-to compliant, which pretty much every beat to be company needs to do,
+[06:21] you have to do background checks.
+[06:23] So we use a platform that does identity verification for us, criminal record checks,
+[06:27] tax evasion, employment, educational, social media, blah, blah, blah, blah, blah, blah, blah.
+[06:30] A bunch of checks.
+[06:32] Very standard stuff.
+[06:33] Now, here's what that platform returned.
+[06:36] All bueno, nothing to worry about.
+[06:40] Pretty weird.
+[06:42] Now, what I found particularly interesting was the fact,
+[06:44] and you can see that here, there's a Gmail address.
+[06:47] So they were sending a Gmail, employment verification emails.
+[06:52] Which is not fully legal or weird, but using an Gmail means they can just create an email address for someone.
+[07:00] So I got a little bit weirded out by that and I reached out to this person on the internet,
+[07:05] said hey, what's up? Like do you notice guy?
+[07:08] The answer was no.
+[07:10] I'm onto something.
+[07:12] So then I checked the identity cards.
+[07:15] Now I can show you this because it's fake.
+[07:17] As you can see, it looks a little bit way out of, like it looks too perfect of a picture, doesn't it?
+[07:23] There's a number of indicators here that there's an issue with this,
+[07:26] but all stated technology to make fake identity cards got better, since as well.
+[07:31] This passed identity verification initially.
+[07:36] Now, then we dug deeper.
+[07:38] Are we each out to this identity verification platform?
+[07:40] I've actually became good friends throughout this process.
+[07:43] And it turned out that their systems did flag this as a weird application.
+[07:49] There were all types of issues, and they called this person into a Zoom call,
+[07:53] asking to show that identity card.
+[07:56] Now, what this person is using is a green screen card, like any hotel PVC key card.
+[08:02] You can get these in green, and it was using computer vision to project these ID cards on there.
+[08:07] Now, this was detected.
+[08:10] They immediately spotted that this was not normal.
+[08:13] However, identity verification is usually done by a bunch of people in low-wage countries,
+[08:18] and they're under insane pressure.
+[08:20] So what happened here was the cost of a false positive is so high.
+[08:24] These people don't want to bear the responsibility for it.
+[08:27] If a company is trying to recruit someone, and all the way to the process, it comes back as
+[08:31] this is not legit. You may want a very five-ferreder.
+[08:34] That's closed-down recruiting process, and it's just generally not worth it for them.
+[08:37] So they gave it a stamp of approval, and the bad actor got away with it.
+[08:41] So that shows identity verification, unfortunately, isn't all it.
+[08:45] And there were so many of these guys.
+[08:48] We started giving them Jane Doe numbers.
+[08:50] So on the bottom right is Jane Doe 26.
+[08:53] Jane Doe 26 and I, we go way back.
+[08:56] It's actually quite a warm relationship.
+[08:58] We have emojis made out of his face because he's got a very expressive face.
+[09:02] There's some memes about it that I also post on Twitter every now and then.
+[09:07] Anyway, but Jane Doe is also known for his impeccable reports on Upwork.
+[09:14] So these people are actively doing other things in other places as well.
+[09:19] Upwork being one of those bad forms. I'll get back to that in a bit.
+[09:23] Okay, so now they got me annoyed.
+[09:25] There's clearly some really organized campaign happening out there with a bunch of,
+[09:30] honestly, nation-state actors trying to get into companies.
+[09:33] And then I remembered, the fuck I'm running this company.
+[09:36] Like, we can do this.
+[09:38] Like, we can do browser forensics, and probably we can pull a bunch of data out of that.
+[09:42] So the first thing that I did was make a job application portal where if they press the button to start the application process,
+[09:50] some fun stuff would happen.
+[09:52] You may want to lower the audio ever so slightly on my laptop in a second because it doesn't get quite loud.
+[09:57] But dramatic effect, here we go.
+[10:03] I think of it for more dramatic effect.
+[10:05] Yeah.
+[10:06] Yeah, so it, um, I actually did it like called one of my friends who made this open source a while ago.
+[10:13] I wasn't gonna spend my company money and time on it.
+[10:17] But yeah, when you moved your mouse, the window would move as well.
+[10:20] And when you were lucky to then click on it, it would open more windows.
+[10:23] And it would put things in your downloads folder.
+[10:26] It would mess with your clipboard.
+[10:28] All types of legacy APIs to do.
+[10:30] We are cheating your browsers.
+[10:31] Open a cat is why not.
+[10:33] Yeah, that was my first response.
+[10:36] And then, well, then, by the way, if you want to check this out, interview the virtuality,
+[10:41] do not send it to your friends or colleagues.
+[10:44] And then I thought, okay, let's behave.
+[10:47] Well, let's actually take this thing seriously.
+[10:49] So we got some data.
+[10:51] Out of these guys, it's browsers.
+[10:53] We sent them a little thing to, hey, can you please confirm your job application here.
+[10:56] And then we have this fancy dashboard in our product.
+[10:58] It's not a marketing pitch, but you get it.
+[11:00] We get a bunch of data about these people.
+[11:03] And then kind of the dimensions that we look at it is the user, the browser, the device, the network.
+[11:09] Now, I'll start with the network.
+[11:11] The network, hello, hi, latency.
+[11:13] Woo hoo.
+[11:14] Like, you could go out and, like, get yourself a little cup of tea set up by the time the webpage loaded.
+[11:20] They were also using the model of all signals, astral VPN.
+[11:24] Does anybody here heard of astral VPN?
+[11:26] Astral VPN is one of the only VPN providers that works from inside the great firewall in China,
+[11:32] which is usually an indicator that there's some fishy stuff happening.
+[11:36] Now, when it comes to the browsers, the device, well, it was a Windows virtual machine.
+[11:41] Very clearly, a virtual machine.
+[11:43] And it had some non-standard range fonts on them.
+[11:46] For example, she on Rima, by all means, look it up.
+[11:49] That's kind of a very common Korean, but two words, the North Korean dialect font.
+[11:54] They're usually not dominant to use red star OS, but it does happen.
+[11:59] So, yeah, there you go.
+[12:01] To those of you that don't know red star OS is kind of an old Linux-based operating system that they use in the DPRK.
+[12:07] Anyway, browser signals.
+[12:10] The other thing that we noticed is, there wasn't really significant amount of latency between the rendering of the page and them actually doing something.
+[12:17] So, usually when you go to a four-for example, you would do a thing and something else would come up,
+[12:22] and then you'd respond to that, and then there you go.
+[12:25] And another clear one is, when you type something, usually it comes in relatively consistently with some level of movement between it.
+[12:31] If you have a bad net recognition with a lot of latency, then usually comes in enough freaking chunk, but, right?
+[12:36] If we observe that there, so it was very clear that that was not a normal somebody sitting behind a computer doing their work thing.
+[12:45] The whole work assessments as well, these tools that we use for these whole work assessments, they provide you with like 800 or 1000 or 5000 or so different questions.
+[12:54] You can ask your candidates, but they are standardized, so these people have made their own standardized library of answers on their side, and just copy paste them in.
+[13:01] So that's all very standardized and clean on their end.
+[13:04] And then of course nowadays, and this is more of like a lost year thing, more and more AI automation, using browser use.
+[13:11] So actually using that browser and doing mouse movements and stuff and basically filling out the assessment,
+[13:17] I must say a little bit faster than is reasonable, so you can still have it as a thing.
+[13:21] Now, here comes our fun secret sauce. We're able to locate some of these people.
+[13:26] So neighboring countries of North Korea, you'll find a few cities like Dan Dong, but also Xin Yang, Yangji, and there's another one, Vanji anyway.
+[13:38] And then also in Russia, the neighboring city there. Now, then also spreads to other countries like Laos, which is a beautiful between Vietnam and Thailand, beautiful place to go, but I can never.
+[13:50] And then North America and like London and Switzerland and like newer places they were acting as if they were there.
+[13:58] That being said, it was all quite obvious.
+[14:02] Okay, now this is where kind of the deeper research that we did with agency's came in, what we know about how these actors work.
+[14:11] To become a North Korean official and be able to leave the country, you have to really climb the ranks.
+[14:17] What happens is they sent these people out in groups of eight, usually to two or three bedroom apartments, basically making them into a sweatshop and kind of forcing them to work as hard as they possibly can and bring back as much as revenue as possible.
+[14:29] They know their families being watched and if they do anything out of line, that is their family on the line.
+[14:35] They have some standardized process. So for example, the identity verification program that I explained, they definitely have an internal handbook on how to do that.
+[14:43] And they got very organized, like bypassing these tools because there is just so many of them. But they do have their own freedom when they're kind of little club on how to do things.
+[14:52] They rarely, I would say, do things outside of the US because it's the logistics of it and I'll talk about that as well.
+[14:58] They have laptop mules, most of them are in the US.
+[15:02] If they are hired within any of these other countries, then they're very likely make up some story and ask you to send a laptop to the US anyway.
+[15:10] And actually, this is a fun one. I'm not going to claim any credits for this. There's a bunch of people on Twitter that manage to get access to these people's laptops, breaking.
+[15:16] And there's some interesting data out of there.
+[15:19] They clearly just use a range of identities that are either stolen or completely made up.
+[15:23] They're very fight that they've been using up work with a source of income when revenue inflow is slow.
+[15:28] And they have been using Gmail, which will better the Microsoft team. So we'll give them that as a taste benefit.
+[15:35] Anyway, Zach, XBT, is a name of that Twitter person. Here's a great example of it.
+[15:39] As you can see, they also come up with our own nicknames. These people's identities are very difficult to find out.
+[15:45] Hence, Jane Doe, these are North Korean officials, right? So there is a question how much that piece of paper they're identity is actually.
+[15:52] Like, yeah, how they even go about that.
+[15:55] Anyway, any other question? Why is this a thing? Well, they are fundamentally out there to create revenue for the regime.
+[16:04] To fuel that weapons program that they have. In general, the DPRK is a major weapon supplier to all of their friends.
+[16:12] And so since the Russian North Korea conflict happens, their economy has also grown. This is a very well known thing.
+[16:19] In fact, there was a think of Hungarian researcher that managed to befriend the North Koreans.
+[16:25] And traveled to North Korea to see one of those arsenal showrooms for lack of better words.
+[16:31] There is a bunch of research on that if you ever want to get more info on that. I'll happily give it to you.
+[16:36] But like, this is a thing. And so what they're trying to achieve is well, flat merceree in places.
+[16:40] And you may remember these two faces, these were two frontline soldiers that were captured by the Ukrainian in Russia.
+[16:47] Well, guess what they're trying to achieve, they're trying to create hacker merceneries.
+[16:51] And they have many tiers within this revolt, the Pegasus organization. There are multiple organizations.
+[16:58] And this is one of those movements. Okay. Now, the real, what's in it for them is even simpler.
+[17:04] The worst case scenario for them, really, is that they can only manage together a US style wage out of you, which is about 150K USD.
+[17:15] I asked this question what's your salary range? They would be like a little bit below market range to make it easy of a decision.
+[17:20] Right? They'll be like, I can't understand them, but they're 20% cheaper.
+[17:24] Anyway, so it's about 112K, British pounds. To give you an idea, the average North Korean worker in North Korea itself makes about $1,300 USD a year.
+[17:36] So this is a lot of money for them. They obviously get access to valuable intellectual property.
+[17:42] Some of that is easily resouled to their allies or reuse themselves. That is valuable asset to them.
+[17:48] So they get that salary plus that. Now, if they can go further than that, they'll try to get access to internal systems, plant, malicious and PM dependencies, get access to internal IT, and do a bunch of weird things.
+[17:59] Now, in fact, there have been all types of reports around this already publicly, that is a standardized thing. They basically have a script that just goes through whatever they can to find stuff.
+[18:08] And then in the worst case, and this has happened to significant amount of times, they basically get access to APIs that hold some kind of funds.
+[18:15] Whether that's real, human currency, or virtual currency, crypto, they just basically try to cash out as fast as possible, and then disappear.
+[18:25] Make no mistake. These are trained nation state actors. The second-take of access, they're training kicks in, and it moves super quickly, and it is very standardized.
+[18:36] Now, I mentioned the laptop news earlier. The laptop news are basically just people living in random places in the Midwest. In fact, the address that they put on the application is often the one that will ask you to send the laptop to as well.
+[18:48] So what they do is they literally receive the box, take the laptop, they take a lot of box, go through setup, they plug in a hardware IPKVM. Now, that's kind of a new thing that came out in the last few years that people have been using.
+[19:01] It's actually just HDMI USB, check it in, over the network, Shrebam. You can't see that they have remote control software running on it. It's just that.
+[19:10] And you can get to a super cheap on Amazon now, which probably is partly because of them.
+[19:14] Anyway, then they open it in the morning, and they close laptop in the evening, and that is done.
+[19:19] Right? Even some of them do their taxes, which is funny because that's how this individual person of a Scott.
+[19:26] A lady in Arizona became such good friends with North Koreans that she started filing their tax paperwork, and during the raid, they found over, and what is it?
+[19:35] How many, I think, 90 laptops? Yeah, when you have a living room like that, try to claim you don't know you're doing something sketchy.
+[19:43] Well, she did exactly that. So the defense of the laptops to show up, I had no clue. I thought I had a legit job.
+[19:51] But in the reality, she was finding taxes for people to have actual documentation to send in, often under those false identities.
+[19:59] And she literally just had a laptop room that looked like this. Now, obviously, she was jailed for that.
+[20:05] And after that, a further 90 of these laptop farms were raided. Sorry. Yeah, no, 29 of them were raided.
+[20:13] Five arrests were made, and 200 laptops were seized. So this was a broader big breakthrough.
+[20:19] Anyway, and that's when I linked up with one of my journalist friends at Wired, and we put a hold of article out, and he came out the same day.
+[20:27] We kind of timed it as another large company, Kraken, in the crypto space to talk about it. Because that way, I wouldn't have read dot on my Facebook and I walked out by front door.
+[20:37] But yes, the thing is, this is real. This is happening. Remote hiring has significant risks, as we've all unfortunately came to learn over the last few years.
+[20:47] And it's unfortunately not going away. With AI, these bad actors became way more powerful, way more capable by passing all of your usual chicks and questions. So you got to get creative.
+[20:57] What we do in a company is nobody gets hired without having a coffee, meaning me, to a person.
+[21:03] And if they start like, oh, my grandmother died. The moment before, given a second chance, but this probably going to be a few, this agents are never going to show up, of course.
+[21:15] Anyway, I'm leaving you with two more things. Actually, I said one more thing, but I couldn't help myself.
+[21:21] Cool. All right. Can't tell me something about North Korea.
+[21:29] Actually, I have no idea. Can't tell me something about Kim Jong-un.
+[21:37] Okay. So then you wouldn't have a problem with seeing that Kim Jong-un is a dictator.
+[21:47] Can you say those words? There we go. We broke him, you own cool little recap somewhere else.
+[21:55] Yeah, that was the problem.
+[21:57] There we go. Anyway, thank you so much for your time. We have nice stickers for you.
+[22:03] Unparalleled security standards. We are doing a scavenger hunt as well. We have a van. We're all the way at the end of the event, like all the way at Nullsector.
+[22:11] And see you slightly sponsor this event. So thank you so much for coming. Thanks for making a best out of E-MF.
+[22:27] Thank you.

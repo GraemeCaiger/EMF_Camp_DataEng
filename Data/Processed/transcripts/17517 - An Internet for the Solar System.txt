@@ -1,0 +1,313 @@
+[00:00] The very good morning, my name is Debbie Johnson with the Amwich Radio
+[00:18] Call sign G4DPZ. I'm the honoru secretary of Amwich
+[00:25] SACQK, which represents the building and development of Amwich
+[00:29] SACQLites within U.K. We've got about 400 members, several other
+[00:34] lot worldwide as well. My day job is with the G1 Hilliard station working on
+[00:41] deep space networks and the software development for it. What you're going to
+[00:47] be seeing today is a spin-off from what I do in the day job. I'll talk about
+[00:55] that as a slides go through. If you can get the next slide up, come on please.
+[01:07] Here you go. Imagine you're in 2025. You're on the move. We're finally
+[01:14] up to the moon and we've got a state we've got a moon base there and you want to
+[01:20] connect back to Earth. Click on your browser. You're going to be a slight delay
+[01:26] of about two and a half seconds because the light time between the Earth and the moon
+[01:32] is about 1.3 seconds and the round trip light time is 2.5 seconds. It's not just
+[01:39] browsers, it's all communications between Earth and the moon. It's not because
+[01:46] the network's broken and it's not because the bandwidth is low. It's just the
+[01:51] physics of the speed of light. It's not just the moon. It's the problem with
+[01:58] the stars. We may not get, we may not put the stations on Mars but we're certainly
+[02:04] sending all the last sets out there and landers. They have exactly the same problem.
+[02:11] A lot of the agencies have developed their own strategies for communication with
+[02:17] these assets around the planets. Each one is at each one's is subtly different.
+[02:26] What NASA and NASA are trying to do is rationalise this into a specific
+[02:32] protocol for communications between assets and the ground.
+[02:43] We know how to build rockets, we know how to land spacecraft, but we need to
+[02:49] a new infrastructure for communication with the outer planets.
+[02:55] In the day job, the data they communicate on our workspace, network,
+[03:03] moon and Mars. We can hear stations out at Jupiter as well.
+[03:10] But each time we communicate with one of these assets, we have to change all
+[03:16] our configurations. We're trying to avoid this for our mission operators.
+[03:28] We're going to be getting to the moon in the next couple of years, whether we
+[03:32] build moon bases in that time, it's a question. But certainly we'll be
+[03:36] rowers, the rowers going to the poles to detect water etc.
+[03:41] We need something that is useful for everybody. We're trying to bring some
+[03:49] commonality to it. Commonality in communications, in navigation, in timing,
+[03:56] and in data networks. It's the boring stuff that makes all this possible.
+[04:02] I put boring in that's probably the wrong word. It's the stuff that we take for
+[04:07] granted. We take it for granted around the earth.
+[04:14] Around the earth we've got GPS. It's ubiquitous in your mobile phones.
+[04:19] It's in your car, it's for your GPS tracking. It's for navigation of aircraft
+[04:25] and military resources, of course. Many, many GPS systems, GPS,
+[04:31] Galileo, the Russians have won the Chinese, have won.
+[04:37] But I was talking to a colleague, probably about 10 years ago,
+[04:42] and we're going to put GPS around the moon.
+[04:46] It's coming to fruition.
+[04:51] There are some experiments with the Artemis, which I showed you in a couple of slides
+[04:56] ago, that try to use GPS from earth to track assets around the moon.
+[05:02] And it worked to eliminate it, but just the range is too far.
+[05:07] So we do need GPS around the moon.
+[05:11] The moon is a very strange object. It's, you wouldn't expect it to have a very strong
+[05:17] magnetic field, but the gravitational field.
+[05:22] But it has some very strange effects, and putting things into lunar orbit aren't as easy as they are around the earth.
+[05:29] So as well as the technology for the communication,
+[05:33] it's also the technology for the management of the satellites as well.
+[05:43] For those who know a little bit about the internet,
+[05:47] there is a protocol whereby you send a packet to the end point to see,
+[05:53] I'm here, we get an act knowledge, an act knowledge, an act knowledge,
+[05:59] that's in before you start doing the communications.
+[06:04] On earth it's fairly easy. We have stable routes, the internet is self-healing,
+[06:10] and can cope with dropouts and networks.
+[06:15] Space introduces other problems.
+[06:18] We have, as I've said before, we have extremely long delays, six seconds.
+[06:23] I've got another slide actually showing what the delays are,
+[06:26] but significant delays between the two bodies we're talking to.
+[06:34] There's also another problem is that the links are in to meet.
+[06:40] We have a set of ground stations around the earth,
+[06:43] for a deep space network, it's Canberra,
+[06:47] our cells in Gune Hilly Madrid, and the Gold and Gold Stone in NASA.
+[06:54] So that's four ground stations around the world.
+[06:57] They don't see the set all the time.
+[07:01] They will be worldwide coverage, but at some point they will be hand over
+[07:06] from one ground station to the next to do the communications.
+[07:11] That's true.
+[07:13] When the moon, it's always obvious in the sky,
+[07:17] but the earth's rotating underneath it.
+[07:19] So we only ever see it for a public about eight hours at a time,
+[07:24] above the horizon, above the six.
+[07:27] The outer planetary is your Mars' easier, because it's all,
+[07:32] it's above the horizon, it's there for quite some time,
+[07:35] but there is still the hand over between the ground stations.
+[07:43] I talked about the problem by two CPIP breaks.
+[07:48] Our sending of a connection, the acknowledgment,
+[07:53] the acknowledgment of the acknowledgment.
+[07:56] That can take 3.9 seconds.
+[07:59] Maybe a little bit, that varies a little bit.
+[08:02] Mars is much further away.
+[08:05] It's worth, it's something like 30 minutes away.
+[08:11] So to send these three packets, it takes quite some time.
+[08:16] You can take up to an hour just to get that communication started.
+[08:21] That's not tenable.
+[08:24] So we've got to come up with a solution to overcome those basic problems.
+[08:36] Typical timings for the communications.
+[08:41] We're talking milliseconds on the earth.
+[08:45] The GF station is satellite, 120 milliseconds.
+[08:49] If you come over to the M-Sat village,
+[08:52] you can probably demonstrate that by somebody saying hello.
+[08:56] Then they'll be slightly away as it comes back.
+[09:00] The moon, as I said, 1.3 seconds, light time,
+[09:04] Mars and Jupiter, all very, very challenging for us.
+[09:10] As soon as the Mars, you say hello to 20 minutes later,
+[09:14] somebody says hello back, not viable.
+[09:17] So what we need is a mechanism for communicating with the body,
+[09:27] with the orbital that's going around the body,
+[09:31] and then a mechanism for the orbital to talk to a lander or station.
+[09:37] That's probably easier because the times are shorter on the moon or Mars itself.
+[09:45] We can still use land, we can still use Wi-Fi and Bluetooth,
+[09:49] because the range is short.
+[09:51] It's getting over the longer distances that is the problem.
+[09:59] So how are we going to get over this?
+[10:02] Imagine you're in the past and you've got a letter to send.
+[10:06] You give it to your postman.
+[10:08] Your postman goes to your sorting office.
+[10:11] It gets sorted.
+[10:13] It sits in a pigeonhole for some time.
+[10:17] Another little man comes along, picks it up.
+[10:20] Move it onto the next sorting office.
+[10:22] So what's again, another delay.
+[10:25] Same principle that we would see that we're trying to implement
+[10:32] to become the problem of the delays.
+[10:36] We're sending little packets.
+[10:38] We're sending bundles of data that come waiting time before the next opportunity
+[10:44] to send that packet on to a spacecraft or a lander or whatever.
+[10:52] This is what we believe that the internet of the solar system will look like.
+[11:00] I'll mention a word of storing forward.
+[11:03] I'll come on to that in a second.
+[11:09] We're doing something called a delay tolerant networking.
+[11:14] Otherwise, in other words, it will allow for those delays of all
+[11:19] real mechanics of availability of ground stations and so on.
+[11:25] So we can store the data.
+[11:28] We can carry it forward in time.
+[11:31] We can forward the data onto another asset.
+[11:35] We can deliver it to each final destination.
+[11:39] We create something called a bundle.
+[11:42] It's a packet of data.
+[11:44] Your packet of data, your whole packet of data,
+[11:46] might be a video of if you're trying to send or it could be a command
+[11:51] that you're trying to send, which is quite long.
+[11:54] But because of the orbital mechanics and the availability of spacecraft,
+[11:59] you can't send it all in one piece.
+[12:01] So we split this into little bundles.
+[12:04] Flight time for a bundle is still 22 minutes tomorrow.
+[12:09] So we have to create these little bundles, send them on the
+[12:13] time.
+[12:14] I'll show you how we do bundling in a second.
+[12:18] We're breaking a large packet of data into small bundles to be transmitted.
+[12:25] So I'm listening.
+[12:32] We have to worry about when the availability of the assets.
+[12:38] It could be that a spacecraft has been tasked to do a lot of things,
+[12:44] not just receive the commands.
+[12:46] So it's the availability of the ground stations.
+[12:49] It's the availability of the orbiting asset.
+[12:53] It's the availability of the asset in space.
+[12:56] Lots and lots of things to consider.
+[12:59] So we have to predict where all these things are in time.
+[13:08] It's already running in space.
+[13:10] The international space station has been running high performance
+[13:14] disrupted technology networks.
+[13:18] They've been using them for video downloads through the T-T-Dress system.
+[13:25] They've won 20 fewer awards.
+[13:28] Unfortunately, because of the politics within the United States at the moment,
+[13:35] JPL has lost a lot of contracts.
+[13:39] Unfortunately, HDN has died as a mechanism for transmission.
+[13:46] I've used HDN as a part of the day,
+[13:50] which is a super-testing.
+[13:52] It is really good.
+[13:54] It's such a shame.
+[13:58] The Korean Pathfinder has already proved it as a protocol to the moon in 2024.
+[14:04] JPL with their own developments had done testing with ION.
+[14:12] I say DTN and the structure-telling disruptive mechanisms.
+[14:17] ION, which is this pre-kphix, is interplanetary overlay network.
+[14:23] So it sits on the top of the DTN stack.
+[14:27] NASA are producing something alluninets.
+[14:32] Alluninets is the proposal for all the agencies to talk to each other
+[14:38] to provide to come up with a standard for this communication.
+[14:44] As I said, all these protocols are in space today.
+[14:52] There is an organization called the Interplanetary Chapter,
+[14:58] which I'm a member of.
+[15:04] Their recommendation is for the quotas to soar them forward.
+[15:08] A network that should be a basis for communication,
+[15:11] the trouble is path where conventional internet protocols cannot work.
+[15:16] Which is exactly the step, which is exactly what we're trying to do.
+[15:20] They report called it DTN and DPSuite,
+[15:25] which I've talked about, the disrupted disrupting mechanism and the bundling of packets.
+[15:31] So we've actually are conforming to what they're requested.
+[15:36] They also said it shouldn't just be the agencies.
+[15:41] It should be other organizations.
+[15:44] This is where I'm sat and the amateur radio community come into this.
+[15:48] I'll talk about that in a second.
+[15:54] The DTN stack is actually built up of several pieces.
+[16:00] The bundle protocol, which breaks up the pieces of your large file
+[16:05] into small bundles of data, the system called LTP.
+[16:12] LTP is a mechanism where these bundles can get transmitted through the system.
+[16:18] You can't guarantee that the delivery of the bundle will happen correctly.
+[16:24] Every bundle gets identified and you send the stream of bundles through.
+[16:29] It's a little sweet for it through the protocol.
+[16:32] The LTP protocol is yes, I've got that.
+[16:35] Oh, I missed that one.
+[16:37] I've got that one.
+[16:38] Then it retries to pick up that bundle again.
+[16:42] It's quite a complex protocol.
+[16:45] There are lots of exchanges of data, but the delivery is guaranteed,
+[16:51] even though it may take quite a bit of time.
+[16:54] But it does overcome the problem of the delay within TCP.
+[17:04] Storing forward, which I mentioned before, this is a typical story that we talk about in the day job.
+[17:17] A mission control center somewhere in Europe or in the United States wants to send a command or get to
+[17:28] Lymetry back from an asset.
+[17:32] The mission controls will send the data to the ground station, which your Lymshars met it to the orbiter.
+[17:41] The orbiter receives it, so is it on disk?
+[17:45] 40 minutes later, because it's going around the moon, it sees it's lander.
+[17:52] It gets the opportunity to send that data to the lander.
+[17:57] The lander acknowledges it.
+[18:00] The lander to the asset, the asset, then that knowledge is it back to the Earth.
+[18:07] The ground station and that acknowledges it back to the mission control center.
+[18:11] We've actually got a complete end to end solution.
+[18:14] LTP manages all this for us.
+[18:17] We've got over the problem of the delays.
+[18:19] We've actually guaranteed that that packet is going to arrive at its destination.
+[18:28] I talked about Windows of Opportunity.
+[18:32] Ground station, mission control, ground station, orbiting our set and lander.
+[18:40] Each of these are Windows in time.
+[18:44] One of the critical things within the system is the management of these time windows.
+[18:51] There has to be a master mechanism for doing all the predictions.
+[18:57] This is an under-debatant environment about how we're going to do this.
+[19:03] There are examples of this, but it's still in development.
+[19:09] As always, with the agencies, they have committees and it takes the committees a bit of time to actually decide what they really want to do.
+[19:22] What we're trying to do is build an infrastructure for exploration.
+[19:27] We want to make this systems open as well.
+[19:30] All the agencies can use them.
+[19:34] Third part is to use them.
+[19:36] I'll go into something else in the second where one of the projects I'm involved with is going to get involved as well.
+[19:42] I'm going to talk about radiance.
+[19:45] Radiance is the amateur radio version of the protocol.
+[19:50] I'm going to go into that a bit more in a second.
+[19:54] The proposal is for collaboration, transparency, interoperability, because each organisation will implement it slightly.
+[20:03] So the implementation may be different, but the interoperability, how these systems talk to each other, should be identical.
+[20:12] I've just been going through an exercise with these for a set of students to write one of these several of these protocols.
+[20:22] We had 23 teams. We did a workshop about six weeks ago and we had five teams interoperability working perfectly.
+[20:32] So we actually got out into academia to test out some of these protocols.
+[20:40] I'm looking at my time.
+[20:43] I've said where I'm at radio fits in.
+[20:46] We are trying to go involved with this. I take my goon, helly hat off, I put my radio hat on.
+[20:53] I'll become with a pack of radiance.
+[20:58] Interradiance.
+[21:01] Radio amateur delay, tolerance, interplanetary network, test bed.
+[21:07] It seems like a good acronym.
+[21:11] It professionals are doing this. Why can't we do it as radio omitures?
+[21:16] I'll make them up with radiance. It's an open source.
+[21:19] Standards protocol that can run on any node by run by a radio amateur.
+[21:29] We set ourselves a roadmap.
+[21:33] Keep it simple to start with.
+[21:35] That's the stack of my phase 1 mechanism with two radios, two mode ends.
+[21:44] There's a Raspberry Pi setting that box on the top.
+[21:48] That's demonstrating the transmission of the one megabyte file using the bundle protocol using LTP over the radio.
+[21:59] It's a bit slow. I'm testing the protocol. It works really well.
+[22:06] It's open source. I've developed it in C++ and Rost.
+[22:14] It can be done in a variety of ways.
+[22:19] The next step will do to move it to a short delay.
+[22:25] We have the QO100 sublight.
+[22:29] If you come over with the MZ Village, you'll see our mediumly sized dish, 0.0.
+[22:35] The next step is to build a flat sat.
+[22:41] It's a small sublight on the bench.
+[22:45] One of the boards within the sublight will be a test bed for running DTM.
+[22:52] If you come over with the MZ Village, I will show you what a QO100 looks like.
+[22:57] It's a 10x10x10 cm small sublight.
+[23:03] Having done that, we would love to get that sublight board into space.
+[23:09] I'm sat UK, which is the organisation I'm involved with,
+[23:14] our building and designing our second QO100, which is 2U.
+[23:19] It's 20 cm x 10x10.
+[23:22] One of the boards in there, the thing is crossed, will be a demonstration for that.
+[23:27] It will fly. It will be our second sublight that's gone up.
+[23:31] The current one is 11 years old and is still going.
+[23:37] The ultimate step, which is my busses, set me up for all this really.
+[23:45] It's to actually fly a parallel around the moon, as this is the parallel.
+[23:51] Having proved it on the Cube set, he's so time scale is maybe 4 years.
+[23:59] Day if you can't retire until that packet with your name and it's carry by L2P as gone around the moon.
+[24:06] That's my challenge.
+[24:09] I retire in five weeks, so I've got a little retirement job to do.
+[24:16] My wife's not really happy about this, but we're going to have another story.
+[24:22] I've talked about what we're going to be doing.
+[24:29] The part is involved. I'm from MSI UK.
+[24:34] We have another organisation called MSI DL, which is our German colleagues.
+[24:40] They also design and launch satellites.
+[24:44] I've mentioned the geostation of satellite.
+[24:47] That's theirs. We have communication to it.
+[24:51] We have digital TV coming down from it, which you can see at the MSI BELIEGE.
+[24:56] It's a collaboration.
+[24:58] We want to get amateur radio operators involved under professional community.
+[25:03] Hence the third line in there.
+[25:07] My day job is we're going hilly, but our chief executive said we can help you as much as we can.
+[25:14] Which is great.
+[25:19] Closing thought.
+[25:22] The current Internet connects the world.
+[25:25] The next generation of networks will connect worlds.
+[25:30] That's what we're looking for.
+[25:34] If you want to get involved, you can email me at radian.com.
+[25:42] We're looking for developers.
+[25:47] We're looking for software development radio hackers.
+[25:51] That's not meant to be a fancy buy hacker.
+[25:56] They are a great bunch of people who do some wonderful work.
+[26:00] We're looking for network engineers.
+[26:02] Through external engineers and space engineers.
+[26:05] I'm looking for space enthusiasts like me.
+[26:10] We are a competitive bunch.
+[26:13] The amateur radio community.
+[26:15] We're looking for ground station operators.
+[26:18] It'd be the commercial or the amateur or the academic.
+[26:27] The slides will become up late, so there is further reading.
+[26:34] I've mentioned the Solar System Internet report, which is a bit, which is old.
+[26:39] It's a very strong HTML.
+[26:42] It's no longer withers, but it's a good read.
+[26:45] The NASA Ion DTM is the fundamental spec.
+[26:50] That's really well worth reading.
+[26:53] We've also got our own web page, radian.com, set UK.org.
+[26:59] Where you'll find all the details.
+[27:02] Thank you very much indeed.

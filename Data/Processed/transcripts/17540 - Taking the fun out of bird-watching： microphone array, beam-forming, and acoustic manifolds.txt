@@ -1,0 +1,348 @@
+[00:00] I'm going to talk about taking the fun at a bird watching.
+[00:27] Who am I? I'm a builder like electronics software.
+[00:32] I also like to break things. I'm into hacking in for a sec CTFs.
+[00:39] If you find me in my natural environment, I'll be playing with ham or software-defined radio and just radio in general.
+[00:47] That's how I came upon this topic. It's very similar to dealing with radio frequencies.
+[00:53] It's also like other hard to solve niche problems like cryptography.
+[01:02] So I'm a quick audience participation. Hands up who likes, who thinks bird watching is interesting.
+[01:10] Nice. Who thinks that is a fun thing to do? Also great. How many people have spent a whole day or two days in the fields looking at birds?
+[01:22] Nice. Great. I don't like to do that. I like to spend an hour and then I kind of...
+[01:30] I start to get a bit bored. I do like birds a lot, but I do get bored and I've been told it's probably even less than that.
+[01:38] So I decided that I would try and automate this. I like the data processing part. I like to look at the audio, personally.
+[01:48] I'm sitting still not so much. So I started this project. It's an ongoing project.
+[01:54] So I've been working on it for a few months. The idea is to use audio to find birds.
+[02:01] Then use video and computer vision to track when they move between trees and that kind of thing.
+[02:07] And then have a little pan-tilt device that can move a camera around and actually record all of that.
+[02:13] So then I built a website to stitch that all together and help other fellow birdwatchers to make this project better.
+[02:22] So the big project, big problem with this birdwatching is that birds are really good at hiding.
+[02:29] So you'll see that's a parakeet on the right-hand side. I've walked past trees where they're literally hundreds of them in the tree and you can't see them at all.
+[02:39] They're really good at camera flash and other birds are too. So you can look for them and spend a lot of time looking for them.
+[02:47] But you're going to find a couple that are out in the open. I'm pretty sure that's because of predators and that kind of thing.
+[02:53] But birds make a lot of noise. So different types of birds make different noises.
+[03:00] Some of them are annoying, some of them are beautiful, but I can certainly use that to build a mechanism to track them.
+[03:09] So I mean, it's interesting to know why bird song is evolved the way it has.
+[03:14] So I did a bit of research. It seems to be natural selection yet again.
+[03:19] And so birds that have increasingly complex songs are sort of selected over once they're done.
+[03:26] And it kind of shows to other mates that they have a more complex brain structure and that kind of thing.
+[03:36] Not every bird actually got the message, every bird species. So if you heard a quote just makes a very rough sound and that's pretty much it.
+[03:45] But you can still track it. That's great.
+[03:49] So the easiest way to go about doing this is we're not the easiest. Sorry. The way that I thought of was to use a technique called beam forming.
+[03:57] And you do a lot of that in radio kind of radios.
+[04:00] Most of the radios that you use today, including some of the Wi-Fi access points and definitely self-owned towers will use beam forming.
+[04:08] Very, very stickier of complexity.
+[04:11] Some of them are super complex and you can have multiple conversations with lots of different phones at the same time.
+[04:18] Like putting a beam out to each specific device from one tower, which is really cool.
+[04:23] So I thought I built one for audio and that's kind of what this thing is.
+[04:28] So I go through what it is. What it looks like, what it sounds like, and then how it helps with the project.
+[04:35] So, um, phase one of the projects, mic for in a way array. That's this thing over here.
+[04:42] The idea is to take a lot of very cheap microphones and instead of one big expensive one.
+[04:48] And then this enables beam forming. So you can put them in a long line.
+[04:52] And then you can do some math and order minutes.
+[04:55] So we have 64 mems microphones here. Mems are like really small microphones that are, you find them in your phones and that kind of thing.
+[05:03] It's very interesting to look at the structure that better when going into detail.
+[05:07] Just very small. You can pack a lot, very closely together.
+[05:11] And then to deal with all the pins and the fact that the microphones you put two together left and right.
+[05:18] So you have to do a bit of clock magic. Use the net 3GA for that.
+[05:23] And then a thing called an FX3, which gives us easy way to push a lot of data through a USB port, in quite an efficient way.
+[05:30] And we can program it as well, which helps a lot.
+[05:33] And then it's software we do a lot of math. So it's quite an interesting math problem.
+[05:38] And there's lots of libraries that you can use that actually solve with this problem already.
+[05:45] So one of the problems is with lots of microphones is you normally have to go and sample each microphone individually, which is a top problem, if you've done that before.
+[05:55] And if I want to do 64, it's close to impossible.
+[05:59] So the idea is to use a microphone that does this thing called PDN. And it literally signals one in zero.
+[06:05] And if you do that really fast, when the ones are close together, you've got a sort of high signal.
+[06:12] And when they further part you got something that's lower.
+[06:14] So instead of using the kind of amplitude of the wave, you use the density in the closeness.
+[06:22] So you can see on the, up there, in the middle there's not so dense and the wave forms actually dropping down.
+[06:29] And it gets closer together, it goes up.
+[06:32] So that means that I can use something that reads series and ones.
+[06:35] And that's an FPGA with lots of pins, which really helps a lot.
+[06:41] And so then what we can do is you can line up the microphones, 64 in the line like that.
+[06:49] And you know where everyone is and you know how far apart they are.
+[06:52] And then what you do is you make sure that you sample them exactly at the same time.
+[06:57] And if you add them all together, you land up with a really nice sort of, you get a lot of extra signal.
+[07:03] So you get 64 times the amount of signal, roughly speaking.
+[07:08] But then if you start doing a quite a clever trick where you start shifting which sample they're looking at,
+[07:14] you can kind of align it with the signal that's coming in from the bird.
+[07:17] So you start delaying the sample that you're processing for each microphone.
+[07:22] And you actually start pointing a beam at the bird or the thing that you're trying to track.
+[07:27] And if you want to do it in a clever way, you can actually track multiple birds.
+[07:31] So if you can do it almost real time from multiple signals, but I've done it for one.
+[07:38] And you can see there basically points one beam across that bird over there.
+[07:44] And it works really well.
+[07:49] So I picked the parakeet.
+[07:51] It makes this, if you've never heard one, don't listen to it.
+[07:54] It's a really terrible sound, but it's like a series of short squawks.
+[08:00] And we've got lots of them in my neighborhood.
+[08:03] So it's really easy, it's quite loud as well.
+[08:05] So it's easy to test for this microphone array or this approach.
+[08:11] So this is what it looks like.
+[08:14] If you're looking, it's actually inverted.
+[08:17] So left is on the bottom and right is on the top.
+[08:20] And the bird is coming along, moving sort of behind me and over the microphone.
+[08:26] And squawking as it goes, because that's what they do.
+[08:28] So it's basically squawking down the left.
+[08:30] And then you see it starts shifting over to the right.
+[08:35] And it's basically shifting over to the right.
+[08:38] So the signal is going across there.
+[08:40] And we're sweeping across the check where it's going.
+[08:43] And you'll notice something interesting on the bottom.
+[08:45] I'll talk about that in a second.
+[08:47] But already you can see that it's working quite nicely.
+[08:50] And there's little blue dots as the bird itself.
+[08:55] So what is this thing over here?
+[08:57] This is a wall that was sitting next to me.
+[09:00] And that's the echo of the bird chirping away.
+[09:03] And you can see it's not quite as strong as signal and this clearer signal.
+[09:07] So you can actually see that it's also three meters away.
+[09:11] And it doesn't really move because it's more about the signal bouncing off.
+[09:15] So I found that kind of cool.
+[09:17] We can also get rid of the signal.
+[09:19] So we can even not have that problem of an echo in this situation.
+[09:25] So you can see from the ground from the right hand side,
+[09:30] where we're not aiming to be, it's not very much signal.
+[09:34] And then as we move closer and closer,
+[09:37] steer the beam.
+[09:38] We start getting towards the thing that we really care about.
+[09:42] And it's about three doubling of the signal strength,
+[09:46] I think it is in this picture between the sort of
+[09:50] trot part and the peak part.
+[09:52] So it's kind of cool.
+[09:54] Okay.
+[09:56] So it's really great to find the direction of the bird.
+[10:00] But what I want to do is also have a camera track it.
+[10:03] I want to have focus.
+[10:05] I'm not at this point yet, but the next thing to do,
+[10:08] all I have to do is add one more microphone.
+[10:11] I'm put it about 20 to 30 meters away.
+[10:13] And then I can get direction and also the distance.
+[10:17] And what we get out of that is we can get some,
+[10:21] we can basically find where the bird is in distance and burying.
+[10:25] And then we can triangulate and then we can actually point a camera at the bird
+[10:29] and focus in on it.
+[10:31] I can know how far to, what the, what the zoom should be,
+[10:34] which is really cool for if you want to get close in on the bird.
+[10:39] That's my next, sorry, this is what I'm going to do after the next thing I'll talk about.
+[10:45] So this is a very fragile piece of hardware.
+[10:49] I don't know if you can see it,
+[10:52] they go.
+[10:53] It is super janky, lots of wires.
+[10:56] I got these little boards that have the microphone on them.
+[11:00] And then you can just line them up next to each other.
+[11:03] It took a long time to build and behind the scenes here,
+[11:06] I'll show you just how bad it is.
+[11:08] But when I go into the forest,
+[11:10] I get a lot of people looking me like I'm very strange.
+[11:14] You kind of used to that, but this time I've got a device as well.
+[11:17] And it's also hard to move around and very strange.
+[11:22] And I wouldn't take this on the tube because I live in London.
+[11:25] Getting against some trouble.
+[11:27] So I plan to make a PCB.
+[11:29] I'm so good board, which will make this thing a lot more robust
+[11:33] and something that I can actually use.
+[11:36] And then also perhaps sell to people if they're interested in
+[11:40] if they're doing research or something like that.
+[11:43] Also better microphones.
+[11:45] So the microphones I have are not the best, but they work.
+[11:49] So I've got a pre-prepared demo and then I've got another one that
+[11:53] like some help from the audience with.
+[11:55] But this first one.
+[11:58] So we're sitting there in our campsite and we've got some birds
+[12:03] that like to visit us.
+[12:05] They have to shout quite loud because E-MF camp makes a lot of noise as well.
+[12:09] So I thought it'd be interesting to show you what it looks like.
+[12:16] This is a video of the tool that I use.
+[12:24] So you can see on the right-hand side is the null sector.
+[12:28] And the left-hand side is some people talking and saying stuff.
+[12:32] And the middle is the bird having a little conversation with somebody.
+[12:37] So it keeps every now and then it's those three little, there we go.
+[12:43] Those three little dots were the bird having a cheap.
+[12:46] And then like I said, null sector and people talking on the other side.
+[12:50] So it's kind of cool.
+[12:53] And then the next, sorry, just one sec.
+[12:59] Let's try and see if this works.
+[13:01] It's very soft.
+[13:03] I'll play it on a second.
+[13:06] I don't know how loud this is going to be, but this is essentially the middle section of the graph of that beam sweep.
+[13:12] It's focused just on that so it should be the bird.
+[13:16] Okay.
+[13:21] Okay. So you can all hear that the super clear that basically has none of the null.
+[13:35] You can hear a little bit of null sector, but I'll play you if we play what happens if we focus on null sector.
+[13:51] So you can see that those are very clearly separated, which is exactly what we want.
+[13:56] We just want to hear the bird when we got the sort of machine going.
+[14:00] So it works out really well.
+[14:02] Okay. So let's try the demo.
+[14:09] Let's, I think I have to just do this.
+[14:13] Where's my mouse?
+[14:17] Give me a second, sorry.
+[14:19] Okay.
+[14:22] Okay, that's how this works.
+[14:25] So this is the, you're head of the curve.
+[14:30] I mean, it's just stop working.
+[14:33] You broke it.
+[14:35] I don't think I've ever tried it on another screen.
+[14:41] You're going to, oh, there we go.
+[14:46] Okay. So can I ask for, where are we?
+[14:51] Hey, good. Can I ask for the people in the right to just give a clap?
+[15:00] Good people in the middle?
+[15:06] And the people on the left?
+[15:09] There you go.
+[15:12] I'm so glad that worked.
+[15:14] Okay.
+[15:20] So, it's off now, sorry.
+[15:25] I could put, we can, yeah, it's fun to play with.
+[15:28] So the inspiration for this was somebody sent me a video.
+[15:34] Someone, my daughter over there.
+[15:36] Same in this video of visualizing birds song.
+[15:40] Because birds song is interesting to listen to.
+[15:42] It's like that you can sense this structure in there.
+[15:45] And you can hear that they're having a chat sometimes.
+[15:48] But certainly it's hard to visualize because when you look at it,
+[15:52] it's, you know, the standard ways of looking at it are not good enough.
+[15:55] So I'm not going to play this.
+[15:59] But I advise that you have a good look at it.
+[16:02] I've got a version of this, which is not nearly as good, but I'll show you that in the interest of time.
+[16:08] So what it's called is an acoustic manifold.
+[16:13] So what you're doing is taking a normal visualization of kind of sound.
+[16:18] And you try to build, take that structure that birds have and map it into something that's visually understandable.
+[16:25] And you can see the patterns happening.
+[16:28] And so we're essentially trying to pick out the normal patterns that birds have.
+[16:34] And then use that to build machine learning models to actually understand what kind of bird it is.
+[16:39] Because the patterns are very clear.
+[16:41] Once you, you can see them.
+[16:43] And you can build a machine learning model that actually understands that kind of space.
+[16:46] And tells you pretty reliably what the bird is.
+[16:51] So we kind of take the normal, the normal audio.
+[16:58] And we break it out into what are called features.
+[17:01] There's a whole bunch of them.
+[17:02] I'm going to much detail.
+[17:04] But you can pull them out and things like how they, how the frequency changes and the pitch and all that kind of thing.
+[17:12] Into a 40 dimensional space is this particular approach.
+[17:16] And then you take all of that and you kind of map it into how it's moving through the space.
+[17:21] Or over time rather.
+[17:23] And then you map it back down into a three dimensional space that we can actually look at and understand.
+[17:29] If you're doing machine learning models or something like that, you're going to basically just work in that original feature space.
+[17:35] And then you could do a bunch of really cool graphics.
+[17:40] And render them out into videos or have a real time sort of view of it, which I've kind of got going.
+[17:49] So what you might see is something like this.
+[17:52] You might see that the bird's doing a frequency sweep which just moves in a line.
+[17:57] And then followed by some sort of troll, or they're sort of, I won't try and make the sound, but it's like a sort of repeated noise.
+[18:05] It spins around like that. It comes out with another frequency sweep and then some sort of simple notes kind of looks like that.
+[18:12] So this is a very basic example.
+[18:15] But yeah, that'll give you a good understanding.
+[18:20] There's not quite what mine looks like.
+[18:23] If I'm honest, where is all on a second?
+[18:31] There we go. Okay.
+[18:33] So I have a website that I built that helps me, I basically take a lot of videos of birds.
+[18:40] So I put them up there and I'll hold out an automation kicks in.
+[18:44] And it builds this for me.
+[18:46] This is really not very pretty at the moment, but it gives me all the information that I want.
+[18:52] And I think it could be a lot better. I'd like to spend time in it.
+[18:57] But at the moment, I'm spending all my time on the microphone array.
+[19:01] There should be audio for this.
+[19:04] So, there's no audio.
+[19:12] Can you guys hear anything?
+[19:14] No.
+[19:21] You can hear it.
+[19:22] Okay, cool.
+[19:24] So there we go. So you can see I can't quite see it there, but let me play it again.
+[19:31] You can see when it moves out into a specific spot.
+[19:35] That's that frequency sweep and then some sort of movement within that.
+[19:40] And this is kind of a real time approach.
+[19:42] So in the field, you could have a look at this if you wanted to.
+[19:46] But you can see it's got a bit of structure to it.
+[19:50] I'd really like to make this better, but this is the way this is the moment.
+[19:55] That's one bird.
+[19:57] And then, oh, I didn't show you the bit where it's actually figured out which bird it is.
+[20:02] So at the bottom here, you can kind of have a look at which.
+[20:09] I think that's wrong on the right hand side, but on the left it's a pretty good great tit.
+[20:15] And let me go for this one.
+[20:20] This is another one.
+[20:23] Maybe it's a bit louder.
+[20:28] There you go. I don't know if you saw that, but as it came out of the deck, kind of movement through the space.
+[20:35] Lusheos visualizations are kind of much better with the tracking and sort of going longer and
+[20:41] dimmer.
+[20:44] And then here I'll show you this bit.
+[20:47] So you can have a look.
+[20:50] Yes?
+[20:52] Okay. That work.
+[20:57] I can't quite see what I'm doing there, but essentially, are there that I'm supposed to be clicking that.
+[21:05] So you can pick that each bird and it tells you what it is.
+[21:09] And then you can go have a look at the waveform here and you can do all sorts of things like that.
+[21:15] So there we go. That's that part.
+[21:19] Cool.
+[21:23] So the thing that I'd really like to get to in the end is to follow a bird's like it goes through
+[21:28] tree or we find it in the tree and you can find it with the audio and then I'd like to track it.
+[21:34] And I've got a pretty good tracking system going.
+[21:38] I don't have it here today, but I can show you the video part of it.
+[21:44] And essentially what we're doing is for every frame of the camera that's coming through,
+[21:49] we're running a machine learning model that is drawing a box around the bird.
+[21:55] And then it is figuring out the next frame what's changed.
+[21:59] So where it has it moved.
+[22:01] So it's alphabet of tracker and then that essentially gets mapped into pan and tilt or elevation and asmoth.
+[22:12] And that will cause a thing to be slightly ahead of the bird and then the next frame, it can tell where it's going again.
+[22:18] And it just tracks the bird quite nicely like that.
+[22:21] The fun bit about this is it doesn't just track the bird.
+[22:24] It also tracks random things like bees, it tracks airplanes, it tracks also things which are not
+[22:30] a lot of the work has to go if this is going to work properly.
+[22:34] But it's a really good start.
+[22:37] So at the bottom there, servers are if you've ever worked servers, they're a bit of a nightmare.
+[22:44] They move and then they kind of stop and then everything shakes a little bit.
+[22:48] And sometimes that doesn't stop properly.
+[22:50] So there's a lot in there to try and make that smooth as possible.
+[22:53] So when it knows it's going to change direction it slows down.
+[22:59] And then what we can do is fuse these things together.
+[23:02] So here the bird, figure out what kind of bird it is.
+[23:06] See the bird try to have a good classification.
+[23:10] And then whichever one is most confident you can actually, you can say that's what it is.
+[23:16] And you've got a nice automated way of finding a bird and then having a video of it and then knowing what it is.
+[23:24] So let me show you one more thing.
+[23:30] On this here, what is the best one?
+[23:35] I don't want to just look at that.
+[23:39] Sorry, there was a really good one that shows what I'm talking about.
+[23:53] Let's try this one here.
+[23:55] That's a helicopter.
+[23:57] Sorry, that's the wrong thing.
+[24:00] But you can see it's a flying thing and attracts it all the way.
+[24:03] That's not what I wanted to show you.
+[24:05] I'm sorry.
+[24:08] This I could have done better with preparing for.
+[24:11] Okay, here we go.
+[24:13] So the one thing I love about pigeons or dives, they pretty much sit in the open.
+[24:18] They don't hide at all.
+[24:19] They're really good test subjects.
+[24:21] Not sure why they get away with it and the other ones don't.
+[24:24] But maybe because they're big.
+[24:26] But you can see that this the bird isn't moving but I'm moving my camera around and is tracking it pretty well.
+[24:32] And it has a go at classifying.
+[24:35] You know what kind of bird it is.
+[24:37] But essentially the tracking is what I care about because we can do all the rest of it later on.
+[24:41] So as long as we got the video, we can do a lot in the post.
+[24:44] It's kind of part of the project.
+[24:47] It's not more my favorite type of bird is a bird pray.
+[24:51] So take a lot of videos of those and for some reason it's really good at tracking those.
+[24:58] Maybe that's ironic or much.
+[25:01] So a classification.
+[25:04] I put a lot of effort into this and I find that essentially it's really hard.
+[25:09] And so it needs people to help with even is it a bird or not.
+[25:14] So the more is it a bird or not I put into the machine loading model the better it's gotten.
+[25:18] But classification what type of bird it is is a bit of a nightmare.
+[25:22] So these four birds here.
+[25:24] Kestle sure would pigeon okay.
+[25:27] Red kite find a rock find.
+[25:30] That's a goose for sure.
+[25:34] Perky yes.
+[25:36] A dov yes and an airplane.
+[25:38] So that's not a bird.
+[25:40] And it keeps trying to track airplanes.
+[25:44] Don't ask me why.
+[25:48] So I've built the websites.
+[25:50] It's there.
+[25:51] You can sign up if you want to upload videos and do things with it.
+[25:55] You can upload video audio and most importantly for this project just help me label things.
+[26:02] The labeling is the hard part takes a bit of time but it's very easy.
+[26:06] If you feel like donating a GPU you just basically run a binary on your machine and then it just does all the processing.
+[26:14] And so it's fun for everybody.
+[26:17] Yeah.
+[26:18] And that's it for my side.
+[26:21] Thank you.

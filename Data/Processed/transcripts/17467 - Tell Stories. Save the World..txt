@@ -1,0 +1,399 @@
+[00:00] I walk with wave.
+[00:15] I walk with wave.
+[00:16] Hello.
+[00:17] I have this interaction as meant to work here.
+[00:20] Are we friends?
+[00:21] Are we talking to colleagues?
+[00:22] This is the MF.
+[00:23] I think we're all just nerds in a field, which is great.
+[00:28] Hello.
+[00:29] As the brilliant introduction said, my name is Castro.
+[00:34] Like the bird.
+[00:35] But not spelled like the bird.
+[00:37] I've done a few things around the MF scene.
+[00:41] I created the NFC Duck game.
+[00:44] Playing around the field.
+[00:46] If you haven't, if you see a rubber duck with an NFC load,
+[00:49] I want it.
+[00:50] Please go and tap it.
+[00:51] And make friends with it.
+[00:53] It's a whole game.
+[00:54] I've also put a text base adventure in the MF arcade,
+[00:58] where you can play as name namesly.
+[01:00] A software developer at Softbank, the World Software Spank.
+[01:03] As you learn how to value a goose.
+[01:06] But I was introduced as an author, and that is generally what I am.
+[01:12] But first and foremost, I am Castro and I am a hacker.
+[01:17] And thank you.
+[01:19] That doesn't necessarily mean I spend all of my time in the terminal,
+[01:23] and I'm going to break into banks.
+[01:25] I've done some of that in my youth.
+[01:27] But I learned very early on because of who I am.
+[01:31] The kind of person I want to be.
+[01:33] The kind of true venue that lived inside of me, that I had to learn to hack systems.
+[01:40] Because they didn't represent me.
+[01:44] As a queer, non-binary person, I didn't see an awful lot of representation.
+[01:51] In all of the systems that were designed to support me in a growing up,
+[01:55] or as I kind of took my steps out into the world.
+[01:59] And so this kid here had to learn how to hack things to make them feel better,
+[02:07] more accepted, more understood in the world.
+[02:11] And my first hack was Sonic the Hedgehog.
+[02:19] As a child of the 80s, and growing up in the 90s,
+[02:23] I had dored Sonic the Hedgehog.
+[02:27] I got to play it on a Sega Master System and on a Sega Mega Drive.
+[02:31] It was one of my absolute favorite things.
+[02:34] And then I discovered a whole world of Sonic the Hedgehog fiction.
+[02:41] And I realized that I, as a ten year old,
+[02:46] wanted nothing more than to see the great epic romance of the century.
+[02:52] I wanted to see Sonic the Hedgehog and Tails Miles Prouder,
+[02:58] finally have the love story that they deserved.
+[03:02] And this realization came, not by hacking the game at first,
+[03:09] but by hacking the Sonic the Hedgehog official,
+[03:14] who's your own adventure game book series.
+[03:18] I found choose your own adventure books for Sonic the Hedgehog
+[03:22] and realize that all these, make this choice turn to this page,
+[03:26] make this choice turn to this page.
+[03:29] I could put stickers over the bits I didn't like,
+[03:33] and hack the story to do what I wanted it to do,
+[03:38] to make me feel seen, represented, to have the epic love story.
+[03:43] That I wanted.
+[03:46] That was my first hack.
+[03:48] Later, then got me into Romm hacking and learned how to do hex editing.
+[03:52] I was hacking save files for emulators,
+[03:55] so that I could make Sonic and Tails kiss him real time.
+[03:58] And then, the Knuckles came along and it was like,
+[04:00] wow, so this is what a polycule is, but there we go.
+[04:04] Sonic the Hedgehog 101 Guide to Relationships.
+[04:08] That'll be my talk in two years time.
+[04:12] So what does this have to do with telling stories or saving the world?
+[04:16] Well, I didn't stay seven years old forever.
+[04:19] I'm actually a few decades on from that now quite depressingly.
+[04:23] And I have had to, at the time, as gone on,
+[04:27] engage with this thing called society,
+[04:32] and this world we seem to live in.
+[04:35] Has anyone here ever had to fill out a form?
+[04:39] Yeah?
+[04:40] Yeah, exactly, right?
+[04:42] If you know any here,
+[04:43] it had to stand in a line for something.
+[04:46] Yeah, society is weird and full of these odd, unwritten rules.
+[04:51] And all of these systems that have crept up that as an autistic queer person,
+[04:57] are non-sensical and almost completely irrelevant to me.
+[05:01] So I had to learn how to survive there.
+[05:06] And even to this day, I start going through a system.
+[05:11] I start trying to engage with something.
+[05:15] And immediately I'm cut off at the first hurdle because of this.
+[05:22] What am I meant to do as a non-binary person,
+[05:26] when those are my only two options on a website?
+[05:30] What stories this telling me?
+[05:35] If I'm the user of something that someone has created,
+[05:39] and I get this far,
+[05:42] I am essentially being hit with the game over screen
+[05:45] before I get past Green Hills own one.
+[05:48] For those of you that are still with me on the Sonic Metaphors.
+[05:52] And it gets worse because everyone thinks, no, it's okay.
+[05:56] We'll just make this bigger.
+[05:58] We'll just expand the list, it'll be fine.
+[06:01] And so we hook up a bunch of things to database.
+[06:03] Outdoor things to developers who don't understand the community
+[06:06] they're creating things for.
+[06:08] We put technology before storytelling.
+[06:11] And we get this.
+[06:16] Or this.
+[06:19] Or this.
+[06:23] Or this.
+[06:26] Or this.
+[06:28] Or this.
+[06:30] Or this.
+[06:33] Hi, my name is Kestrel and my pronouns are no slash vehicle.
+[06:39] And I think fundamentally what bugs me about this is that
+[06:43] at my core,
+[06:46] I am still a seven year old that just wants to be seen.
+[06:50] Much like we're all being constantly seen by a bibliocreacure
+[06:53] at Sonic the Hedgehog.
+[06:55] I know.
+[06:58] But at seven years old, I really did lack visible role models
+[07:03] or a language to describe myself.
+[07:07] And times change in a vulve.
+[07:10] But our systems haven't.
+[07:12] And the stories we tell haven't.
+[07:15] Although I look back in retrospect and think.
+[07:19] They look camp, right?
+[07:21] And when you really look at that t-shirt,
+[07:24] did I really lack the language to know who I was?
+[07:27] I loved that transform as t-shirt.
+[07:30] But anyway,
+[07:32] this is increasingly important for so, so many reasons.
+[07:38] And this is where we get on to saving the world
+[07:43] by telling stories rather than thinking about building systems.
+[07:50] Who here thinks they're a little bit addicted to their smartphone.
+[07:55] Yeah, most of the crowd.
+[07:57] I am too, and I hate that I am.
+[08:00] There are statistics on that as well.
+[08:02] Let's think about teenagers.
+[08:04] Smart phone addiction amongst teenagers is a huge problem.
+[08:08] These are UK's statistics.
+[08:11] Average age of first smartphone ownership is 11.
+[08:16] Suicide risk factor for people who spend more than five hours
+[08:19] on their phones a day, 71%.
+[08:23] 44% of girls and 33% of boys say they have feelings of intense use.
+[08:30] They feel like they can't stop using their smartphones.
+[08:34] I don't know what the stats on non-binary people are,
+[08:36] but a lot of statistics organizations don't believe we exist at the moment.
+[08:39] So it's gray area.
+[08:42] People saying lost sleep.
+[08:44] 67% of young people are losing sleep because of their smartphones.
+[08:49] I don't know about you, but I really value sleep.
+[08:53] Increasingly, so actually.
+[08:56] And then we get to doom scrolling.
+[08:59] A term that five years ago, people wouldn't necessarily have known,
+[09:05] but now is something so prevalent.
+[09:10] UK adults were asked about doom scrolling.
+[09:16] And people say, 27.19% of people say they spend 30 to 60 minutes
+[09:22] doam scrolling and what's doam scrolling?
+[09:24] It's basically the point where you're in a negative feedback loop.
+[09:29] That's not just checking your phone or replying to messages.
+[09:33] That's getting to a point where you are constantly looking at new videos
+[09:38] that are in some way distressing or in some way degrading you as a human being.
+[09:45] That's doom scrolling.
+[09:48] But thankfully, the government is here to save us.
+[09:51] They always are.
+[09:52] Where there's blame, there's a claim, right?
+[09:54] So let's just ban all under 16s from using social media.
+[10:01] Hands up who thinks that's the right solution.
+[10:06] One person in the crowd, which is absolutely fine.
+[10:09] But I don't think that necessarily goes particularly far towards solving the problem.
+[10:17] When we start blaming the user for the failings of the system,
+[10:22] we start encountering a pretty huge problem,
+[10:26] because that's when the systems are in control and not the people.
+[10:31] And I don't know about you, but I'd rather the people
+[10:35] were in control of the things not the systems being control of us.
+[10:40] Small round of applause there, thank you.
+[10:43] Okay, yeah, there we go.
+[10:45] You didn't have to clap, I just thought it was worthy of attention.
+[10:50] So in my mind, it's never about blaming a user.
+[10:55] It's about building better narratives.
+[10:57] Here's where the storytelling part of the title of my talk comes in.
+[11:01] I like I said I'm a child of the 80s.
+[11:04] That was my first computer.
+[11:07] The Amstrad PC1512, it had two floppy disk drives.
+[11:13] No hard drive.
+[11:16] It had a killer refresh rate, it did.
+[11:20] Of one line per second.
+[11:23] It was fantastic.
+[11:25] The one I had had a green screen, I could do word pros,
+[11:28] I wrote some of my first stories on that computer.
+[11:31] I played my first text base venture game on that computer.
+[11:36] Colossal Cave.
+[11:38] Yep, I love it still now.
+[11:40] If I never in a command prompt somewhere I don't know,
+[11:43] I always try blue and zizzy in all the Colossal Cave back doors
+[11:47] to see if they do anything.
+[11:49] But now, I mean, come on, our smartphones are amazing pieces of technology.
+[11:56] Chips, power or chips created by a trans woman that power systems
+[12:03] that run on logic boards that contain more technology than NASA had
+[12:08] to send humans to the moon in our pockets, in all of our pockets.
+[12:14] With screens with resolutions we could never imagine.
+[12:18] Really killer refresh rates.
+[12:21] And we don't just own smartphones.
+[12:23] Everyone that has a smartphone has access to, probably,
+[12:26] at least one laptop.
+[12:28] Of some description, whatever brand or make,
+[12:32] the technology we have access to now blows my mind.
+[12:35] It's amazing.
+[12:36] It is beyond the comprehension of people 30 years ago.
+[12:40] The ubiquitous access, the free flow of data,
+[12:44] the processing power of these machines.
+[12:49] So, in the 40 years between these machines,
+[12:54] and everything that runs on this must be so much better, right?
+[12:58] It must be amazing looking credible, be really user-oriented.
+[13:04] No.
+[13:07] We unfortunately exist in reality where so much of technology
+[13:13] is about consuming.
+[13:17] It's not about sharing.
+[13:19] It's not about telling a story.
+[13:21] It's about pushing a user down a path.
+[13:24] It's about those, how can we tweak our websites
+[13:29] that we nudge someone to click on something and buy it,
+[13:32] even though they don't really need it.
+[13:34] It's not about free choice,
+[13:37] celebrating individuality.
+[13:39] It's about selling things, buying things,
+[13:44] getting people hooked on algorithms so that you can make money off of adverts,
+[13:48] and then you come to an event like EMF.
+[13:51] And you think, why couldn't it be like this every day of the year?
+[13:56] It's a society collapses.
+[13:58] Honestly, I'll be waiting here for all of you to show up
+[14:00] and we can just chill out here forever.
+[14:03] We'll still have Wi-Fi.
+[14:06] As long as the fairies are here, we'll have all that we need,
+[14:10] including a nuclear program.
+[14:14] But this is the issue.
+[14:17] Because we're all here,
+[14:19] and then we go off to our daily lives.
+[14:23] And for a large portion of us, for me, it's very part-time now,
+[14:26] but a large portion of us going,
+[14:28] write some kind of code we built.
+[14:30] I'm kind of when to site we contribute to a system or something.
+[14:35] Whether that's by code writing or by working in a civil service or the NHS,
+[14:39] or whether that's by writing books.
+[14:44] So what are you doing?
+[14:46] Whether you're writing a code or building a system or you're thinking about creating something in the future.
+[14:53] I am asking you today to treat it more like you're writing a fiction novel
+[14:59] than you're building an application.
+[15:04] And I think I have some reasons for suggesting this.
+[15:09] I made the transition from being a full-time nerd to being a part-time nerd slash,
+[15:16] sometimes psychotherapist,
+[15:18] most of the time an author these days.
+[15:21] So for a shameless plug of my book,
+[15:23] this is, essentially, my fifth book,
+[15:26] but the first novel in a series,
+[15:29] this new series of kind of queer sci-fi novels that came out.
+[15:32] First one came out in February this year.
+[15:34] It's had a lovely response so far and that's been great.
+[15:37] But all this to say I'm trying to come from a position of,
+[15:41] I've done a little bit of storytelling now.
+[15:44] I've had some feedback on what works and what doesn't.
+[15:48] But we all know how to tell stories, right?
+[15:50] We learn that in primary school.
+[15:52] You know, you have a start, you have a middle, you have an end.
+[15:55] Easy, right?
+[15:58] But all you need to be an author,
+[16:00] so Jake came made a millions.
+[16:02] Hmm, no.
+[16:05] She made it through racism and transphobia, just saying.
+[16:11] I've not seen that too loudly because genuinely she's suing more and more small authors now.
+[16:16] And I am worried.
+[16:17] I don't have any money for it to take.
+[16:20] But that's okay, we get to secondary school and they tell us.
+[16:24] It's a bit more complicated than start middle end, right?
+[16:27] So you do GCSE English, my brother's a GCSE English teacher.
+[16:31] And it's all you have an opening, you have a build up, yeah.
+[16:34] You use a face as a problem, you give them a nice resolution.
+[16:37] It's tied it up in a nice bundle ending.
+[16:40] Yeah.
+[16:42] That's not really how storytelling works either,
+[16:45] although it's great if you're writing a GCSE English, yes, eh?
+[16:49] What about starting with your character?
+[16:54] And by character I mean user.
+[16:58] Any user coming into your application, your system, your workplace, your reception desk,
+[17:04] wherever you are, whoever you interact with.
+[17:08] But even if you're not even working, even if you're a young person,
+[17:13] you interact with people all the time, right?
+[17:16] You meet new people all the time and when you're going to meet that new person,
+[17:20] start with your character, who are they?
+[17:23] When I'm writing a character, I don't write everything single thing about them,
+[17:29] because to be honest, I know people and they're exhausting.
+[17:34] To note everything down about a person, that's really hard.
+[17:39] I kind of come up with a little map who is my character.
+[17:42] What do they believe?
+[17:44] What are the fundamental things that they're core?
+[17:48] And then I throw them into a bunch of fictional situations and see what they do.
+[17:51] Okay, so this is happening.
+[17:53] How would that character react to that?
+[17:55] So I start with my character, my sonic, my beloved.
+[18:01] And then you have to think, well, what do you want them to be able to do?
+[18:05] If you're creating something for a character, what is that character's arc?
+[18:11] The narrative arc of her journey?
+[18:14] I mean, if you're building an app, you've got to think about, okay, well, I've got a user,
+[18:18] what do I want this user to be able to do?
+[18:20] How do I want them to do it?
+[18:21] I'll be honest, I hate my phone these days.
+[18:24] I was such an iPhone enthusiast when they first came out.
+[18:27] Unashamedly, I was.
+[18:29] I had the iPhone 3G.
+[18:31] I loved it.
+[18:32] I thought it was the best user interface in the world.
+[18:34] Yesterday, I took a photo and I wanted to crop it.
+[18:38] I almost threw my phone out of the window.
+[18:41] How is it so hard to do so many simple things?
+[18:44] And I realized that people just weren't thinking about the narrative anymore.
+[18:50] They weren't thinking about that user journey.
+[18:53] What do you want your user to be able to do?
+[18:59] Or, what do you want them to fall in love with?
+[19:02] I want it to sound like to fall in love with tales.
+[19:06] Okay, if you're working in healthcare, you want someone to be well.
+[19:11] But do you want them to be well and feel like they only got five minutes with a doctor?
+[19:17] Couldn't get the answers they needed.
+[19:19] Do you want to create something that helps people help themselves?
+[19:24] If you're creating an application, if you're creating a service for people, even if it's a back-end service for people you think,
+[19:30] Oh, only people like me are going to use this.
+[19:33] There's no one in the world like you.
+[19:35] You, my friend, are unique.
+[19:37] You are the only person like you.
+[19:39] And you could find someone who looks just like you who likes all the same things that you do.
+[19:43] And then you find out that actually they love raspberries.
+[19:47] And you're allergic to raspberries.
+[19:49] Happens to me more often than you think.
+[19:52] And the one allergic to raspberries.
+[19:54] By the way, please don't give me raspberries.
+[19:58] And so I think fundamentally we get here by asking three main questions.
+[20:02] How?
+[20:04] How is our character going to move through this adventure through this journey?
+[20:10] Why are they doing it?
+[20:13] What are they here for in the first place?
+[20:16] That is one of the most forgotten questions in technology in any kind of narrative or system design.
+[20:24] When I'm writing a book, I constantly have to ask myself,
+[20:27] Why is this character in this situation?
+[20:29] Because in my head, I've gone off on this thing that I think is really cool.
+[20:33] And it's all in my head and I'm writing it down on my typing and then I read it back.
+[20:36] And I think, yeah, but really, my character would have walked in the room and gone,
+[20:40] And walked out again.
+[20:43] So you have to think, if your building system anything,
+[20:49] Why are you doing it? Why are they there? Why should your character use a care?
+[20:54] And who? Not just who are they, but who are you to them?
+[21:00] Who is sonic to tales?
+[21:03] Who is knuckles to sonic?
+[21:06] How do the three of them interact?
+[21:09] This isn't a hackney metaphor for the sake of it.
+[21:12] You have to think about the people at every step of the journey.
+[21:17] How they interact with each other.
+[21:20] And then do some research.
+[21:25] Because not everybody's like you, would you believe?
+[21:29] Not everyone's like the people you've met.
+[21:32] You might be the most tolerant person in the world.
+[21:37] And I'm going to quote my late mother here.
+[21:40] She used to sit there and say,
+[21:41] Now, why are the most tolerant person in the world?
+[21:44] But!
+[21:46] There's always a butt. So research.
+[21:49] Crucially also research.
+[21:52] And finally research.
+[21:55] Because you don't know what you don't know.
+[21:58] And that is okay.
+[22:00] Stop feeling ashamed for not knowing things.
+[22:04] Life is not knowing things.
+[22:07] Learn them. Talk to people.
+[22:10] Oh, a whole set of people I didn't expect are using this app or service.
+[22:14] Talk to them, don't force them into a box. Find out what they need.
+[22:19] So basically, create spaces for the user to choose their own adventure.
+[22:25] Research, or you'll exclude people.
+[22:29] Stay curious. Ask how. Ask why. Ask who.
+[22:33] Treat every tool, every site, every application, every platform,
+[22:36] Every book you're writing, every story you're telling.
+[22:39] As a narrative.
+[22:43] It is only by thinking about the user.
+[22:46] Thinking about the human.
+[22:48] Thinking about narratives.
+[22:51] That we can really get ourselves out of this.
+[22:54] Technological hellscape.
+[22:56] We find ourselves in.
+[22:58] There are lots of other things that need to happen too.
+[23:00] Don't get me wrong.
+[23:01] But that is one thing that we can all do, I think.
+[23:05] And take back to the things that we do outside of the NF.
+[23:10] I'd like to finish on a quote.
+[23:12] Noted by sexual writer Wille, I'm Shakespeare once said.
+[23:16] All the world's a stage.
+[23:18] And men and women and merely players.
+[23:21] Now, I today, as relatively unknown author,
+[23:23] Castro Giam would like to pause a new version of this.
+[23:27] All the world's an interface.
+[23:29] And every interaction tells a story.
+[23:33] And you know what?
+[23:34] It is our pleasure to make it a good one.
+[23:39] All we get to do from here is write the next page in whatever stories we are telling.
+[23:47] It is our responsibility to ourselves.
+[23:50] It is our responsibility to each other to make that story excellent.
+[23:56] Thank you.
+[24:04] Thank you.

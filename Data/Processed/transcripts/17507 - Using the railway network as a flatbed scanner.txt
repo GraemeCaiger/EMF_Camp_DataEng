@@ -1,0 +1,267 @@
+[00:00] You
+[00:17] Hello everyone, so I've got a question for you who here likes public transit
+[00:23] Okay, who here likes weird photography
+[00:27] Well come to the right place
+[00:30] I took this picture very in Oakland out in California using the motion of a fairy, very
+[00:37] moving through the container port and this is just a small part of a much wider picture
+[00:42] because I could only fit so much on the slide.
+[00:45] It, the rest is on my website and it's very detailed.
+[00:49] So now it's, I can, I'm going to try it.
+[00:53] So I've got you intrigued.
+[00:54] I should probably introduce myself.
+[00:56] I'm feeling me in a gray.
+[00:57] I'm a witch from Boston in the US who's constantly distracted by a thousand random ideas
+[01:04] and great fiction.
+[01:06] I do ham radio, oh, and I take a lot of photos.
+[01:11] And while I do many things, graphic design isn't one of the ones I'm good at.
+[01:15] So these are my slides.
+[01:17] Okay.
+[01:18] So now, explain how I took that picture.
+[01:26] So the camera is constantly capturing a single vertical line, like these ones in gray
+[01:33] scale, but it's, there are a lot thinner.
+[01:36] And as the camera moves, in that case, because it was on a moving ship, what exactly
+[01:41] it sees is changing.
+[01:43] And if I capture the lines quickly enough and stitch them together, I can produce a complete
+[01:47] looking image.
+[01:48] It's a bit more complicated than that.
+[01:50] That's why I'm good at talking.
+[01:53] Getting results looking good was a bit tricky, but yeah, that's the main idea.
+[02:00] Mike wonder, why am I doing this?
+[02:02] Why am I causing problems for myself?
+[02:04] Well, allergic to doing anything, normally, especially photography, because it's just not
+[02:10] interesting enough for me.
+[02:11] Normal digital photography is just too practical.
+[02:14] Sometimes even normal film photography is too practical.
+[02:17] That's why I sometimes shoot large format, like, see here.
+[02:24] This whole idea came about because they were looking into digital scanning cameras for
+[02:28] a while.
+[02:29] And I suddenly had the thought, what if the camera moved in the subject state still?
+[02:34] There's been a lot of work on stationary scanning cameras.
+[02:38] This back for a large format film camera, and we're on the right side of the slide.
+[02:44] I did that came out in the 90s, but there hasn't been much on having the camera move
+[02:52] and it's self-move because that would be a bit silly and in fact, right?
+[02:56] So once I had the idea, I had to know if it even worked at all, or if there was a good
+[03:03] reason why I hadn't seen anything about it.
+[03:06] So to do that, I set my phone on my office chair and scanned my sofa by taking a video
+[03:11] as I pushed it along.
+[03:13] I wrote some really terrible code that would grab the leftmost column of each frame and
+[03:17] slap them together into an image, and that's what you see here.
+[03:21] It's something, just things like an image, but it doesn't look that good.
+[03:28] I messed around some more with the post-processing of it and ended up doubling every line.
+[03:34] So show the twice, which looks a bit less squished, but it's still a mess.
+[03:40] You've got these squished sections and these really wide sections.
+[03:43] And that's because I wasn't moving out of particularly consistent speed, and I also wasn't
+[03:46] measuring the speed.
+[03:48] And this was my first glimpse into what I call post-processing how, which I'll be spending
+[03:54] a lot more time in, as it goes on.
+[04:00] I then went out and tried it on a bigger distance.
+[04:03] I pointed it out out of a train on the MBTA subway line near my apartment, and that time
+[04:10] I tried to measure speed, but it didn't work very well.
+[04:14] I had my old phone taped to the seat of the train to use it to tell the robiter.
+[04:18] And I was holding my current phone to the window, take the video, and it's just a bit
+[04:24] squished.
+[04:25] There's just not enough image information there.
+[04:29] We need more.
+[04:32] And I found a way to get more.
+[04:35] This bad boy is a basilar, RUL 248-19GM, and it's called that, because it can read its
+[04:41] one by 248 pixel image sensor, just shy of 19,000 times for a second.
+[04:47] It isn't even capable of doing fewer than 100 lines for a second.
+[04:51] It's designed to be pointed out fast when we can verify our belts to do Michigan Vision
+[04:54] stuff to them.
+[04:56] What is the train network about a very complicated conveyor belt?
+[05:03] You might think it'd be expensive, and yeah, brand new somewhere in the range of call for price.
+[05:09] But I found it on eBay for significantly less than that.
+[05:12] I think it was less than $100 ship to me.
+[05:18] And with only a bit of swearing at the vendors toolkit, I was able to get an image out of it.
+[05:23] I think this is pretty good for just moving it freehand through the air without measuring
+[05:27] the speed at all.
+[05:29] I think this might just work.
+[05:31] Oh, my.
+[05:34] Yeah.
+[05:35] Then in order to take on a train without having to have three hands, I need a case for
+[05:39] it.
+[05:40] So I made some attempts at mechanical design, and asked my friend Brooke to three
+[05:44] different it.
+[05:46] It came out pretty boxy and utilitarian, but hey, it works.
+[05:51] We keep that insert in it to mount to a tripod and let plenty of space to attach sensors.
+[05:57] And let's take a look at those sensors.
+[05:59] I probably should have attached them some way other than blue painters tape, but it works.
+[06:05] Yeah.
+[06:06] So in clockwise, we've got the at the accelerometer.
+[06:10] So with a bit of maths, we can gauge the speed of the camera and thus the train are moving
+[06:14] out.
+[06:15] There's a GPS, but it didn't end up working how I'd like because the trains in Boston are
+[06:21] a bit too good at blocking our radio signals.
+[06:24] And those are connected to a visecware C. Each of them, microcontroller, is shunt the data
+[06:28] off to my laptop.
+[06:30] The lens on the front is a Vivitar 28 mil F2.8.
+[06:33] I all, do you have for more normal camera?
+[06:36] It's field of view is good enough for most of the shots I'm trying with it.
+[06:40] And this whole thing is powered off a USB-C battery bank, and there's also an Ethernet cable
+[06:44] running to my laptop.
+[06:45] So it's a bit of a cable spaghetti monster running action.
+[06:58] So with the sensors attached, I can, if those are a try, these are both, these pictures
+[07:04] are both the same capture.
+[07:06] But the top one is just the raw image, and the bottom one is taking accelerometer movement
+[07:11] into account.
+[07:13] So as you can see, with the accelerometer, everything looks a lot less stretched and closer
+[07:17] to normal.
+[07:18] I'll explain a bit more of how I'm taking that into account when I talk about post-processing
+[07:22] hell.
+[07:25] And yeah, so I took it on a train and started off on the orange line again, and went back
+[07:31] and forth a couple times.
+[07:33] But as you can see, the results aren't very good.
+[07:36] The previewing was coming out of the camera, it was a pain.
+[07:39] So I kind of had to guess on the exposure, and I definitely guessed wrong, and the post-processing
+[07:44] code, it did not work very well, and everything is very oddly stretched and compressed.
+[07:51] But hey, it's an image.
+[07:53] Maybe I can get this on and go to this.
+[07:57] We now again, on a day with nicer weather, and had some better luck with the exposure, but
+[08:01] I think I messed up the focus a bit.
+[08:04] I took this one at Roxbury Crossing Station near the south end of the MBTA orange line,
+[08:11] and you can tell that because the text is legible on the station signs, the catinary wiring
+[08:17] you can kind of see in the background, the second bit, is the Amtrak Northeast corridor,
+[08:22] and that's why I went into that particular direction.
+[08:26] And then particularly happy with how this one came out, it took it while crossing the
+[08:30] long fellow bridge from Boston Cambridge, and this one's up on the website, so you can
+[08:35] see the whole thing.
+[08:36] If you'd like, I will admit I've read this with my new post-processer, but that mostly
+[08:42] just made it easier.
+[08:45] It didn't change the underlying image.
+[08:51] And then this was the software I was using to preview, we got that point, and it comes
+[08:56] from the camera vendor.
+[08:58] That small horizontal black section was all I could see of the image at any one time, and
+[09:04] it's rotated 90 degrees off from how I'd like it.
+[09:06] It's honestly better than the software I've encountered, but dialing in the exposure,
+[09:12] stopping it, and starting my own code would back up, all before the trains started moving
+[09:16] again, was a right pain.
+[09:19] I got annoyed enough about it that I built a GUI about it, using dear imgui.
+[09:25] Most of it had a single sleep to the side of Toronto, or it felt like rotating the image
+[09:29] was a single hardest problem in computer science.
+[09:32] But despite that, it seemed to work.
+[09:45] Then as I went out and took more pictures, ran into another problem, the camera and the
+[09:49] which using it both looked incredibly suspicious.
+[09:53] So this is massive wires going off to my laptop, and into my backpack, and it's all
+[09:57] held together with tape, sometimes a lot of tape, like this, it's time, and because that
+[10:02] trip I forgot the tripod mount play it, it's had to hold together with tape, which
+[10:08] definitely didn't help with the goal of not looking sketching.
+[10:14] So far, I've only been seen, not set or sorted, not on wood, but I'm a trip to Montreal.
+[10:27] I was stopped by security in the station and was asked a phone play, whether I was recording
+[10:32] or taking a picture, and it was informed that tripods were not allowed.
+[10:36] Rather than try and answer that philosophical question, I just said, does it lay up on
+[10:42] what everything away?
+[10:44] And here's the photo I was taking in that happened.
+[10:49] The rest is again on the website.
+[10:51] That particular stretch of the Remline, the Intored Garson Thrall, is a very interesting industrial
+[10:56] views.
+[11:00] So sometimes that picture is taken, it's time to try and make them actually look good.
+[11:05] This proves to be a pain.
+[11:08] That's why it's post processing hell.
+[11:09] Because the camera's capping so quickly, I have more lines than I could possibly need.
+[11:17] But the question is which ones do I pick?
+[11:20] If I pick too few, it just looks squished like the photo on the left, after an auto-rejun
+[11:25] Quebec.
+[11:26] And if I jump between sections of lines too quickly, it looks artificial and wrong.
+[11:31] Like you can see, if you look at the water line on this album cover added, the photo
+[11:37] is added.
+[11:38] And then if I take too many lines, everything looks stretched and untaligable.
+[11:44] So to decide that, I ended up using the speed measured with an accelerometer, but this comes
+[11:50] with a bunch of problems of its own.
+[11:52] Firstly, the accelerometer isn't actually measuring the speed.
+[11:56] It's measuring the acceleration or the rate of change of the speed.
+[12:00] I can take the integral of that, but that's relative to a starting speed.
+[12:05] I can usually assume that the starting speed is at a station and is thus zero, but I can't
+[12:09] be certain of that.
+[12:11] And if it isn't zero, I have no good way of knowing what it is and just have to guess
+[12:15] values until I find what it smells right.
+[12:18] Secondly, this diagram attempts to show.
+[12:22] Oh, the accelerometer I'm using is only measuring so quickly.
+[12:27] The camera is grabbing lines maybe four times faster than it.
+[12:31] So every few lines have to share value for speed.
+[12:34] But also isn't reading very consistently because my microcontroller code isn't as fast
+[12:38] as it could be.
+[12:40] So that can cause some irregularities in the final image.
+[12:44] And then also how many acceleration measurements there aren't also changes how accurate
+[12:49] the integral is and can impact how accurate the speed is.
+[12:57] You might remember that at back at the beginning, I mentioned putting a GPS receiver on the
+[13:01] camera.
+[13:02] Probably did do that, it wasn't very useful.
+[13:05] It didn't get signal on most of the trains I tried it on and when it did manage to get
+[13:09] one, it could only read 10 times a second, which covers like 400 entire lines.
+[13:16] And if it works a bit more consistently, it could be useful for correcting for integration
+[13:20] error, but that is a problem for future me.
+[13:26] And then even if my speed measurement is perfect, I still have the problem of parallax.
+[13:32] Things closer to the camera appear to be moving faster than things further away.
+[13:37] And these three images are each, the same number of pixels, all out of the same capture,
+[13:43] but effective 10 times slower each time.
+[13:47] The street light and sign that are the main thing in the first image are just a small
+[13:50] detail off to the side.
+[13:54] The next power of 10, and then at the next power of 10, the building is just the river
+[13:58] come into view because of how much further, or because of how much further away they
+[14:02] are than everything else.
+[14:04] And then the camera, the camera and the software have no way of knowing what you want
+[14:09] to focus on, so I have to pick that manually for each segment of the image.
+[14:13] And it's rather annoying, but I can't really automate that.
+[14:27] Again, the influence of this post-processing is called grindstone because it grinds the
+[14:31] multi gigabyte raw file down into smaller usable captures.
+[14:36] The first version I wrote was unbelievably slow and took a couple hours to process a couple
+[14:40] minute long capture, and half the time it wouldn't even save properly anyway because they
+[14:45] had made it too big for a jpeg.
+[14:48] So I noticed I might friend Maddie into writing a new version that runs a lot faster,
+[14:53] and I thought I could use more to use hard words, turned it into a magical girl.
+[14:58] And since it isn't accidentally copying the entire image thousands of times, it usually
+[15:03] finishes up in a few seconds, and then since it's so fast, I can try out various values
+[15:08] for the focus and really dial that in to get very crisp results.
+[15:21] Yeah, well, searching eBay one night, I saw a really good deal on a color line camera
+[15:25] from the same manufacturer and went for it.
+[15:29] It's slower because it can only capture 9,000 lines for seconds to 18 in the monochrome
+[15:35] one can.
+[15:36] But I think that's reasonable for getting red, green, and blue.
+[15:40] It was pretty much perfect timing too, because spring was turning into summer where I live
+[15:45] and Maddie and I had got in grindstone into a barredly working state.
+[15:50] And I thought it wouldn't be too difficult, but turns out that three times as many
+[15:58] lines means three times as many problems.
+[16:01] And on the left, you can see these weird, wavy lines under the flag, and on the right
+[16:06] all those leaves are way brighter than they should be.
+[16:11] The weird wavy lines and color fringes turn out to be inherent to how this camera sensor
+[16:15] works.
+[16:16] The red, green, and blue are each separate vertical lines, and thus can't see exactly
+[16:21] the same thing at the same time.
+[16:24] And just because that's not how normal optics work.
+[16:31] So you get these fringes when just one line sees something, and it's particularly noticeable
+[16:35] if it's particularly bright or dark.
+[16:38] And how big they are, a big the fringes are depends on how fast the subject is moving.
+[16:44] So it's the same problem for earlier with parallax.
+[16:46] You can't collect, collect, forward on the entire image.
+[16:50] And right now I do just correct for it manually, which is a pain.
+[16:59] Then the weirdness with the colors, especially of trees and leaves, are because the color
+[17:04] camera can see into infrared range.
+[17:06] The edge of human vision is somewhere around 750 nanometers, but the camera is still sensitive
+[17:12] if a fairway is beyond that.
+[17:14] And the green and blue channels are also sensitive there, so I can't just turn down the
+[17:18] red gain to know for the best.
+[17:20] I have to stop infrared light from hitting the sensor somehow.
+[17:23] The monochrome camera can also see into IR, but since it's not as sensitive there, it
+[17:28] doesn't look as weird.
+[17:32] All of this with the IR cut filter on the lens, which doesn't light longer than 700 nanometers
+[17:38] through.
+[17:39] And in the top one, you can see that the colors look pretty normal and the sky looks blue.
+[17:45] Unlike this middle one without the filter, the sky is the same light green as the trees.
+[17:52] I also tried a 720 nanometer filter, which only passes infrared.
+[17:57] And I'm definitely going to experiment with that some more at some points, but haven't
+[18:02] done so yet.
+[18:03] Here's why I took without a filter on the rock port line north of Boston.
+[18:11] The angle of the sun was that, made the IR effects really pronounced.
+[18:14] Like, if you aren't looking at the RGB fringing in the background, it might almost forget
+[18:19] it's a color image.
+[18:23] It's on the website to take a closer look at, like.
+[18:30] And to this one with the IR cut filter on a ferry heading south from Boston.
+[18:36] And because there's look pretty normal, but everything is a bit too far away because I
+[18:41] brought the wrong lens.
+[18:44] I think it still looks pretty good, but there's definitely a lot more to experiment,
+[18:49] right?
+[18:50] Like to thank my accomplices, meadow, brook, arri, maddi, hyano and cat, and for writing
+[19:08] trains and ferries with me and helping out a lot with the code and mechanical design.
+[19:12] We were all in for them.
+[19:14] None of this would have come out anywhere near as well as it did.
+[19:20] Thank you for being here.

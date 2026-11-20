@@ -1,0 +1,153 @@
+[00:00] I'm Shaudet, and I'm presenting a talk on data visualization, the good, the bad, the ugly and
+[00:19] beautiful.
+[00:21] So a little bit of background from me. I'm a PhD student at the University of Manchester and I'm
+[00:32] studying this basically for a living, the psychology of what makes state visualization good or bad.
+[00:41] So I'm residing home today. Thanks to this little menace. I trust my uncle and rabbit hole at
+[00:47] conference a couple weeks ago. So space safe out there when you're coming back from North Sector.
+[00:54] Yeah, they danger comes in many forms. So what is data visualization? Well,
+[01:04] rural geeks here I think we all know what data business is. It's representation of data in
+[01:12] graphical form. So whether that's line graph for your bar charts or some of the more unusual visualizations here.
+[01:20] What we're going to be talking about today is what makes state visualization effective? What makes a
+[01:26] graph good or bad aesthetically pleasing or just plain ugly? So data is effective because it turns
+[01:35] a numerical problem into a perceptual bond. It allows us to use these lines different parts of
+[01:41] brain for the same task. So we've got a say we have a very simple representation of data here in
+[01:49] a array. These are the council action results from May. If we wanted to again, I did have what this
+[01:55] data of the relationships between these different parties, how well they did, relative to
+[02:03] another. It's quite hard to do. It takes a lot of serial processing. However, if we encode this data
+[02:13] visually by taking the size of the data point as the length of a bar in a bar chart,
+[02:21] suddenly we can obtain a parallel processing capability. Instead, we can instantaneously compare
+[02:30] the results of the different parties across the visual space.
+[02:37] Data visualization also allows us to use our patent detection abilities. So we could have a very
+[02:43] boring overview of the data set like this, very bog standard, not much interesting happening here.
+[02:51] However, if we instead represent the status set by very data set in the X, Y plane,
+[02:59] sometimes unusual patterns can emerge. So we can see that data phase is inherently a
+[03:07] perceptual process. This is in fact related to why data visualizations can go wrong. So the same
+[03:13] reason is that they can be effective. There is a trade-off by visualizing data. We all show
+[03:20] around ourselves vulnerable to visual spatial bias. So today I'm going to introduce some rules that
+[03:27] you can use within your own data visualization practice to help people understand the data better
+[03:36] and maybe even become more engaged with it as well. However, I'm going to call these rules of thumb
+[03:42] rather than strict hard rules because as we'll see, there isn't really a one size fits your policy
+[03:48] here. We have to take a huge amount of different considerations into account. Now, the first rule of
+[03:56] thumb is actually very straightforward. We need to simply make sure whenever we create a visualization,
+[04:03] we map the graphical size to the data size. So we're going back to the causal action results.
+[04:08] We need to make sure that there is a linear mapping between the magnitude of the data in this
+[04:13] case the number of party seats and the graphical representation of that data in this case the length
+[04:20] or slash area of the bar. Now, this rule is the most important because it can be used to do the most
+[04:30] harm. I'm going to call upon the king or should I say president of bad visualization design here
+[04:38] Donald Trump who in this particular chart has visualized a poll lead against Kelly Clinton in 2016.
+[04:52] So this chart on itself doesn't look too bad. It's not even particularly ugly. However, it is
+[04:58] extremely misleading. The difference in the distance between the bars here does not match up to the
+[05:06] data at all as the post by Washington Post shows if Trump wanted to visualize the data correctly,
+[05:14] it actually looks something more like this. Okay, going, going. There we go. Okay, so as you can see,
+[05:23] if you are to visualize the data linearly or honestly, the really is not much of a difference at all.
+[05:30] So this point is the most important for visualizing data honestly for good charts as it were.
+[05:38] But fortunately it's also the easiest rule to follow because with modern visualization software
+[05:43] whether using something out in the box, like L, sorry, like Epsil or something a little more complicated,
+[05:50] like GG plot or D3, the computer will handle this for you. You have to really try and break
+[05:58] the system to go against this particular rule of thumb. Now I would normally say
+[06:05] modern software has made this easy. However, with the rise of AI unfortunately, even something
+[06:12] simpler as this it gets wrong. In the particular case of AI image generators because of
+[06:20] hallucination artifacts is easy to it's very easy to mess with simple linear mapping rule up.
+[06:28] Even in dedicated scientific diagram image generators, the best can't get this right at the moment.
+[06:38] Okay, so we've got a good initial rule. But obviously there's so much more visualization in that
+[06:44] such as what type of chart should I use and this is actually really important because although
+[06:52] mapping data one to one is a good start, it isn't the whole story. Some visualizations are easier
+[06:59] for a visual system to compare the others because we compare some visual variables linearly and
+[07:05] other variables less than linearly. For example, we have really good at comparing positions such as
+[07:11] line graphs or bar charts, the rate of error for these comparisons is pretty low. However,
+[07:18] we are less accurate to under compare areas, we tend to underestimate larger values such as
+[07:24] in the tree map at the bottom. Similarly, we are usually better at processing bar charts and pie charts
+[07:31] and we're really bad estimating volumes. So 3D charts aren't the best of bet. If you ever
+[07:36] be in a felt you've been short-change at the bar, maybe have a think about it that the next time.
+[07:43] So when accuracy is the most important, it's best to choose a simple comparison over a complex one.
+[07:50] However, of course there are times that we might want to perhaps we consider this,
+[07:57] which brings us to one final consideration for this rule that can sometimes catch a sound
+[08:07] to do with color. We don't actually perceive the lightness of color linearly across to the RGB space.
+[08:14] Yellow and cyan looks a lot more intense than a dark blue or red. So if you're using a continuous
+[08:21] color map, try to use a perception-acquivarated one instead. Like one's shown here, although try to
+[08:26] also make sure that it's colorblind friendly as well. So we now to map the data one to one.
+[08:34] And we have a good rule of thumb for what type of chart to use. However, some discretion is advised
+[08:40] tip because it's important when we visualize some data to ask yourself, what is the value that you want
+[08:47] your readers to compare? What specific information do you want them to get out of the chart? For example,
+[08:55] if you've got lots of different groups and you simply want people to compare them to one another,
+[08:59] try a bar chart. However, if you actually want people to compare the size of one group,
+[09:06] relative to the whole, actually a pie chart is just as good as sometimes even better for this task.
+[09:14] The reason this is the case, imagine for the bar chart, you want to compare the size of
+[09:20] say the red bar at the left, relative to the size of a whole chart. To do that, you'd have to
+[09:26] mentally stack up the size of all of the charts and then compare that mental comparison with the
+[09:34] group you're trying to compare. It's quite difficult to bring it to the pie chart. The proportions
+[09:39] are instantly available to you and it's much less cognitively taxing. Similarly, in election maps,
+[09:48] this is also very important. This is an honest election map. It shows you where people voted.
+[09:55] Pretty interesting. But it distorts a idea of which party did better because
+[10:04] it turns out one versus one party tend to live in larger areas, but it's not land that votes. It's
+[10:12] people. If we want to make what we're actually trying to show is the number of votes,
+[10:18] which are made sure that our mapping is actually honest to that task at hand.
+[10:27] We've got some good rules of thumb for generating honest charts. But it's a bit boring, isn't it?
+[10:33] So much presas. How do you make these charts like interesting and engaging? But at the same time,
+[10:40] not being misleading either. Well, this is where it becomes a little bit more than art. But there
+[10:48] are still some really some that can get, it can start to nudging the right direction. One of my favorite
+[10:53] for these is adding a benchmark. So the best way to illustrate this is with a case study that I found recently,
+[11:02] which was for on the topic of looking at land use within the UK, where does our food come from
+[11:10] essentially? So this paper found that over-air-sized associated with the UK diets is about 24
+[11:23] 38 million hectares. And one way you could visualize this, at least across time here,
+[11:29] is with a stacked chart like this. It's okay, it's not the prettiest, but it is honest,
+[11:37] but it doesn't really give us a good idea of the scale of the situation. I mean, I don't know about
+[11:44] you. But I don't know how big a hectare is, let alone 24 million of them. And so I though I have a
+[11:52] good idea of ratio, the grassland is used more than feed crops and feed crops. So that's sorry,
+[11:58] I should say grassland is like beef pasture. I don't really have a good idea of how important this is.
+[12:05] So well, the massive food strategy paper did was concretize this finding. But
+[12:14] supplanting these results go wrong on top of the UK. And suddenly, I have a much better idea of
+[12:24] the sheer scale of the situation. I can see that it takes me about eight hours to drive through all
+[12:30] the beef and lamb pasture that we use within the UK. And comparatively, the built up area is
+[12:36] only a compass about whales roughly. This chart actually caused me to really reduce the beef
+[12:46] consumption as a result. Slide here, this is actually how much we use overall. Quite sobering,
+[12:56] but very, very effective. So if you're unsure what to start with, making your visualizations
+[13:03] brought engaging, adding a visual benchmark like this, something that people can relate to,
+[13:09] is a really, really good strategy. And when final rule of thumb here, I won't call it a rule,
+[13:16] but just something to take away, I guess. We've gone on about bad and good and beautiful and
+[13:23] ugly charts here. But I think sometimes ugly is kind of beautiful. As a case, and now there's
+[13:32] right side of it's strange, but hopefully I could try explaining. Sometimes, of data visualization
+[13:39] in trying to be beautiful, can it obscure some of the underlying complexity with a dataset. And
+[13:47] actually embracing the complexity can produce effective charts in their own right. One example of this
+[13:53] is for a really good website called Where does it all go.com, which summarizes the UK yearly budget,
+[14:01] splitting 1.37 trillion pounds into all these different pops, like welfare, health,
+[14:08] education, all in their various billions. And this is a difficult and complex picture. So how
+[14:14] do we visualize this? Well, we can make show how difficult and complex it is with a pie chart like this.
+[14:23] Now, I want to hand this chart breaks so many of us visualization. A, it's a pie chart, which some
+[14:28] people dislike. I don't really mind them so much. But, you know, but more importantly, there's so many
+[14:35] slices that, you know, it is visually hard to read. But I think that's what makes it also visually
+[14:42] engaging. Because this plot also has interactivity. It allows you to delve into all the complexities
+[14:51] of this chart and compare different pops to another in a very effective way. So I think personally,
+[14:59] if you tried to make this more beautiful, I think it would detract from the message or at least the
+[15:07] objectivity of the overall chart. So, and one final little quirky example here, a person you
+[15:18] quite like, you might have seen Elon Musk's in the news recently, he's recently become a trillion
+[15:22] air. He now has $830 billion. And what this chart does is visualize the data.
+[15:33] Visualizes wealth, relative to the size of this tiny little pixel here, which represents
+[15:39] $1,000. And from that, it is essentially one big bar chart. But unlike an average bar chart,
+[15:51] which usually fits within the size of a page, this chart instead is just a state incredibly objective
+[16:01] and just lets the sheer size of its wealth speak for itself. So you can see here,
+[16:11] by just simply scrolling along its wealth, I've been talking for about, you know, 30 seconds here,
+[16:18] we're only at 0.40% on overwinds, reason that worth. And you know, you could compress its wealth
+[16:25] down into like, you know, an easily readable, 90-digested visualization. But I think doing it like this
+[16:34] is so effective because of how ludicrous it is. It's harder comparable, these values definitely.
+[16:40] And in that sense, it's perhaps not as useful, but what it gains is just the sheer size of the
+[16:48] data, the sheer horror of the incredible inequality we live in right now. So that's five little rules
+[17:00] of thumb that I hope you can take away for your own visualization projects. I think what is important
+[17:10] to remember is that data visualization is a sexual process. And so when we're visualizing
+[17:19] data, which is trying to use things linear and simple, we're possible, but also try to keep
+[17:23] the visual task in mind. We can try and visualize our data with a benchmark we're possible. And
+[17:32] the data is weird enough, sometimes embraced it ugly. I will admit obviously, as
+[17:40] a lot to take in. And there's still lots of research that's what I'm doing by PhD in this area.
+[17:48] But if you want, you could resource us for creating your own visualizations. I have to recommend
+[17:53] duty plot to if you have local data sets. It's definitely I'd say that you just jump into because
+[17:59] it's got a really nice syntax. But also observable and is a good online option as well.
+[18:05] And if you want to get your teeth into this kind of thing, tidy Tuesday is really good.
+[18:12] Basically it's a project where every week I shiny, interestingly, data set is released and you
+[18:20] can compare your results to other tidy Tuesdays around the world. There's some good
+[18:30] blogs out there as well, which go down into some of the principles I've talked about.
+[18:36] And how charts lie by a better caro is a good book on the subject as well.
+[18:43] Finally, I'm on LinkedIn if you want to ask any questions. Obviously, I can't come to the Q&A
+[18:48] and I know LinkedIn's that's, I did it was like a blue sky. I should probably get on that at some point.
+[18:56] But this is why I'm findable at the moment. And yeah, thanks for listening. And thanks to
+[19:02] everyone at EMF, helping me organize this, I'm always unsure if I was able to present it.
+[19:07] But it was really nice to be able to do so. So thanks.

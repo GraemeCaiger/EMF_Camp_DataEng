@@ -44,7 +44,10 @@ Questions to consider: what normalisation level? Reasons to choose given fact or
 
 
 
-
+# Current todo 
+- [] Refactor to send not tabular data to landing zone and then subseqently to bronze silver gold etc.
+- Seperate notebooks into folders Extract, Transform and load refactoring as neccesary. 
+- Data from experements like getting weather, villages etc should have their own notebooks. mqtt_get_villages.ipynb etc. 
 
 
 

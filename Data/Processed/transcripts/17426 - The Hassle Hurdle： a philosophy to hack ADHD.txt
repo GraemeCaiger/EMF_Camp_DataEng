@@ -1,0 +1,328 @@
+[00:00] Thank you.
+[00:07] Hello, well, my concern is great. I'm Autumn, Tullix, she here. This is a talk on ADHD.
+[00:27] I have ADHD that may become apparent at some point during the talk. I'm going to start with the
+[00:33] professor. I am not a software dev. I work in theatre as a lighting programmer. It's not that kind
+[00:39] of programmer. It's a window software. It's complicated. This is talk is designed to be an approach
+[00:47] to ways to approach dealing with ADHD. Yes, there's some complicated technique, but I have not got the
+[00:55] problem. It's a code from Stack Exchange. I hope this is approachable to people who are not the
+[01:01] normal people who attend the EMF. I have a ADHD. I have suspected I had it for a few years
+[01:12] since I started uni. The last two of which I suspected I thought it was on the way to the
+[01:19] NHS. I was not. I have now spent too much money to be diagnosed and it is going great. All of this is a
+[01:29] professor to say, if you can, you can get medication and you think it might work for you and it's within
+[01:33] your means. I really suggest you try it because it can make a world of difference even if it's not perfect.
+[01:40] I've been tinkering since I was very young. I'm not going to real my age for health and safety reasons, because I think
+[01:47] you might have a heart attack. I've been building machines and taking a part for basically as long as I've been alive.
+[01:54] I could use the computer mass before I could walk. I never grew up with a nearest attack. My family
+[02:03] were not a particularly techie household. One hour was growing up in the only two thousands of my
+[02:08] computers from the early 90s. I grew up with tech that was a bit rough around the edges. I grew up
+[02:16] before the age where everything was moved over and worked. I'm actually really happy that I grew up in
+[02:20] the age where I had to tinker with things to make them work. How I wanted them to.
+[02:28] The influence of that file, I was a kind of seat to every aspect of my life.
+[02:32] Being a school teenager, I had fairly normal teenage problems. I hate to do homework and I didn't want to get out of bed
+[02:39] in the morning. I thought I could fix it and a very 2010 style. I thought I could fix it with an app.
+[02:46] These are the two apps I tried. One of them has a really stupid name. It's called AM droid,
+[02:53] which is your search engine optimization is horrible. It's basically an arm at where you can configure it and
+[03:02] you can lock your locked turning off the alarm in certain ways. I started where I
+[03:08] printed out as a QR code on the family printer. I stuck in the bathroom and I figured,
+[03:14] I have to get up and go into the bathroom and scan the QR code to turn the alarm off.
+[03:19] That QR code got wet quickly. I became an RFID tag. I'm probably two. My family got quite annoyed
+[03:26] when my alarm wouldn't go off and I couldn't turn it off. I came up with a great solution of this.
+[03:32] I could just force closed the app. I didn't have to go out of bed.
+[03:38] I told the two of them to turn my alarm off and I get more time in bed.
+[03:42] That's the other app I use it for a bit. The most horrifying bit is that it has a feature that
+[03:51] you enable it. If you force closed the app, it automatically deducts five pounds from the bank account
+[03:56] and sends it to charity. I wore as broke and I figured I'd better not make myself bankrupt.
+[04:05] So I thought I'd better come up with some better solutions.
+[04:11] In, I was in my early teens at my granny's flat and I was watching a video by a guy that
+[04:20] loved to wear a red shirt all the time and his friend with curly hair. They made a five second bit.
+[04:27] Now, if you're on the internet a lot, you may have the curse of having some impressionable young teenagers watch you.
+[04:34] In the best case, you can have a really positive influence in my life. In the worst case, it can be a real horrible influence on your life.
+[04:40] In the middle case, you can do a cheaper five second bit which gets and that hasn't become the philosophy of how they're going to live life for the next ten years.
+[04:48] And that became the David Hasserhoff Hasserhoff Hasserhoff.
+[04:51] When I heard of this, I did not know who David Hasserhoff was. I just thought it was a funny name and I stuck with it.
+[04:58] And it's just kind of stuck with it for ten years, which is scary.
+[05:04] There is kind of developed it into three philosophies. The first is stuck.
+[05:10] So if you're measuring your hurdle, you want to make your hurdle as tall as possible on the things that you think you need to do.
+[05:17] For example, get out of setting a long clock for your next morning shift or make sure that you're like checking your calendar and things like that.
+[05:28] So you want to make the things that you need to do is easy as possible to do.
+[05:32] The second philosophy is jump where if there's anything that you don't, you realize you don't want to do, for example, like scrolling a letter to the social media.
+[05:41] You want it to make it hard enough that you want to make it possible, but you want to make sure that you think before you do it.
+[05:49] It becomes, and then, but you really don't want to make it too hard to do, because otherwise you're going to the third philosophy.
+[05:57] Who put this hurdle here? Let me swiftly move out of the way and continue with my day. This is, if you make your hurdle too high, you will just disable it, get annoyed with it and everything about it again.
+[06:08] And again, as with force closing the alarm at that causes problems.
+[06:12] I shortened it to that.
+[06:15] I'm not going to attempt that.
+[06:17] But if someone who's a linguist, it wants to try it, they're welcome too.
+[06:22] But kind of rules there to all that this is to be kind to yourself.
+[06:25] You're not going to, you're not going to get anywhere if you build all of these fancy systems and then they don't work and then you beat yourself up, because they don't work.
+[06:35] It's like, you're adding extra stress into your life. It's not worth it.
+[06:39] So if you find yourself that anything you're doing is like anything, any of your coping mechanisms are causing more stress.
+[06:45] It's honestly easier to kind of play the use strip of them away and try again.
+[06:49] There's no, like, we already have people with ADHD and the lives already have enough stress.
+[06:54] You don't need to add more on your account.
+[06:57] So part one duck, I'm going to bring my notes up because, got it.
+[07:03] So again, it's to say things you want to do is easier as possible to do.
+[07:07] So I'm a big believer in cognitive load.
+[07:09] Cognitive load is just, if you have so many things you're worrying about and if there's anything you can do to reduce the things you need to worry about,
+[07:18] that becomes a massive benefit to you.
+[07:23] As I said, my main job isn't theatre, it's a nice programming.
+[07:26] There are so many processes that we have to follow in everyday work.
+[07:29] I'm not going to cover anything I do at work here, but I do do a lot of things to help with ADHD at work.
+[07:33] And those can be right out to help with co-workers.
+[07:35] If you forget something frequently, it's almost guaranteed that one of your co-workers is going to forget to do something infrequently
+[07:41] and things you build for you might be helpful for the rest of your team.
+[07:47] If you, so it's why this thing making things easy, the best thing is to not worry about it at all.
+[07:52] I'm going to talk about some ways to automate things.
+[07:54] Obviously, if things are automated and you're prone to forgetting things and then they fail, that's going to cause problems.
+[08:02] So they need to fail really loudly.
+[08:04] They need to be like, blurring your face, I have broken, you need to fix me.
+[08:08] Otherwise, you'll be late for work in the morning.
+[08:11] And then obviously, come up with a simple solution, which is almost always breathable.
+[08:17] These things can take a lot of time to build.
+[08:20] Some people might say they're at a silly amount of time to build, but it's up to you to make your own value judgment.
+[08:26] So I say to people who take these things to the amount of time, a wrong, but you need to make sure that you're not spending stupid amounts of time on us at the expense of just living your life and just having a nice time.
+[08:37] And the other thing is, try anything, any systems you make, you really want them to be resilient to large changes in your life.
+[08:43] The last thing in the E.D. is to have to move house or change jobs and have all these coping mechanisms for the part at the same time as you're trying to deal with a huge amount of other new things in your life as well.
+[08:53] So I'm going to move on to the syntax.
+[08:55] Tip 1 is the first screen if you're the second screen, if you're a phone, a phone screen doesn't exist.
+[09:01] There is no point putting things on the second screen if you're phone home screen if you're never going to swipe over to it.
+[09:07] And so I recommend that if you're an android, there are multiple other launches.
+[09:12] I'm not really short-hour, I'm not an apple person.
+[09:15] But if you can fit as much information on the first thing you see when you turn on your phone when you turn on your laptop, then that is a gold send.
+[09:23] And that's what real estate is so valuable because it's the you are guaranteed to see it.
+[09:27] You don't have to go looking for it.
+[09:30] The same thing applies to things around your house.
+[09:33] If you have a notebook, don't put it on the side of the fridge that you never see.
+[09:36] Make sure it's really obvious within your house otherwise there's basically no point.
+[09:41] But the tip here is pen is mightier than the phone.
+[09:46] Like there's so many times I've been told things, I'm sure the people have where you're told something and you get on your phone and there's no notification and you look at it and it's gone.
+[09:55] Like you had I had to earn my handwriting license and school to be able to use a pen after using a pencil.
+[10:00] I think you should probably have to earn a license to be able to put notes on your phone rather than writing them down on paper.
+[10:05] Like there has to be so I it took me years to realize this and I lost so much in boss information.
+[10:13] But I figure that there's one and I also repeatedly kept losing really nice notebooks.
+[10:19] So if I buy a nice notebook, I'll write things down and then remember and obviously that doesn't happen.
+[10:24] But there is the minimum viable notebook and it's wonderful. It's called a stack of postits.
+[10:29] You put them in your pocket. You don't put too many in pocket. If something tells you something you write it down, when you get home at the end of the day, you peel off the top and you put it somewhere obvious.
+[10:38] And if you need to remember the next day you copy it onto a new postit.
+[10:41] If you lose a stack of postits, you've lost almost no information. It's all at home.
+[10:45] I'd never be able to take notes and I forgot to take a photo of it.
+[10:51] At home I have a draw.
+[10:53] And that draw is absolutely further postits.
+[10:56] This is something I've never been able to do before I started using postits.
+[11:01] And once I got that habit in me, I was able to upgrade to a fancy notebook.
+[11:06] And then I started moving onto digital tools.
+[11:09] Like, it's a really cool piece of kit. It's a single file like HTML wiki that you can use for notes and stuff.
+[11:15] It's a little bit clunky so I moved on to up to do and I think many people know about.
+[11:19] With cases you want to keep them as simple as possible.
+[11:22] Don't have infinite folders, don't like overcategories.
+[11:25] You need to make sure everything's on the top level.
+[11:27] Otherwise you're going to get that note exists.
+[11:33] It's a great to do this tool.
+[11:36] It's built by people with ADHD, for people with ADHD, for people with ADHD.
+[11:40] As I've been source, it's on GitHub.
+[11:43] You run the sinking yourself on web.
+[11:45] You run the sinking yourself on web.
+[11:48] It's still in a growing phase and a learning phase.
+[11:51] All the extra add-ons and tools.
+[11:53] But in a, as I like, it's theoretically hook into home assistant.
+[11:57] It's a bit clunky.
+[11:58] But it's really good for the basics and it's yours.
+[12:02] And it's not going to go running off and the bought out by a company that will shut it down.
+[12:08] So, and the best, as I go and go back to the best,
+[12:12] it to do is to do the does itself.
+[12:15] I'm a master fan of his app called task it.
+[12:17] It's kind of like a visual programming scripting thing for an Android phone.
+[12:21] My tasker project is too big and that's after massive,
+[12:24] like me sitting down for an hour deleting things I don't use anymore.
+[12:27] It, where's my tasker bits?
+[12:30] So, my tasker script can do all of these things.
+[12:37] It's all about getting routines to get things.
+[12:41] I've already had me to tap into things and just do things automatically wherever you can.
+[12:46] I'm not going to go through doing things because that's a bit of things.
+[12:49] But too few to many things.
+[12:51] But my partner loved the third one from the bottom.
+[12:54] She was training for the London marathon.
+[12:56] No one was reminding you to go on training runs.
+[12:59] And I sent her a text around the time every day with the exact hour,
+[13:02] seconds and minutes until the marathon.
+[13:04] She absolutely loved it.
+[13:05] She loved me for it.
+[13:06] She did three and a half training runs and stormed the marathon in the time
+[13:09] that was stupidly quick and she was great to do.
+[13:12] The main kind of my prize and joy of all of my cooking items is my alarm system.
+[13:21] I started, if you look at City Mapo, which is a popular transport app,
+[13:25] I would have been London.
+[13:26] I don't have to worry about when transport arrives.
+[13:30] I have to work.
+[13:31] I just have to worry about leaving the house and time.
+[13:33] To team up, it has a great, it's amazing thing where it can pull events from your local
+[13:37] calendar on your device.
+[13:38] I think it does this on iOS as well.
+[13:40] So it can you tap that and it tells you, I didn't put that image in.
+[13:43] Tap that and tell you exactly the way you want to go and what time you need to leave the house to get there and time.
+[13:49] Obviously, that's great.
+[13:51] Can I do more with it?
+[13:53] If in the events of my calendar, I don't want to get there at the time of the event in the calendar.
+[13:58] I want to get there a ten minutes before because I know I'm going to be rushing if I'm not.
+[14:02] So I built a task script that pulls my calendar and adds an event before every single event.
+[14:06] My calendar ten minutes before.
+[14:07] So they're sitting in the map.
+[14:08] I could pick up and I could click and say, oh, right.
+[14:10] She wants to arrive early to this thing.
+[14:12] That's exactly on time.
+[14:14] Then again, sitting in the map.
+[14:16] They're not always going to be able to script the city map at the time you need to leave.
+[14:19] I built a task script to read off the screen and set our lives of when I need to leave the house.
+[14:24] When I need to wake up and when I need to go to bed.
+[14:27] Most of the alarms work fantastically for many, many years.
+[14:31] And to let me move on to the new system using no dread.
+[14:34] Google Maps has a great travel time API.
+[14:37] You can also have your input your calendar into home assistant and no dread, which is a visual programming language.
+[14:44] It's like scratch fat, it's amazing.
+[14:46] You should try it if you hate programming.
+[14:49] So at the moment that this looks my calendar for any events that have an location in them.
+[14:55] It pulls it looks at how long I need to get from my home to ten minutes before the event.
+[15:02] That's my leaving the house alarm.
+[15:04] That's my waking up alarm.
+[15:06] That's my going to bed.
+[15:08] I'm completely automatically.
+[15:10] I don't even have to think about it.
+[15:12] I work for 15 hours in the last thing I need to do when I get on the bus home.
+[15:16] I remember what time I'm in the next morning.
+[15:18] So this set, my alarm automatically for me.
+[15:21] And on the left is a jailbroken Amazon Echo.
+[15:23] It is my alarm clock.
+[15:25] It's also running task.
+[15:27] So the alarms are running entirely locally on the device.
+[15:30] So if my home assistant's over dies, it's resilient.
+[15:33] All the internet could die in my alarms.
+[15:35] It will still go off.
+[15:36] But this means my phone doesn't have to be in my room at night.
+[15:39] It stays in the lounge where I charge it.
+[15:41] And that means I'm not scrolling in the morning.
+[15:44] It's wonderful to all.
+[15:45] If your my age, your parents are probably saying, don't keep your phone in your room.
+[15:50] It's like bad for you.
+[15:52] You'll get distracted.
+[15:53] And I thought they were wrong.
+[15:55] And I've turned into an adult.
+[15:56] And they were absolutely right.
+[15:59] But I guess I do with technology now.
+[16:01] And I can actually say what I want.
+[16:02] They're complaining about music.
+[16:03] It's great.
+[16:04] It's also set to multiple alarms.
+[16:08] And so if I dismiss the first one, and it hasn't detected that I've walked through the hallway outside the bedroom, it will keep setting alarms until I get up.
+[16:16] It's really, it's really useful so that when you set a million alarms and you get actually get out of bed in the new time,
+[16:23] your partner who's delicious doesn't have to deal with the six moral alarms.
+[16:26] Get them in off still.
+[16:29] The next part was jump, so making things that you don't want to do slightly harder.
+[16:35] Body doubling is great.
+[16:38] It's simple.
+[16:39] It doesn't require technology.
+[16:41] Just working with someone being in the space of other people.
+[16:43] It's great.
+[16:44] It can't fail on you.
+[16:46] The server can't die.
+[16:47] Tip two is give up early.
+[16:51] If you're doing something and you're doing distracted, and you're just really going to do it.
+[16:55] It's too long to realize it.
+[16:58] It's much better to give up.
+[17:00] Go for a walk.
+[17:01] Rather than trying to slog it and make something that's working.
+[17:04] Now I'm going to move on to the imperfect.nodges.
+[17:07] I'm going to wrap up through them because I'm not sure how much I haven't got left.
+[17:10] Leach block.
+[17:11] Great distraction blocking browser extension.
+[17:14] Any problem is you can really easily disable the browser extension.
+[17:17] Varnstick can hack apps.
+[17:20] So you can remove re-awards from Instagram.
+[17:24] You block origin.
+[17:25] It can disable all of the recommendation from YouTube.
+[17:28] It's great.
+[17:29] And Skywalker.
+[17:30] It's a ship loose guy client.
+[17:31] I'm sorry if you built it.
+[17:32] The scrolling is terrible.
+[17:33] If you don't want to use it, then if it's scrolling, so it will only don't use it.
+[17:37] I'm going to come to time.
+[17:39] The next step.
+[17:41] Who is this an unpy hole?
+[17:42] Puy hole is an ad blocking.
+[17:44] App blocking.
+[17:45] DNS.
+[17:46] If you don't want DNS, it's basically a dress book for the internet.
+[17:49] You can run your own in it.
+[17:50] You can block any domain you want.
+[17:52] I use it to block all of any like blue sky twitter in Instagram or not.
+[17:57] On my open network and I can play it to only my devices, which is great.
+[18:02] Which means people who are guests or my partner don't really get annoyed when the Instagram
+[18:06] is not working for no reason.
+[18:08] The...
+[18:12] And home assistant is all to make piehollon and open and disable those blocks any time you
+[18:20] want.
+[18:21] I have a physical internet switch in my bathroom above the mirror.
+[18:24] So if I need to go on blue sky or want to go on the internet, I have to walk up.
+[18:29] Get up.
+[18:30] Walk to the bathroom.
+[18:31] Hit the switch.
+[18:32] And I get 15 minutes of internet.
+[18:34] It's great.
+[18:35] It's...
+[18:37] Walking is a significant is the best hurdle to doing anything on technology.
+[18:41] Your secondary language here.
+[18:50] Everybody that kid is keeping is with Mary or come in.
+[18:58] ***
+[19:00] ...
+[19:05] Finding with ...
+[19:07] This bit took me the longest to learn is that if you've got to make sure it stays in place
+[19:14] when you get annoyed with it. If you're like, I want to, I really want to go on the internet
+[19:19] now and you say, okay, fuck it, I'm going to disable everything. You want it to come back
+[19:23] on automatically in a bit because otherwise you're just going to be left with all of the
+[19:27] blocks off and then you can spend all day in scrolling Instagram rails and that stuff is
+[19:32] cracked and it should be banned. I, like, YouTube rubber holes are good. I genuinely don't think
+[19:39] I would have ended up in the career where I am. If I had not gone in too many YouTube rubber
+[19:44] holes late at night, these things are like, like ADHD has its benefits as well as its drawbacks.
+[19:51] There I learned so many things I came to EMF because of the late night internet rubber hole.
+[19:56] Like, this is, you shouldn't beat yourself up too much for them, but, yeah, it's
+[20:03] but all you're trying to do is manage them and there's no you're building 10 foot walls if
+[20:08] you're just going to strip them back down again. It's 10 foot walls to stop you doing things you don't
+[20:13] want to do. So, yeah, this is, you've got to make it eat. All you have to do is make it eat.
+[20:25] It's easy to do the things you want to do, right than the things you don't want to do. So, you're not,
+[20:32] it's not trying to make it, like, not fill on obstacle course for you to like, read a single
+[20:37] tweet on Twitter. It's just like giving yourself the reminders that you need.
+[20:47] Yeah, so, yeah, it just has to be easy to jump the hurdle than to move out the way, because if you
+[20:52] move it out the way, you'll run into problems. And then, I'm going to come on to everything else
+[20:59] that doesn't really fit on your words and the talk, I feel like people with ADHD really appreciate
+[21:03] this. Beeper, it's a messaging app. It's kind of a, I'm not really sure on this, security wise,
+[21:11] it's probably not great logging all of your texting apps into one company service, but for me,
+[21:18] it's brilliant. It means I don't have to open six apps. It also has a frankly horrifying unanswered filter.
+[21:26] You can filter your text to anyone you haven't responded to. It is frankly scary the first time
+[21:31] I turned it on. And I find it absolutely brilliant. Buzzkill is like similar features to Tarsca.
+[21:39] It's on the right there. It can, Tarsca doesn't do everything, Buzzkill does, but Tarsca
+[21:45] to do that on Tarsca would be a nightmare. Buzzkill can like back through notifications. So if you have
+[21:50] a group chat ping or a fan there, instead of like using that chat entirely, you can say,
+[21:54] I want to hear, I only want to hear from the screenshot every hour. And that means that you're not
+[21:59] getting constant notifications. You're not getting constant distractions, but you are still keeping
+[22:02] in touch with the communities that you love. And RSS, RSS is, I use news blur as an RSS reader.
+[22:09] It's basically an open web protocol that allows you to read, allows you to kind of like fetch
+[22:15] news articles and read them. It also works for YouTube. So I've got all of my YouTube
+[22:20] subscriptions loaded into news blur. It means that I don't have to check the YouTube
+[22:25] secretions page every five minutes as I use to. I use the constantly refresh it as like a
+[22:30] tick or something. But that means that if I've watched the video I can market as watching and it
+[22:35] goes away and I don't have to go, oh, maybe I'll rewatch that again just to just be just to feel
+[22:39] time. Same with like news sites. You can market once you've read a post, you actually have to
+[22:45] check the news site because you'll know if there's a new article, is it will come up and there?
+[22:48] You don't have to repeat it, you have to go to site and then get distracted on it.
+[22:55] As a general member, if you're social media, if you can use social media to avoid algorithms,
+[22:59] like the ones that are designed to suck away your time, do it. Use your following feed,
+[23:03] don't use the recommended feed. If you moderate who you're following, you'll run out of
+[23:08] tweets to look at and then you'll be like, great, I finish the internet. I can move on to other things.
+[23:17] I believe that actually genuinely harmful to people with ADHD and I think this class actually
+[23:22] mostly in America, whatever, just get rid of them if you can.
+[23:26] Then, so I'm going onto the conclusion where these are the three rules.
+[23:33] Stop, make everything you want to do really easy. Jump, make everything you shouldn't be doing slightly too hard.
+[23:39] And who put this hurdle hurt? Let me slurping about the way I continue with my day. Make sure that jump
+[23:43] isn't too high. Otherwise, you will get annoyed with it and move the hurdle out of the way and then it is gone
+[23:48] until you've lost an entire day. Thank you so much.
+[23:56] Thank you.

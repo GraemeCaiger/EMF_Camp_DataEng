@@ -1,0 +1,418 @@
+[00:00] I have some of you will be aware of me from my YouTube channel. This is actually my day job,
+[00:18] which is generally putting in sign numbers, validies, into installations, generating
+[00:23] nail to buildings, very occasionally wearables and movables. Here are some of the projects
+[00:30] I have done with Daniel, in particular the I pod nano installation, which was a quite
+[00:36] long series on YouTube that was quite popular. Daniel, who is Daniel?
+[00:40] Hi, I am Daniel. I work with Mike for about 19 years now. It is a collaborative journey
+[00:47] that we should all experience at least once in our lives. Mike is a tremendous
+[00:51] detail in the engineer and I am creative technologist, so really technology adjacent. Let's
+[00:56] be honest.
+[00:59] Okay, thank you.
+[01:01] Technical challenges?
+[01:02] Yeah, I have been fitting too much. Let me just get back on the screen.
+[01:07] Okay, right. So, we have worked on various things that I have been doing. I have got
+[01:12] a Sunday call from Daniels. I have had this opportunity, a world tour, a big tour, very
+[01:17] famous person, very tight time scale, and I say why I do not do know who it is for.
+[01:23] Lord, sorry, I run for a slide.
+[01:24] Lord, that is better. Just to give the context of this whole sort, this is the entire
+[01:31] timeline. In particular, the grey section is basically the time we had from them saying
+[01:36] go for it to us, manufacturing, testing, integrating everything about a month. Obviously,
+[01:43] we had some process, I think, before that, but you know, that is a big deal. That
+[01:46] is a month including the final build and then start the tour.
+[01:50] Yeah, yeah. So, from then, I go to the first day to the tour.
+[01:55] Oh, that's so, that's Mike's version. This is what I show the client. Oh, that's what I
+[01:59] show the client. Which is like a slightly prettier version. Thank you Google, sheets for helping
+[02:04] us out. Keep point wise. We needed them to agree to basically pay some money so we could
+[02:09] prototype and prove the concept before we put on production.
+[02:15] In my creative ass, much like that lovely short phone call I have with Mike to say,
+[02:19] hey, we've got this opportunity to do X-Y Z. I have a friend who is the creative director
+[02:24] Tina Schabler of this entire show of the show that was touring called ultrasound full
+[02:32] lord. He's an incredibly talented creative in the sort of musical performance space.
+[02:39] And he said, hey, you know this great LED video, Jack, dressed by Maurice Waldemann,
+[02:45] yeah, we want to do something like that for lord, but the whole bunch about this specific
+[02:49] request. Can you do it? And we needed in a month and a half. And the answer was, wait, wait,
+[02:55] Mike, can you help me? So, this is the tour. I'll just keep doing that one.
+[03:02] No, it's that side. So, ultrasound was the name of the tour. As you can see in this image,
+[03:08] for Ella for Lord, this is all about a kind of very revealing moment in her sort of trajectory
+[03:16] as a performer. She was really trying to share a lot of herself in this. And so, the particular
+[03:22] song that this jacket was meant to be used for was for a track name David. It's also a very kind
+[03:28] of revealing and very honest song of hers, very powerful song actually. And she, her
+[03:33] originally intention was, I'm just going to walk through the crowds with this jacket on and to which
+[03:38] we said, no, you're not. Those are LEDs. You can rub them up. Please don't do that.
+[03:44] We've on. So, what we came up with very quickly was look, you need, you have two options
+[03:48] for what you can get. If you want to cover a jacket and LEDs, we can either do the solid
+[03:52] rectangular circuit board option where, of course, you have the pros and cons, decent resolution,
+[03:58] obviously one of the whole thing to be a single color because that simplifies things tremendously,
+[04:03] plus from a textual and kind of visual aesthetic perspective, a beautiful single monochromatic
+[04:08] experience, I think, is far more appealing. We had a whole bunch of different arrangements that we could
+[04:14] do, you know, just to give them a sense of the potential. But nobody could decide on anything until
+[04:19] we had kind of proven what the tech could do. These are the circuit board prototypes that we did.
+[04:24] As you can see, I don't know if you can see on these images, but there's a whole bunch of
+[04:27] perforations along the edges. Those are for sewing them straight to the jacket. After doing this
+[04:32] prototype, we realized that was untenable, especially if you have to replace a panel that has been
+[04:37] damaged by a performer, or by the way, it's been used. We also asked if we could do something more
+[04:44] flexible, something like, you know, the performer could move around them. So, we did look at the
+[04:47] flexible strips options, a whole bunch of strips that we could kind of arrange all over the jacket
+[04:52] and different ways. Obviously, there's loads of pros and cons here. Lower resolution,
+[04:57] higher brightness in the scenario actually, and the prototypes look pretty good as well. If you
+[05:03] go to the last one, we'll see the movement. So, just a couple of quick visuals of what the
+[05:08] prototypes look like. This is how we try to give them a sense of the potential of getting a
+[05:13] prototype in complete. Next one. And then of course, you know, so those little panels can look
+[05:20] something like this in reality. You know, we didn't know what the content was going to be. We just knew
+[05:24] it had to have content on it. We proposed content, they were proposing content, but we knew that
+[05:29] would literally only be resolved at the end. In fact, it was resolved the day before we went live,
+[05:35] finally, which is nice. Okay, Flex PCB, we're very concerned about, primarily time scale. I'd
+[05:44] actually recently finished the Flex project and knew that it would take at least one week extra
+[05:48] on the manufacturing time at JLC PCB. I think they'd do some jigs and fixtures on the
+[05:52] top when they're doing Flex. That adds to the time. We're also concerned, obviously Flex is a
+[05:56] lot more fragile than rigid PCB. You know, if you stick a connector on Flex, then that's putting
+[06:02] straight as a live place. And it's a thing we probably could fix, but we just didn't really have time
+[06:07] to come up with the fix that we were happy with and we would certainly do the job. So, we saw,
+[06:12] you know, really push us, I look, you know, we can maybe do Flex, but we cannot guarantee Flex
+[06:17] on this time scale. But maybe we could do it because it's a bit lighter. So, the scenarios we
+[06:22] offered to them were, would you like to have an LED jacket? If so, we'd recommend scenario one.
+[06:28] We can get that manufactured in time. We can do it, you know, confidently, which is super important
+[06:33] because it's about to go into it. We can also offer you strips of flexible PCB, but it won't be
+[06:39] in time for your first social show, so we don't recommend that. So, instead, we can offer you option
+[06:44] three, which is you get your solid circuit boards. Sorry, that was me. Solid circuit boards,
+[06:49] you get that for the first show. In fact, we recommend can you get two of them, so we have one
+[06:53] span case, anything goes wrong with the first one. And after you've started the tour, we can offer
+[06:58] you the flexible one. They went with option three, which was amazing because we're so fun to have
+[07:03] to keep working on this for as long as we did. So, this is the board we've got 16 by 24 relatively
+[07:10] large leds on the front. We wanted to protect them, so we did this 3D printed, I think we used
+[07:17] translucent pet G, and these have got tabs on them, which goes through slots on the PCB that we could
+[07:22] just heat-stake over the soldering iron. I originally did it using round posts, but they were
+[07:27] very weak, but I found that if we just extended them to these rectangular tabs, that worked really
+[07:30] well. In fact, it was actually quite difficult to take them off. We're really good on this.
+[07:34] Every time I took one off, I ripped off pieces of the phosphour of the LED with you.
+[07:38] So that was almost too strong, but better too strong until week.
+[07:42] Oh, yes, well. So the key thing that we needed to be aware of was the tour wouldn't give us
+[07:51] a dedicated tech and no tech that was on the tour would take the responsibility of handling this
+[07:57] jacket because obviously suddenly you take that responsibility if now yours to deal with the
+[08:01] rest of the many, many, many, many months of tour. So the only person we had to work on this with us
+[08:10] was the head of the wardrobe, and she's an unbelievably talented tailor. We work with on this project.
+[08:17] Taylor!
+[08:20] So she was amazing, but she's not electronically technical. So we had to kind of bring a solution
+[08:28] that she could cope with and support remotely. I'll be phone calls with us.
+[08:33] So basically what we came up with, only left these are some boards. These were basically boards.
+[08:38] These were the bolts that were stitched into the jacket, and these were hard-wired by the
+[08:42] soldered wires between them within the jacket. We used like silicone wire, which is really nice and
+[08:47] flexible. It was something like 18AWG for memory. But also these are lots of options. There's
+[08:53] lots of places that we can go in and out of the boards because again, we didn't know what the
+[08:56] layout was going to be at this stage. So this has to be flexible. There is also an option on
+[09:00] there for a connector, which we end up not using again. We wanted to keep as many options as possible.
+[09:05] And the actual connection between the board and these back boards were using these little
+[09:09] pogo pins. So the board would actually be screwed on from the back. The pogo pins would make the
+[09:14] echoed that echoed that echoed connection. There was also a option that there's actually some
+[09:17] solder links. We could have actually used those screws as the electrical connection as well.
+[09:22] We end up not doing that. But again, it was all about, yeah, keep as many options open as we
+[09:26] possibly could. So this is the back of the board. As well as these pogo pins, we did put
+[09:33] connectors on the board. These are molex pogo connectors, which are very low profile, but what
+[09:39] you're very high current for their size. I think they're rated about three amps. But the other
+[09:42] nice thing about them is you can buy plug to plug cables off the shelf from TGK. So from the
+[09:47] bait point of view of getting something assembled, that had to do crimping cables around. That was a
+[09:50] really nice solution. These weren't used on the final thing, but these were really useful for
+[09:56] bench testing. So it could be very rapidly string loader panels together, get them working
+[10:01] testing without messing about screwing boards down to the board.
+[10:03] That's a very similar thing. You know, demo, we still use the pogo lock.
+[10:06] Yeah. So what's on here? It's all fairly straightforward. There's micro controller,
+[10:12] there's a matrix, led driver, there's a DCC converter. Because obviously, we need just to be able
+[10:17] to send power, a relatively high voltage. I'm doing this slightly out of order.
+[10:23] Because if we'd have run everything at 5 volts, it would have been about 60 amps, which is
+[10:27] just crazy. So we distributed power at 18 volts. Front is really nice super super slimline DCDC
+[10:33] converters, which have the inductor built in. So this little package would take our up to 24 volts in,
+[10:39] give us 5 volts at 2 amps out for ridiculously small size. The led matrix is a slightly
+[10:47] unconventional, traditionally you think of using constant current led drivers, but road drivers,
+[10:54] to set the led current. Now, because we're using white, white leds are super super efficient.
+[10:59] So this is a trick that I've used in quite a number of things now, where we use actually 595
+[11:05] shift register. And we use it's positive output to drive the columns without any current limiting
+[11:10] resistors. We're relying on the output resistance of the driver to provide our current limiting,
+[11:15] which in the case of white leds, we're looking in the sort of 5 to 10 milliamp range from
+[11:19] multi-dicts, clicks display works brilliantly. This is because we're using constant voltage on this.
+[11:27] We didn't have to worry about current regulation. I have used this method on battery power things.
+[11:31] What I do is actually measure the battery voltage and adjust the modulation to maintain constant
+[11:36] current over the very battery voltage. But so this is a very cheap solution it worked really
+[11:40] work nicely. This was doing software modulation for I think 8 bit grace scaling.
+[11:46] Also obviously all these panels are on multiple RS4, right 5 buses. So each panel needs to
+[11:52] have its own individual idea signed. And again, you know, because we wanted the system to be flexible
+[11:57] and maintainable, we couldn't say, oh, we got a plug-ins panel into a PC to set the address.
+[12:02] There was a whole effect sensor on the panel, so all you do to set the idea, you hold a magnet
+[12:06] to the panel. The idea would count up. I think we had 12 ideas, so it wasn't annoying to let it scroll through.
+[12:13] So it means that we could settle the panels up, go around with the magnet, settle the ideas,
+[12:16] and it was done. Also when they first power up, they show their ideas. So you can easily check
+[12:20] there will be an idea correctly. I should also note that there's something quite magical about
+[12:24] having a magnet in front of a board and suddenly it goes from what it wasn't doing to something else
+[12:28] entirely and starts counting numbers up. One of those magical moments for anybody who walked into
+[12:33] the room while I was soldering things. I'd check this up. Oh my god, it changes!
+[12:36] So obviously the biggest issue here is power. We didn't know how many panels we're going to be
+[12:45] used. Only roughly it was going to be in the 60 to 80-ish. We didn't know how bright it needed to
+[12:50] be because we didn't really know what other lighting was going to be. So basically we had to design it
+[12:54] to be as much as possible in terms of power because we can always turn it down. You can't always turn it up,
+[13:02] but it's only it down is never a problem. Our estimated absolute worst case was 300 watts,
+[13:08] which is obviously quite a lot of power on a jacket one thing. And 18 volts fell like about
+[13:13] the right voltage based on, you'll see why when we see what power source we chose. But that's about
+[13:18] 16-the-half amps. This was a little over six feet. So we had six sets of four wires, two wires,
+[13:24] two wires, RS4, right, five data. At runtime again this was a little bit unclear. I think
+[13:31] actually Daniel maybe knew a bit more than I did at this time. But there was talk of it being used
+[13:37] on two songs at one point in ends up only being won. And we estimated that'll be six to eight minutes.
+[13:44] Okay well let's design it for eight to ten minutes. I've got plenty of margin. Very, very important
+[13:49] from what Daniel said before is we didn't have dedicated text around this. So it must be very
+[13:55] easy to charge and swap the battery. That was super super important. Obviously it needs to be safe,
+[14:01] it needs to be we need to be able to show people that it's safe, approvals, markings, manufacturing
+[14:07] names or whatever and not some banjo 1860s wrapped in gaff of tape. You know that that would
+[14:12] go down very well. We didn't have time to make anything custom anyway. We had to find something
+[14:17] off the shelf that we could buy the battery and the charger and it needed to be easily swapable.
+[14:24] So we looked at few things. USB-C power banks laptop batteries, they're great but they're not
+[14:29] designed to be discharged in 10 minutes. So their peak current capabilities just nowhere near enough.
+[14:34] Okay we could maybe have used like four power banks or something but that gets really, really messy.
+[14:39] Especially as packs like your belt packs that are used for like TV crews again,
+[14:43] not designed for that short discharge. Drain batteries are getting a bit closer. I did actually buy a
+[14:48] couple of DJI batteries but they weren't quite right from mechanics and everything there and
+[14:53] it's very hard to actually find the specs of that actually going and buying them. We looked at
+[14:58] radio control batteries, obviously there's a massive range of those around there, all sorts of
+[15:02] power levels, all sorts of sizes but they generally are a bunch of cells wrapped in cellulfane. There's
+[15:07] some have got like a semi-regid plastic casing but they're not rugged. There are design for
+[15:13] things like 3 to 400 cd so the potential discharge current in the fault is just terrifying,
+[15:18] hundreds of amps literally but also you can't buy a charger for these packs that you can just
+[15:23] drop the battery in. They've always got the power connection, the balance connection and again,
+[15:27] given time we could maybe have integrated all that case them up, made them one connected again.
+[15:31] Not no time. So what did we end up using? Do what's finest?
+[15:38] And, it literally, this was absolutely perfect. I test this charge one at 15 amps and it was
+[15:45] bang onto amp hours literally to within a couple of million hours. You can buy the batteries and
+[15:50] you can buy the charger anywhere. One minor quirk of power to all batteries is that they don't have
+[15:56] universal voltage charges. You have a 110 volt or a 240 volt charger and you have to have
+[16:00] separate charges. I have no idea why who knows. They've sort of brought into an awful fuse.
+[16:06] That picture is the internal bus bar and it just next down a little bit maybe it'll melt
+[16:10] at 100 amps or 200 amps or something but it's got some protection but, importantly it's a brand
+[16:15] name, you know, no one's going to question always that bad battery saviots. Well, international
+[16:20] brand has got all the markings, everything. So the battery itself is 51860 for 60 cells. The
+[16:26] problem is this big lumpy connector on the top. So if you're trying to make something wearable,
+[16:31] you want slim not lumpy but, you know, we just didn't have any other option. We just had to say
+[16:35] that we're going to have to figure out what we're going to do with that. I found these nice
+[16:39] right angle PCB mounts, baking vectors which the contacts went straight into. It's really helpful
+[16:46] to work with a great tailor in the situation because finding somebody to effectively hide this
+[16:54] really well actually in the end in the sort of small of the back. Make it comfortable for
+[16:58] the singer. She's going to be moving around a lot. You don't want to lumpy thing hitting the back
+[17:02] at your back as you're trying to perform. So really, you know, our tailor was unbelievably...
+[17:07] Yeah, when I saw sort of the footage, I literally didn't know where the battery was.
+[17:13] So this is basically what we did was you took this battery, stuck at PCB on top of it and just
+[17:17] basically wrapped it in 3D print to get the most compact size you could within that form factor.
+[17:22] I found a 3D model on over batteries. I just took that and inside out to get all the slidie bits
+[17:26] that lock it down and just get forward a second. There's a rectangle of hole in the PCB and the
+[17:34] latch latches into that. So the let battery latch is latching into nice solid strong PCB material
+[17:39] and not 3D print. Play a hard way. Fairly straightforward. So we've got the battery. We've got
+[17:45] our primary sort of anti-setting fire to the singer fuse, 20 amp, automotive fuse. And then we
+[17:51] have these. These are Texas instruments, electronic fuses and these are wonderful things.
+[17:56] You can program the trip current with a resistor. It will trip instantly on a short without
+[18:02] lying themselves up, lying anything else up. It will give your signal back to your
+[18:06] controller say, hey, I've tricked and the controller can turn them on and off. So for example,
+[18:10] we can turn the all the apples off until they're actually playing so we don't
+[18:13] train current. They will also give you an analog signal back to tell you that
+[18:17] the actual current that's being drawn. So one of the plans was we'd actually have a
+[18:21] mode where you would actually play back as other content and tell you how much current that's
+[18:24] drawn to give you an estimated lifetime. There were very obscure reasons why they didn't happen
+[18:29] but that or going to that at the Q&A if you really want to know. You really did try there.
+[18:34] So we've got my control. This is a pick 32 NZ 32 bit micro-192 megahertz.
+[18:40] RS-45 drivers, these are protected with these 10 million polyfuses.
+[18:45] That was so if the 18 volts got shorter than the diesel line it wouldn't kill the drive because
+[18:50] obviously that would be bad. The panels also had the similar protection with Zennadides as well
+[18:56] because the pump was the bus like RS-45. If something bad happens it happens to lots of things
+[19:00] and it's really bad. Also because we assume this thing is going to be hidden away in the
+[19:06] costume somewhere. It's probably not going to be very accessible. So I did a remote user interface
+[19:10] which was just like a little, it's probably a picture of it here. So this is a little 3D printing
+[19:15] thing that's just duplicated the two buttons on the display and the led that was on the player.
+[19:19] So this could be put somewhere that was visible. So this is the player board. All things I've
+[19:24] just mentioned and microSD cover the content. JSTVH connectors they're quite, yeah quite rugged,
+[19:31] quite high-con capability. One of the reasons for going for six channels is that was what was a
+[19:35] good fit on the PCB. Also happens to be perfect for a jacket, front, front, arm, arm, back, back.
+[19:42] Yes, that was that was an actually, that was an instant shot by design.
+[19:47] Once you notice on the bottom one this is a modification that Daniel did when he got over to
+[19:51] rehearsals to just provide the button for the go button so that the, the, um, you understand?
+[19:56] Yeah so it's really interesting you know, Mike's alluded to this a few times. We didn't
+[19:59] know how many panels. I mean frankly we didn't know exactly what Jacket we were using and
+[20:02] until quite late in the days. We had to design all this with the potential not the exact.
+[20:07] We didn't know exactly how she was going to be cured and how she was going to act on that
+[20:10] cure. So creating the remote was sort of like a first step towards that but then when in practice
+[20:15] she was trying to use it. It was felt finicky for her. So we ended up having to create the sort of
+[20:19] weird extension unit that would just sort of pop right out of her sleeve and could be put into her hand
+[20:25] as she was given the costume change and then she heard in the earpiece 321 go put the button action.
+[20:34] Yeah play us off where fairly straightforward our source content this is something I've used for
+[20:38] years. AVI files, uncompressed AVI files okay it's not a very common format these days but
+[20:44] it's extremely easy to pass you just pass ahead and then you've got frame frame frame frame frame
+[20:49] it supports any pixel format you can, I've created 3,000, 3000 by 4 pixel AVI's
+[20:55] no problem at all. It supports weird things like RGB 565 which is handy for doing stuff with LCDs.
+[21:02] There's some soft vehicle virtual dub which does just what you want for editing crop section to
+[21:06] your rescale it will do all the things you want to do and no more super easy and also it will convert
+[21:11] from other formats so that means that if I'm heading over this, yes, we're client they're using
+[21:17] Adobe or whatever tools to generate their content. One conversion process will get this into the
+[21:21] format that we need for the really simple software and the players play it. As mentioned we
+[21:26] didn't know what a layer was we need to keep everything really flexible so I wrote all the code so
+[21:30] that almost anything we might want to change is configured by text file on the SD card so that
+[21:35] Danoo could just go and edit that text file and all the things like the AVI resolution, the number
+[21:41] of panels per bus all that sort of stuff is all configurable. The number of times I'd call
+[21:45] him with a, hey how do you do and he'd immediately say did you read the fucking manual?
+[21:53] And the mapping of but so basically we have this large AVI file and the panels are just
+[21:58] mapped into positions on that based on where they're on the jacket. There's a mapping file that
+[22:03] literally specifies the XY coordinates within the AVI file and which bus number and which ID that
+[22:09] panel is as well as a rotation. So yeah we've done what came up with this layout and again you
+[22:15] just generate the spreadsheet from your layout to figure out where everything goes. Yeah and then like
+[22:20] build some media that actually helped us to identify are we laying it out correctly have we set
+[22:25] the right rotation flags if they relevant etc. Again the player software this is like the runs
+[22:31] I'm aspect of the player software, you need to be super simple because all your show is a very
+[22:35] complex environment you know it needs to be literally very very obvious with minimum chance
+[22:41] of mistakes. We didn't quite get that all talk about that later. So basically you stick the battery in
+[22:48] press one button it'll turn it on that will display on the screen things like the battery state
+[22:53] it will give a name so you know which car you got the if the multiple cards yeah we have
+[22:58] there's a text file that says this is yeah the David card that would appear on the screen so you know
+[23:02] you've got the right card in the unit then the second button just go it starts to playback
+[23:06] we have an accurate time base I used to temperature compensated oscillator in the player just to
+[23:10] make sure that this would stay in sync with their shows. As long as it started in the right point it
+[23:14] would stay in sync for the duration of the show. There was actually an intention to have the
+[23:20] content match the content that was going on on the other screens in the show and the lighting and
+[23:25] that stuff is so locked down in terms of time code. In the end we decided to go with slightly more
+[23:30] ambiguous kind of content so that if the queue wasn't exactly perfect you would notice but it's
+[23:37] still built with the rest of the content and died down effectively with the rest of the content
+[23:42] just allowed us to have that flexibility in the end but but we didn't if she could have got the
+[23:47] the trigger right it would have been perfect because of the temperature base. Okay that was a
+[23:52] case of belt on basis on everything once you start applying the only way you can stop it is by pressing
+[23:56] and holding both buttons simultaneously so there's no chance of accidentally double pressing
+[24:00] the button and it doing something bad and when it gets the end of the contact it just stops
+[24:04] pounds everything down it doesn't loop or anything like that. So say this is all thing to the time
+[24:10] code and the way we figured out okay we'd just give her a little queue in here in a monitor she
+[24:15] presses the button and I forgot. This was the flex version that we did after we delivered the
+[24:20] after Daniels in LA at rehearsal is integrating the other stuff this was a flex version you see
+[24:26] there's this exact detail so I mean to we could overlap the edges of the sheet so we get a fairly
+[24:32] consistent consistent array of pixels but having our space to actually get to it and switch it.
+[24:38] Just to note you know I'd been building the solid one with the tailors help for basically 12 days
+[24:45] and we were talking a lot about the flex potential and they're kind of figuring out that overlapping
+[24:49] solution was effectively a great collaboration between the three of us Mike solved all the problems
+[24:54] we defined the problems it worked out perfectly but it's actually so lovely to be able to have such
+[25:00] an easy collaboration across the three people. Electrically, some of the robustness we solved we
+[25:06] had this little controller board. This got screwed through the flex and there's this on the right
+[25:12] that's just a piece of PCB which acts as a clamp so it's sandwiching it and providing some stress relief
+[25:17] on the flex so that's screwed on as you can see there these like big head small screws,
+[25:23] Alex, they're brilliant super super thin but wide head really handy for this sort of thing
+[25:29] so little the little controller board went on the back the actual strip itself used the
+[25:34] WF2814 F chip so it's like the same chip they use inside the integrated led it's just a 4 channel
+[25:39] one it comes as a chip rather than built in the leds similar hardware on the controller whole effect
+[25:45] for ID setting DC's DC converter RS5 interface to the other no led make fridge drivers.
+[25:51] Sorry bro one of the benefits of the WF2814 chip was obviously meant that hey we don't know what
+[25:56] exact length we need these to be so we could just trim them and effectively you know create small
+[26:01] sections longer sections etc out of the exact same circle yeah yeah this is done to be more
+[26:04] obviously you could like could cast strip enough when use the two pieces separately within certain constraints
+[26:10] I think it's just the video
+[26:12] it's like a second or is it?
+[26:14] Yes so just a little you know quick everybody loves a time lapse just kind of trying to figure out
+[26:22] what the right arrangement would be now that we actually have the right jacket and the right size in
+[26:26] front of us one of the other things that we were expecting to do was to actually cover it with fabric
+[26:31] nobody wanted to see the LEDs to begin with until they saw how awesome the LEDs looked at
+[26:35] at which point they were like these are cool let's keep those oh this is quite interesting so the
+[26:42] yes so there's a little kind of attachment boards the ones that you actually got to sewn on
+[26:46] what we basically did was you printed a template to get the exact spacing right because obviously
+[26:50] with those petchy covers you kind of you can't keep them right up against each other so we knew
+[26:56] that there'd always be a pixel gap between them which gave us four millimeters so you we printed
+[27:01] out a template use the template to then basically hammer all the holes through the fabric
+[27:06] it's been a lot of time and hands-on needs for that and then we cable tied the actual boards
+[27:12] through those holes to it at which point the tailor who was you know about five times faster than
+[27:16] me at sewing I don't know why maybe she's done it her entire life anyway I did my best man I did
+[27:20] my best she powered through far more of them and then we could quite easily using this screw
+[27:28] sort of a sort of a sort of a kind of a mic mentioned earlier we could quite easily attach
+[27:31] them as we went to kind of test each section yeah this is what this was just me bench testing
+[27:37] that you're fairly close to a full set up again using the these jumper wires which
+[27:42] coincidentally the name marks and aldermilers mentioned at the beginning actually borrowed
+[27:47] these cables from more it's because you had a load that you do from the other projects it is just
+[27:51] ten inches down the road from me oh yeah obviously the PCB one the flex one and another one which
+[27:58] is probably going to be the subject for the talking future if anybody's interested there are
+[28:02] lasers lots and lots and lots of lasers and she's touring with it right now yeah here's some of
+[28:07] the details so this is the pouch that was built into the jacket yeah what was really interesting again
+[28:13] I mentioned earlier the smaller the back thing very important to make that thing comfortable so
+[28:18] Leslie the tailor she did an amazing job of sort of creating this this pouch for it to sort of
+[28:22] keep comfortably you know using gravity to our advantage and ensuring that the cables all came
+[28:27] up at the bottom that she could then tack them on the interior of the jacket to where they needed
+[28:32] to pop out and into all the LEDs on the front that's a duplicate for some reason
+[28:38] whoops here I think we're waiting for some video to climb possibly my consistent using his
+[28:45] teensy laptop to write run this okay so this is some some of the soldering and testing
+[28:48] yes so literally did all the soldering on site because again we didn't know the arrangement so I
+[28:53] couldn't pre-solder anything one of my favorite things was when Mike was a called the cauldron I mean
+[28:58] that's the soldering part oh my god if you've never seen a soldering part or never played with
+[29:03] soldering part I highly recommend it is one of the most glorious experiences we've ever had just
+[29:08] don't think fingering you can see over there the kind of fabric that we put in front of it just
+[29:11] tested out it does a really great job of hiding the LEDs when they're off actually when
+[29:15] they're using there but in the end actually Ella the musician was really keen on the sort of more
+[29:20] industrial look which is great and he just had to do it I did have to do it because in the end
+[29:25] the content that we used was super amorphous and blobby and I was like but I can play films and videos
+[29:32] so I put my face on it anyway that's also an Easter egg on the debug SD card if anybody chooses to
+[29:38] check it out lessons learned so the Michael alluded to this earlier you know we trained
+[29:48] people on how to use the jack and the player but you know pushing turning it on in primary
+[29:54] it far too early meant that eventually the power down timer which at the time was 60 seconds
+[29:59] no I'm making a 10 minutes afterwards it was too short and so she turned it on primed it gave it to
+[30:06] Ella she put it on and she went on stage and nothing happened when she pushed about and we made that
+[30:10] time out 10 minutes instead of one minute the second thing was trust the performance and experience
+[30:15] so as I mentioned she did want to go into the crowd wearing this jacket we're all the wires and the
+[30:19] LED panels could be grabbed at made my heart stop I'm sure it did the same to his we said absolutely
+[30:25] not there's no way we can guarantee anything is going to happen especially when literally thousands of
+[30:29] people are going to be grabbing at this every single time it turns out she was 100% right
+[30:36] her audience is so respectful and so good she walked into the crowd where people were literally
+[30:42] grabbing at her touching they weren't grabbing they were just reverently reaching out to have a
+[30:48] moment a really powerful moment with the singer I never expected that to be so calm I really should have
+[30:54] trusted what she was saying because she was absolutely right also just sometimes I'm going to
+[30:58] ask you if you've got lead time when you play slow that you'll see PCB white PCBs take a bit longer
+[31:04] so okay let we're doing two jackets let's hold a half and half the color isn't that visible through
+[31:08] the thing but why I didn't really figure I needed to do is do two separate orders so what happened
+[31:14] it was we got you know set of green set of whites at the lead time of the whites and we could have
+[31:19] had the moonlight could have gone we could have had green greens earlier but let lessons learned this
+[31:24] you know the so many things that you're thinking about doing this details like that we're going to rush
+[31:29] to content now I think I've done any project where I haven't learned something and yeah this is
+[31:35] no difference um we use microSDs for the playback we run the MSP remote which is like the normal mode
+[31:42] that if you're not a PCB you tend to use this mode cut manufacturers don't give a shit about
+[31:46] spy mode speed wise we needed roughly a megabyte of second and we found on massive differences in
+[31:54] the actual sustained reads speed from different cards I ends up ordering about 20 different
+[32:00] SD cards tested them all no correlation at all between like the size or anything like that
+[32:05] to the actual speed that we achieved the better ones I think there was one that did almost two
+[32:11] megabytes a second but every time and it was stall for about a second so that was that was useless
+[32:16] Lex Hanflex and turned out to be about the best these are sort of normally industrial quality cards
+[32:21] how much time we got him we just about do this the first prototype I used the pick 32
+[32:28] for the lead panel primarily because I already had almost all of the code done already for previous
+[32:34] projects production we used the CH32VW double three which is the re-cheap risked five processor
+[32:42] because Joe made it because JLCP you had them in stock I'd use it a few times fairly comfortable
+[32:48] I knew that I needed to run it at the higher 48 megabytes speed to do three megabod hours
+[32:53] like five which is what we wanted to do we want we're aiming for 30 frames a second but when I was
+[32:58] bench testing 9s some are a few panels would just stick and hang randomly now I thought this is
+[33:04] one that's helped the moment I eventually figured out that if they were warm it was worse so that
+[33:11] at least made it easy to test so that if once I found a fix we could know that that fix had actually
+[33:16] been successful eventually noticed it was actually okay 24 megs so we run it 24 megs
+[33:24] we'll take the board right here we just didn't have time to go in any further quite a long time later
+[33:29] I just have to notice this in the manual if you're running it 24 megahhertz you've got a
+[33:34] fiddle this register to have more waste safety or flash again lessons learned
+[33:40] one other thing on the the color temperature you know just on the the panels were quite a warm
+[33:45] color temperature and the flex is quite cold the primary reason for that was that's what JLCPC
+[33:50] had in stock don't talk about the reaction for this good well the interesting thing was we had
+[33:58] on the flex all the overheats you draw one of the heat specifically the color temperature
+[34:02] the color temperature right sorry I got it out of my temperature we ended up being asked for a
+[34:09] cool white for the main show because it would match all the rest of the visuals that were going on
+[34:13] when they saw the warm white we had to make a decision on warm white because simply JLC only had
+[34:16] that color in stock yeah so we we delivered it we were basically asked to change it on site at
+[34:23] which point I explained that that's we do not have the phosphor to change it I'm afraid so
+[34:28] in the end it turned out to be such kind of I think beloved temperature because it's such a
+[34:34] powerful moment in the show that sort of warm gloriness that I created was really really powerful
+[34:39] the the flexible ones we ended up doing the cool white because that's what they originally wanted
+[34:43] so they always had the option to go back if they wanted to this is the image oh gosh they're
+[34:48] there's the image of the very first show that I saw of her walking into the crowd and I think we
+[34:55] got a video which shows you but in the end they won that fight and I was actually very grateful
+[34:59] that they did because it was beautiful okay so I'm gonna
+[35:25] well
+[35:55] This is showing the large screen in the venue and they did this thing when they flip
+[36:14] between a pre-recorded walk and she did it the same route before the gig and then
+[36:19] it's literally a live signal.
+[36:38] And this is the flex version. This is in South America somewhere so I think they
+[36:43] were a little bit further away from the audience.
+[36:45] But there was also an festival with 100,000 views.
+[36:53] This was interesting because the flex jacket actually, the only heat I was seeing is all in the
+[36:59] little troddle ball and so it's localized and specific spots on the jacket because you've got
+[37:04] very concerned that you never tried it out before this event. She got very scared of the heat
+[37:08] to actually took it off thinking it was burning.
+[37:09] What's been said by it?
+[37:12] We didn't say fine for singing.
+[37:14] Not that fine for me.
+[37:18] That's that and then we've got a couple of bits and bobs here.
+[37:20] From being the Q&A 10 which is over that way, that's it. Thank you very much.

@@ -1,0 +1,684 @@
+[00:00] Thank you for joining us on stage.
+[00:16] I know that everybody is super grateful to these folks.
+[00:20] So I'm going to say a big thank you to the infrastructure team.
+[00:23] We're going to run through everything that's made this camp so amazing this weekend.
+[00:27] I'll pass it to us to do the introduction. Thanks.
+[00:31] One, two, one, two, there we go.
+[00:35] Hello. Welcome to this new game of multi-player PowerPoint karaoke.
+[00:43] I don't know if the slide deck still being edited.
+[00:46] It is very good. Thankfully, I don't have to power point karaoke most of it this time because we have way more people on the infrastructure crew who will be hopefully talking about their own
+[00:56] size of it, but I will get started with an intro.
+[01:00] This year, it's really felt like EMF is a different event because of the size.
+[01:06] I think for a lot of us, it's gone from like, oh, it's quite fun to actually run like a little event to actually like,
+[01:12] oh, no, we have to be professional and really like try and avoid getting people burnt out,
+[01:18] which we haven't been a terribly good, terribly good at so far.
+[01:22] There were 300 build up rooms here on site on day zero, which was last Wednesday.
+[01:26] There are 340 users in our single sign-on system now, and those are the people who are actually working on getting the event running and who are like kind of the core auger.
+[01:38] We had 81 structures on site now from six suppliers.
+[01:42] We had 51 structures in 2024.
+[01:44] That is just a phenomenal amount of tents.
+[01:47] I can't begin to like describe how tedious it is to try and organize this number of tents, which I've almost had to do almost single-handedly this time.
+[01:56] So if anybody is up for that challenge next time, I am looking to delegate it.
+[02:02] We have 588 metres of temporary water pipes supplying 23 water points.
+[02:08] 750, sorry, I have been told, we have put more down.
+[02:12] And the whole water operation now has its own team with all of that going on.
+[02:18] We have been testing the limits of that quite substantially this time.
+[02:21] 59 fire extinguish points, each of which has at least two fire extinguishers, 20 kilometres of power cable and more content on more stages running for longer.
+[02:30] That means, that is good, that is the good bit.
+[02:37] The bad bit is that this is like a significant operational challenge to run now.
+[02:42] And like, was very glad this year that I've been moonlighting as an event controller at Glastonbury for a few years,
+[02:49] because it's really helped to try and really help to manage what's going on now.
+[02:57] We had multiple medical emergencies.
+[02:59] The hot weather has really increased the workload there.
+[03:02] Many more minor medical and welfare issues.
+[03:05] Several people we have unfortunately had to eject from the sites, which is a whole process.
+[03:09] We have to go through which is tedious and requires, is nobody wants to do this.
+[03:14] Please don't make me talk you out. I would very much prefer not to talk you out.
+[03:18] We have comprehensively tested the limits of the main water supply, as you can see today.
+[03:24] There is literally, there is a 63mm diameter pipe that comes into the site and we are just using all of it.
+[03:31] Somebody woke me up this morning and told me there was no water, which was not correct.
+[03:35] Please don't tell me there is no water. That is a very bad thing.
+[03:39] We have had power grid and battery issues as well, which thankfully fingers crossed
+[03:45] of not cause it's any problem during the main event, but it's been a bit of a challenge getting that up and running.
+[03:52] And a lot of supply early as on and nonsense, which I think the power team will get into.
+[03:57] We have got this year we have two new teams. Events are running the event led by pairs here and a lot of what my job is as well.
+[04:07] And welfare, which was set up very, very last minute by Paul, has been doing incredible job.
+[04:16] There really are quite a lot of welfare issues to deal with on an event this size.
+[04:21] So both of these have been doing extremely well, but also kind of burning everybody out on them.
+[04:28] So next time we need more people who have experience with in these things.
+[04:32] If you have experience in these things, please let me know.
+[04:35] The permanent infrastructure, which is the bit of the EMF, which keeps running between events, is now 10 servers running email and next cloud and grist and all of these things.
+[04:46] We have a lot of opportunities.
+[04:48] We have a lot of opportunities.
+[04:50] We have a lot of opportunities.
+[04:54] We have a lot of opportunities.
+[04:58] We have a lot of opportunities.
+[05:02] We are using postges for the side planning these days.
+[05:06] That in itself is like a full time job to manage all of that infrastructure now.
+[05:12] And there are quite a lot of things going on at once.
+[05:16] So I am now going to hand you over to Pairs to talk about event tops.
+[05:20] How many slides can many of us go to?
+[05:22] Clicker.
+[05:26] Hello everyone. This is the first talk I have attended, so that is fun.
+[05:32] Quite a lot of all good don't get to see any talks.
+[05:36] First of all, I have a whatsapp with a slide among.
+[05:40] This is my lovely event ops team.
+[05:42] If you see them, please say thank you.
+[05:44] They are the ones fielding your phone calls and radio calls.
+[05:48] External suppliers are bringing us everything else that is going on.
+[05:52] Everything happening around site.
+[05:54] This is the first time we have been an explicitly dedicated team and it has made a massive difference to help three hours things for HQ and shield.
+[06:00] Some of the admin team from whats going on and reduce the miscommunication a little bit.
+[06:06] We are getting the slides as we speak.
+[06:08] So we are going to see how this goes.
+[06:10] They are in a different order than when I left them.
+[06:14] Another shot of the team.
+[06:16] We took a two hour off team off site to go and play the coffee shop escape room.
+[06:20] In Nalsai, it was incredibly efficient.
+[06:22] We almost made a grist just to nail that down.
+[06:26] The team who at the DreamCat team who was making it said it was the most efficient team they had witnessed.
+[06:30] And I tried really really hard not to manage.
+[06:32] Despite the fact that we had the other half of the team running event operations from the front there.
+[06:38] While they were also submitting coffee shop orders for things like stop everyone please stop,
+[06:44] which I had to shout out and everyone stopped, which was quite difficult.
+[06:48] Over 550 tasks created across the buildup and the event can be bought is so long.
+[06:54] It is broken.
+[06:56] You can't scroll the page.
+[06:58] It goes miles off the bottom there.
+[07:00] There are a lot of things including more than 30 reports of low water pressure today.
+[07:04] Including, yes.
+[07:08] Which included three phones ringing at once and people
+[07:12] triaging the same report exactly the same time.
+[07:14] Thank you for letting us know.
+[07:16] We were aware.
+[07:18] This is how the site looked on day minus nine.
+[07:22] That is the site's official generator for the first two days of sight that you can see there.
+[07:26] We imported 35.6 kilowatt hours of power from Belgium.
+[07:30] I drove it here and powered the site from it.
+[07:34] The power grid was a terrible spider network by the time we were finished.
+[07:38] But it worked.
+[07:40] It worked.
+[07:42] We tested vehicle to load.
+[07:44] The only time it broke is when crew woke up and tried to turn on three coffee machines at the same time.
+[07:48] Did not like that with very upset.
+[07:52] We have moved the ridiculous amount of things including.
+[07:56] We have coordinated the movement of ridiculous amount of things including all the fans, all the furniture, all the tables etc.
+[08:02] I have two of my favorite photos there.
+[08:06] This is where in the bottom left we have one of our telehandler drivers.
+[08:08] Drop their load in front of senior or go who are doing a site review at the time.
+[08:12] Very embarrassing.
+[08:14] Thank you, Roon.
+[08:16] This truck that was really enjoying being the center of attention as we unloaded it from both sides.
+[08:20] That was one point six tons of bottle water imported via looping.
+[08:24] You drink a lot of water.
+[08:26] This year we have people reuse their bottles.
+[08:28] We have been asking people to sharpen on top of them.
+[08:32] Please re-use them around the wasting your bottles.
+[08:34] There were seven radios lost and recovered.
+[08:36] Please remember to check your radios in and out.
+[08:38] The radio was lost for the longest which was seven days.
+[08:42] It was my radio which I never checked out and totally forgot to.
+[08:44] And then my team had been trying to track me down for three days before they realized it was our radio.
+[08:48] Fires.
+[08:52] You get fires.
+[08:54] You may have seen a change in policy for this year.
+[08:58] Please don't set fire to the site.
+[09:00] Of note two bin fires of note two fire extinguishers accidentally deployed by crew.
+[09:06] One of which into their face.
+[09:08] It's slightly unfortunate.
+[09:10] Two deployed on purpose.
+[09:12] We have three spicy fellows.
+[09:14] One proper limo fire that occurred this morning.
+[09:16] It's currently in quarantine in spicy pillow soup in front of HQ.
+[09:20] Please don't touch it.
+[09:22] Yes, this is the correct procedure for lipos of Merjney Water.
+[09:26] On a tiny series note, please do not charge lipos.
+[09:30] Unattended, they do explode, especially in the extreme heat.
+[09:32] We have got here.
+[09:34] And this one was in a sealed lipo bag and it made the small fire way smaller than it would have been.
+[09:38] So thank you to the village that did that.
+[09:42] Oh cool, and you slide.
+[09:44] Fun.
+[09:46] There are 1,231 kilometres of bus journeys.
+[09:50] 68 passengers squeezed onto one bus.
+[09:52] I believe we also had an overflow mini bus that helped because they happened to be there.
+[09:56] Let's see what happens when we press next.
+[09:58] The slide ended.
+[10:00] Fantastic.
+[10:01] I'm handing over to Site team.
+[10:02] Thank you, everyone.
+[10:04] Back to me, is it?
+[10:06] Or is Benny doing it?
+[10:08] Any advance on me on this one?
+[10:10] Okay, here we go.
+[10:11] This one is genuine powerpoint karaoke because I haven't seen it at all.
+[10:14] We had a bunch of very shiny JCB telehenders.
+[10:17] Well, some of them were shiny and some of them were less shiny.
+[10:19] And one of them didn't really work.
+[10:20] But we made do.
+[10:21] Three telehenders this time.
+[10:23] Just about enough, maybe four next time, oh god.
+[10:26] We had some interesting Chinese cherry pickers, which had some interesting features
+[10:33] where they were decided you were on a hill halfway up.
+[10:36] So you'd go up and then it would like, oh, actually you're on a slope.
+[10:40] So you can't go down, which is not ideal.
+[10:43] No, you can't slew that was the problem.
+[10:45] So not a big fan of these.
+[10:47] They're red though, which is nice.
+[10:49] We got 1.2 kilometers of festoon.
+[10:52] A hundred and ten litre bins.
+[10:54] Never enough because E-Bows.
+[10:56] We really had a discous E-Bow thing.
+[10:58] That's included in my 81 structures like about 12, 3 by 3 gz bows that we had to try and source.
+[11:05] And then we were like, oh, we've got enough now.
+[11:07] And somebody was like, oh, can I get gz bow for that?
+[11:09] And I was like, I don't know, gz bows.
+[11:14] We have two ten foot and one twenty foot container of long term storage now.
+[11:18] We'll probably need a bit more who knows.
+[11:21] So 81 temperatures, 550 meters of timber and over a ton of sheets timber that was used by the construction team.
+[11:34] But now I will hand you over to the power team.
+[11:37] APPLAUSE
+[11:43] Hello everybody, my name is Lori and I'm one of the, uh, bond of the power team.
+[11:48] Um, electromagnetic field is one of the weirdest power, for a festival, power for festivals of any other festival.
+[11:55] All other festivals typically have a generator per stage, something like that.
+[12:00] And obviously don't get powered to your tent.
+[12:02] The MF is quite a considerable, hard, a problem and challenge to solve.
+[12:07] Previously we had four generators across the site.
+[12:10] Although this year we've done a little bit of consolidation and we moved down to free generators.
+[12:14] One of the reasons for that was trying to improve efficiency.
+[12:17] Um, diesel, if you load your generator off a bit more,
+[12:20] tomorrow, or towards its maximum, you can get better diesel efficiency and that's generally better.
+[12:25] And in the processing of doing that, we also moved to stage five generators,
+[12:30] which take ad blue, generally better for the environment.
+[12:33] And on the plus side, you may have noticed there are a bit quieter this year than previous years,
+[12:38] which has been quite well impressed.
+[12:41] Um, here's us unloading the generator and we've got a battery there,
+[12:49] which I'll talk about in a moment.
+[12:51] And that's one of our 40 turn curtain-sideers, which didn't contain everything.
+[12:56] We have so much stuff. I'll get to the statistics in a bit.
+[13:00] Uh, we had too big batteries this year.
+[13:03] This was again to try and keep it even quieter.
+[13:06] Maybe turn the generators off overnight and improve efficiency by loading up generators,
+[13:10] with a by charging the battery and then letting the battery discharge over a long period of time.
+[13:17] Uh, overnight we tend to see sort of small loads.
+[13:20] So in the 40, 40 kilowatt range, which on a big 200KV generator,
+[13:25] means that we should be able to once on a battery last for a bit longer time.
+[13:31] Um, the batteries we had were 150KVA, 150 kilow hours for those are interested.
+[13:38] LFP cells in a big series set.
+[13:41] And I would do a live mic swap.
+[13:44] Oh, we're so north.
+[13:50] Hello, there we go. Hopefully this one's a bit better.
+[13:54] So yeah, LFP cells in a series arrangement giving 725 volts DC bus that then gets inverted and gives us some lovely power.
+[14:02] Unfortunately, you like us. The batteries did not enjoy the heat and we had a number of issues,
+[14:08] especially early on, where the batteries would shut down from typically a differential temperature.
+[14:16] So not that they were just too hot, but that one side of the battery would get too hot compared to the other side.
+[14:22] And that would trip the generator, trip the battery off, and then the generator would have to start back up again later on.
+[14:28] Uh, which might mitigate this by putting shade over them, which was mildly successful.
+[14:34] And we did have engineers come out and managed to revive one of the batteries into working.
+[14:39] But unfortunately the battery in the north grid running in all sector and volunteer catering.
+[14:44] Mostly from the heat and the amount of load we were putting on it is currently switched off because otherwise it will just keep tripping out.
+[14:51] And power out to just annoying.
+[14:54] Here's some lovely graphs because we have grids, we've generated some batteries.
+[14:59] The top left is the generator load, which turns on and off, which is quite funky now.
+[15:05] You can see the battery on the top right, the charge going up and down as we discharge it in a lovely sort of pattern.
+[15:12] And well, so I'd say it's a bit to talk about on this slide.
+[15:17] Quite a lot of power. We hit a peak load on the north grid, mostly due to an all sector and the volunteer catering again of 200 KVA.
+[15:25] Just briefly hitting the warming limit on the generator, but I think it's a pro-pre-use, each of that.
+[15:32] We like a lot of other teams, wrote our own bits of custom software and maintained of a bit.
+[15:39] So we have a whole planning system that pulls in from the GIS and generates the original map.
+[15:47] And then we also have the distro and all that sort of jazz.
+[15:52] Now I don't think it's my radio causing that to me, it's not a red.
+[15:56] And also outage monitoring, which is at the bottom right, which is something you've been trying out this year.
+[16:01] And that is, hopefully, it would improve our response time. We see when stuff goes out pretty quickly.
+[16:08] But we still have some work to do on that, and there's always improvements we can create.
+[16:13] Testing, this was a thorough testing. I feel like I'm getting quieter and quieter.
+[16:20] But that's any technical information if you want that. And here's the final statistics.
+[16:25] We got 20 kilometers of cable, 22 tons of cable and distro that we have to handball into the field and then get back out again.
+[16:35] 400, I mean it's the power lock. Six different supplies to wrangle and the kitchen used a total of so far 1.8 megawatt hours of energy.
+[16:43] And that is just volunteer catering, never mind everyone else on site.
+[16:48] Yes, the kitchen is all of that trick this year. So no gas, hence the big electricity bill.
+[16:53] Right, I'm moving on to water, who's taking water.
+[16:58] Yeah, the rust is it. Hello.
+[17:00] Me again.
+[17:03] So yeah, this is the second EMF with a dedicated water team, which is now five people.
+[17:10] That actually running the water at this event is a significant endeavor. It may just be simple.
+[17:16] Right, it put a hose on the tap and it comes out right. But you've got to do managing the pressure and water safety at all of this kind of nonsense.
+[17:25] So the good news is we did put a buffer tank on the volunteer kitchen, which was a very good idea because otherwise we'd be completely screwed at the moment.
+[17:33] And that stores 10,000 liters of water and lets us fill it slowly when the kitchen's not using very much.
+[17:39] We also, of course, got to get rid of all that water once we've used it. So we have loads of waste tanks and a contract on site who pumps them out and takes them away.
+[17:49] A lot of certain other events, sometimes we'll just let their showers drain wherever into the water courses, but we are in a site of special scientific interest.
+[18:00] So that kind of stuff does definitely doesn't fly here. So we have to take all your water away.
+[18:08] We put pressure reduction valves everywhere now. So we can control, we can stop the water points which are further downhill from a pool.
+[18:18] We can control from pulling more water than the ones that are further uphill, at least in theory, but even with those we are hitting the limits.
+[18:26] 750 meters of freshwater pipes, 11 pressure reduction valves, 8 taps on a stick, 7 sinks, 6 hand restations.
+[18:36] Oh yeah, we've used lots of water. I think we've used more than that. I think our waste provider said he trucked away 100,000 liters of water on Friday.
+[18:43] So I think we're probably used about 400,000 liters in total, but we'll see when the water bill comes in. That'll probably cost about like 200 quid in water.
+[18:58] Yep, so the heat has resulted in high demand on and off site. So more people are having showers here and they're having them, probably some people are having them twice a day because it's hot.
+[19:10] So and everybody else elsewhere is having showers and using water because it's hot. The water pressure is well, I think it's just because we're on the end of a quite long pipe that goes to the main water main and so there's a bit of pressure drop over that.
+[19:26] But even with all our pressure reduction valves and everything else, we're still not quite managing to provide enough water to give you all showers. Sorry.
+[19:37] Next time we are going to have to go for you know storing 100,000 and 100,000 liters of water on site to make sure that we have enough water for everybody. That is a job for next time. Many tanks.
+[19:51] Hello. I'm Luke. I'm one of the two team leaves for the network team. We have quite a large team now, which is actually really useful for all of the stuff we have to get done.
+[20:08] Some quick stats. So we've got most of our equipment from two people this year. One of them is event infrared. That was all trucked over from the Netherlands.
+[20:17] We got almost a ton of total equipment weight including flight cases from them totaling almost 3,200 ethernet ports.
+[20:27] That's 79 switches, 130 access points and two wireless controllers to run all.
+[20:32] From our friends at Pylon 1, we got all of our optics and reels and reels of fiber optic.
+[21:09] That would be way more than we would possibly need and we've gone through most of it.
+[21:14] This is what it looked like when we unloaded the van that had just been driven all the way from the Netherlands.
+[21:22] There's quite a lot of kit here and an installation which you can probably see there in the background maybe. It's in the plastic tubs.
+[21:32] We have a bunch of people we need to thank because we get equipment from, as I said, event infrared Pylon 1, full fiber and zoom.
+[21:39] In particular are responsible for looking after an interacting with open reach for our actual backhaul to get from the field to the internet.
+[21:48] But then we have a whole bunch of providers who provide us with transit, which is the final bit where we go from our network to the rest of the internet.
+[21:57] So we have one of the other ones who are responsible for connecting us to the actual internet as a whole.
+[22:01] So thanks to them.
+[22:11] So there's quite a lot of work that we do before even the event has begun in any sort of sense.
+[22:18] So we've made a few visits to the field beforehand so that we could actually get some fiber installed in the ducts that exist.
+[22:25] We might see a few BT labeled manholes around the site.
+[22:29] Some of them have our fiber in them and we need to run them through the ducts and we need to put ends on them and so there's some fiber splicing happening in this picture.
+[22:38] We build all the decay poles. This involves some wood, the signs and the omelights that you see on top as well as the access points to get everyone wifi.
+[22:50] And our interesting metric.
+[22:53] We had this hot a switch graph and we suspect that maybe the temperature sensor in here had gone a bit wrong.
+[22:59] This caused our like mean temperature metric to reach like 900 and something degrees just because this switch was throwing everything else out.
+[23:08] But like on the whole you can see the the day night cycle and one of the noctie members had the yellow line that you can see spiking and then disappearing.
+[23:18] That was a small switch with no fans that they had in their tent and so that's why it spikes so much higher than everything else.
+[23:26] This is a graph of the number of people connected to each of the wifi networks over time and the reason I bring this up is because you can see this gap.
+[23:37] The one that's the furthest on the right that gap is where we had our wifi usage.
+[23:43] Sorry about that. We had a small power blip which then resulted in we had a small power blip which resulted in what we call a cascading failure which is where everyone's phones and everything else trying to get back on the wifi at the same time.
+[23:57] We met the wifi control that's got overloaded and they started just not letting anyone on the wifi.
+[24:03] So we did a bunch of things to try and fix this as quickly as we could. Sorry about that.
+[24:08] I hope the bar didn't get to overwhelmed by people suddenly all wanting to pay and cash for some reason.
+[24:16] And yeah, there are some lovely views from about where the APs are. It's great working on the network team. We have a lot of fun with it and we've had.
+[24:25] Fortunately this event more than some others more time to go on some side quests which has been good over to the phone stream.
+[24:34] So I am our fee from the phones team.
+[24:44] Along with my colleagues we have built a brand new phone system for us all.
+[24:50] The thing with these first systems, they are quite a bit different than what you would expect.
+[24:56] Because it's actually used by not just only our attendees but our staff and our phone tiers, it can be quite constant.
+[25:05] What's the word, Mokie-Falk?
+[25:07] An important, for example, using it to make sure that the big test go order arrives on time which is quite useful.
+[25:15] Because our lovely team in the knock, we have provided us a little bit of two off-site communications.
+[25:21] We were able to get the patented big launch box solution to have a coal system arriving on site.
+[25:30] Well ahead of time, then we would have been in previous years.
+[25:34] And Ross's phone call well early into the event before anyone was on site.
+[25:40] With that, I will surely pass on to Kammer.
+[25:46] Hello.
+[25:52] Thank you very much.
+[25:54] This year, I have been using the phone system.
+[25:57] You might have noticed it's got a fresh coat of paint.
+[26:00] It looks a bit nicer.
+[26:02] We have got some new features all in there.
+[26:05] The UI should be a bit nicer to use.
+[26:08] It's a bit shiny overall and hopefully worked a bit better.
+[26:12] This year, as well, we have had all of the extensions get a dedicated phone number that some people have been using.
+[26:18] That's quite useful, especially if you don't have a deck.
+[26:22] Let's move on.
+[26:23] No, it's not supposed to see that.
+[26:26] Cool.
+[26:27] So, we have had a brand new phone call this year.
+[26:30] Everything is completely fresh.
+[26:33] We've built this in, I want to say, 11, 12 weeks.
+[26:37] 11, there we go.
+[26:39] I think for the time scale we have, I'd like to think we've done a pretty good job considering 99.94% uptime.
+[26:49] I can't complain with that.
+[26:51] Thank you very much.
+[26:56] How do I make this work?
+[26:59] New number management, all shiny, and I think that is on to deck.
+[27:04] Welcome, Steffy.
+[27:09] Hi, my name is Steffy.
+[27:12] I do deck.
+[27:14] Here we go.
+[27:17] New core means we have a new software stack for deck.
+[27:28] Basically, the software for deck just handles the binding process when you put the number
+[27:33] into your phone and you get the number you want out.
+[27:38] New stats, it's a new feature, but of course, the main task.
+[27:43] Does it work?
+[27:44] Yes.
+[27:45] It worked.
+[27:46] Great.
+[27:47] coverage was fantastic.
+[27:49] We've had 50 RFP is approximately offline online around the side all over.
+[28:00] Thank you to our team for running them out and running them around the site in exceptionally hot weather.
+[28:08] It was a thankless job.
+[28:10] But we got at least one in Nalsek, which thank you to Nalsek.
+[28:14] We dropped this off to them quite early and it got mounted facing the crowd.
+[28:21] And you all liked it very much.
+[28:24] You have a hundred and fifty calls per hour on that RFP.
+[28:29] It was the busiest RFP for a moment in the entire site.
+[28:33] I've no idea how anyone heard anything.
+[28:37] But it was there.
+[28:38] You did receive the call.
+[28:40] Faster.
+[28:41] Otherwise, it was very okay.
+[28:44] Yeah.
+[28:46] We had some new features.
+[28:49] For example, whiteband voice support.
+[28:53] We made the decision at the start of the event that you were all getting better audio quality.
+[28:58] In expense for us needing more RFPs because if you enable whiteband voice, you get half the capacity.
+[29:05] But we made it work by having a load of RFPs.
+[29:09] We even had one DK with two RFPs in which is a new thing.
+[29:16] We had new features.
+[29:18] If you lost your phone.
+[29:20] For example, you can see the firmware status.
+[29:24] If you have a metal and you can see the handset location.
+[29:28] If you lost your phone, you can go on the website and you can check where it is.
+[29:32] It might give you a mind of where you were last sitting.
+[29:35] And you can find it again.
+[29:37] Very useful.
+[29:39] We just had visual voice mail.
+[29:42] I would say this slide has got an out of order.
+[29:46] Hello.
+[29:48] Okay.
+[29:50] I had some stats here, but they are gone.
+[29:54] So I guess I shall be handing over to GSM.
+[29:58] Hello.
+[30:00] We ran into GSM now again.
+[30:06] You could call people.
+[30:08] You could get some packet data.
+[30:10] We had Billy who was modeling over here.
+[30:12] Set up a website.
+[30:14] And it worked on at least two of our phones.
+[30:16] We did have a 4G date network.
+[30:20] Robin, who is probably somewhere in the audience.
+[30:22] I put a lot of effort into planning it all out.
+[30:24] Playing for the licenses.
+[30:26] Getting some small 4G sales.
+[30:28] She was really rewarded for her efforts.
+[30:30] She was the only person in the entire camp you could connect.
+[30:32] So she got to enjoy it.
+[30:34] As much as we would have liked to try and fix it.
+[30:36] Everyone could enjoy it.
+[30:38] We all got a bit busy attending the festival.
+[30:40] Maybe next time.
+[30:42] The network was quite popular.
+[30:44] The 2G network that is.
+[30:46] We have more you bought more Sims.
+[30:48] We bought 100 more subscribers.
+[30:50] People turned their phones off and go to sleep.
+[30:52] Which is kind of cool.
+[30:54] We got a lot more professional with our antenna mounting.
+[30:56] If you saw the knock slide where they had the wooden pole.
+[30:58] We did some teamwork.
+[31:00] The antenna is up there.
+[31:02] It's the same as the last time.
+[31:04] It looks professional.
+[31:06] We went the cable length.
+[31:08] The Bts.
+[31:10] The Bts.
+[31:12] Stock.
+[31:14] We used the Osmacom stack.
+[31:16] New change.
+[31:18] We had Pio.
+[31:22] I had to patch it because it kept stealing people's phones away from normal network.
+[31:26] We had 7 IPXs.
+[31:30] We had last time.
+[31:32] We had positions in strategic data.
+[31:34] Those across the site give a good coverage.
+[31:38] Before we had lessons from offcom.
+[31:40] We could all do this legally.
+[31:42] We were operating on the DCS 800.
+[31:44] In general, I think for GSM.
+[31:46] Last time it was just me losing my mind.
+[31:48] We did a lot of planning this time.
+[31:50] We got everything in.
+[31:52] That was really good.
+[31:54] We even had a dashboard.
+[31:56] You could see our Bts.
+[31:58] We helped users to monitor failures.
+[32:00] We had to turn out the counters provided by Osmacom didn't really work.
+[32:04] Talking of failures.
+[32:06] We had all those IPXs.
+[32:08] Those of you who remember last year might remember we hadn't had the most luck with those.
+[32:12] With the higher temperatures this year, we had a few more problems.
+[32:14] If you read the day sheet of these things, you'll notice that only
+[32:16] rated up to 45 degrees C ambient temperature.
+[32:20] It can find darkened clothing and the sound.
+[32:22] We had a joint mission with the knock.
+[32:24] I don't know if you saw that.
+[32:26] This is the darkened clothing that was in.
+[32:28] We tried to wrap it in a foil blanket.
+[32:30] They kept rejecting calls.
+[32:32] It could be like, ah, it's too hot today.
+[32:36] And then not place the call.
+[32:38] Which was really convenient.
+[32:40] When it cooled down, the evenings they worked.
+[32:42] We all enjoyed the festival.
+[32:44] What was the GSM network?
+[32:46] Go back.
+[32:48] All of the things we did were working again.
+[32:50] About me doing through day one.
+[32:52] I made the exact decision to turn off all the IPXs.
+[32:54] We had one reliable system.
+[32:56] One running the entire site.
+[32:58] Maybe some of the nurses.
+[33:00] Maybe some of you didn't.
+[33:02] We were really fed up with these things.
+[33:04] Like it took far too much time to pack in these.
+[33:06] But your stats slide.
+[33:08] We had 4,000 completed calls.
+[33:10] Since the start of the festival.
+[33:12] We had 1,672 occasions where we might have had completed calls.
+[33:16] If the PCSs would like to accept our request to do that.
+[33:20] We had 16 panic, integration changes.
+[33:22] We had 3 crash outs.
+[33:24] One base station that was shipped to us in the Royal Mail.
+[33:26] Like bag of shame.
+[33:28] You get when your box broke in transit.
+[33:30] And so we had to do some emergency soldering.
+[33:32] So yeah.
+[33:34] Maybe next time we will redivest fire strategy.
+[33:36] Maybe go with one huge base station that actually works.
+[33:40] Maybe not switch software as around a few days before the event.
+[33:44] One final note from GSM.
+[33:46] If you have one of our SIM cards.
+[33:48] Even if you didn't necessarily get it to work.
+[33:50] You can have your keys.
+[33:52] If you want to run a network at home.
+[33:54] You can go to the phone's website.
+[33:56] If you go to services, SIMs.
+[33:58] It will give you the keys.
+[34:00] If you want to do something with it.
+[34:02] There they are.
+[34:04] If you want more details, you can email in.
+[34:06] And now over to Marl.
+[34:08] I think for pots.
+[34:10] Where are you Marl?
+[34:12] Okay.
+[34:14] That's going to do it.
+[34:16] Hello.
+[34:18] 30 slides left.
+[34:20] 40 slides left.
+[34:22] Here we go.
+[34:24] Loads of phones around the site.
+[34:26] You will use them.
+[34:28] Loads.
+[34:30] Thank you.
+[34:32] We had fiber to the decay.
+[34:34] And people were connecting it.
+[34:36] That's speed in the field.
+[34:38] Oh, and all of the other slides have gone.
+[34:40] So I'll do it off my laptop.
+[34:42] The main thing I want to say here is
+[34:44] that all of the other people that involved in this.
+[34:48] Thanks to them for working in 11 weeks on turning this around.
+[34:52] EMF has some requirements for us to use.
+[34:56] Wiedley used tools in our critical infrastructure.
+[34:58] Because that makes it easier to maintain.
+[35:00] Reuse and future events when you consider the inevitability of
+[35:04] volunteer churn.
+[35:06] So it was quite an undertaking.
+[35:08] So thanks to Alfie Billy Connor.
+[35:40] There's more.
+[35:42] tearingérica and
+[36:02] everything goes well.
+[36:04] We've had a fantastic year.
+[36:05] It's been a massive scale of operation this year.
+[36:11] That's not my slide.
+[36:12] That's someone found a recipe for happiness
+[36:14] and hung it up in the kitchen,
+[36:15] which immediately go to analyze by the real chefs.
+[36:19] Ressie before a 44-hour shift,
+[36:21] which I think we did once.
+[36:24] So one came in the next morning
+[36:26] and they've not gone home.
+[36:28] Some numbers, we've used zero kilograms of gas this year.
+[36:31] We are fully on induction as has been mentioned.
+[36:35] We've made 200 kilograms of Apple Crumble,
+[36:38] which is gonna be for dinner tonight.
+[36:42] For four scheduled deliveries by Booker
+[36:44] and then nine actual people having to drive to Booker again
+[36:47] because Booker has completely shafted us this year.
+[36:51] Most of the due to them having a power outage two days
+[36:54] before the festival and losing all of their fresh and frozen stock.
+[36:58] Yeah, that was an fun.
+[37:00] So far we've had 174 volunteers across five days
+[37:05] and then 25 or so core crew
+[37:08] who work for the remaining five days without any volunteers support.
+[37:12] And we had zero major water power gas incidents,
+[37:15] which is massive.
+[37:16] APPLAUSE
+[37:23] About the water, I would thanks to the buffer tanks.
+[37:26] We didn't even realize that was an outage this morning.
+[37:30] We've scaled up a bit, looking at the numbers of what we've ordered.
+[37:33] We went from 65 kilograms of bacon to 175 kilograms.
+[37:36] That's just for breakfast.
+[37:38] 90 kilograms of sausages were going to 171, 200 kilograms of onions to 400.
+[37:44] So we've basically doubled the amount of food we're serving this year.
+[37:47] And all we've done is made the kitchen slightly bigger,
+[37:50] which I think is an absolutely epic achievement
+[37:52] and the team deserves a huge amount of credit for that.
+[37:55] APPLAUSE
+[38:00] APPLAUSE
+[38:07] And with all that, we managed to 5% reduction in life injuries.
+[38:10] APPLAUSE
+[38:12] Stages.
+[38:15] Hello, I'm your best replacement stages, Speaker.
+[38:18] I'm Lou, we have some stages.
+[38:19] I think you can agree. They look wonderful.
+[38:21] There's a lot of trust. There's a lot of aluminium scaffolding.
+[38:24] There's a lot of stage deckings, a lot of amplifiers.
+[38:27] Some TVs. Yeah, don't worry about it.
+[38:30] And some intelligent LED lights as well.
+[38:32] If you get a chance to see the gardening garden
+[38:34] down the side of stage C, it looks really, really cool.
+[38:37] We also had a caption system.
+[38:41] This is using the whisper media model,
+[38:44] and all data is processed on-site.
+[38:46] No data is leaving this site.
+[38:48] So that's where we felt comfortable using it for all the talks.
+[38:51] APPLAUSE
+[38:54] No sector.
+[38:58] Hello, my name's Nick. I'm from the No sector team.
+[39:02] Who went to No sector this year?
+[39:04] APPLAUSE
+[39:06] Who's going back tonight?
+[39:08] Yes, brilliant.
+[39:10] So, 22nd, 6th, with some key goals.
+[39:12] We wanted to make the area larger.
+[39:14] We wanted to look at people flow.
+[39:16] We wanted to add an algorithm, music,
+[39:18] what John, do you want to add an algorithm, music, menu?
+[39:21] So we have an algorithm, music, menu.
+[39:23] And we wanted to spend more time on well-building,
+[39:26] themeing, and trying to make the world
+[39:28] the polybius biotech in the year,
+[39:29] 2097, Libston, because that's where you're transported to,
+[39:32] when you go into No sector.
+[39:35] Um, Charles starts in Fusion 360.
+[39:38] He sends me that. I work in VectWorks.
+[39:40] I don't like Fusion. He doesn't like VectWorks.
+[39:42] There we go.
+[39:43] Uh, that's the drawing.
+[39:45] That's the drawing picture.
+[39:46] I think we got it pretty close.
+[39:48] APPLAUSE
+[39:51] My favourite bit of feedback I've had so far is,
+[39:55] why is No sector smaller?
+[39:57] It's not. It's 45% bigger than 2024.
+[40:02] That is seven spaces. We got the dance floor in the Algrave 10.
+[40:05] We got two bars. We've not found the secret bar.
+[40:08] You haven't tried hard enough.
+[40:10] There's 21 vendors across the weekend have sold stuff in our night market.
+[40:14] That doesn't include the expansion markets that have been going on in the day time.
+[40:18] We've 27 different art installations.
+[40:20] I've run a container or in the bar or around the space.
+[40:24] And one that I think is really nice,
+[40:26] having gone to their talk yesterday, is Dreamcatcher in a space that's
+[40:30] significantly larger than they have with,
+[40:32] than they had last year. And that's where over-brothers.
+[40:35] So everything is bigger in No sector.
+[40:37] Uh, we love containers. We love containers. We got 10 more.
+[40:41] I don't know why we did it. It's really annoying.
+[40:43] Containers are hard. You got to get them delivered.
+[40:45] You got to level some of them.
+[40:47] I put free of them eight foot in a wrong place.
+[40:50] So we had to move those again.
+[40:52] But containers work really well for noise protection.
+[40:56] And as you may have noticed, we're no longer covering the entire north field in noise.
+[41:00] It all goes off into the woods.
+[41:03] And it almost works too well because you can stand out outside of no sector
+[41:08] and not realize that there is a gig going on.
+[41:10] Which is a problem because someone thought that wasn't a gig going on.
+[41:14] Um, but no, between the stage team and the people we work with on noise side,
+[41:20] I think we've done a really good job of having a really loud dance floor,
+[41:23] but not really being able to hear it outside.
+[41:25] The only thing you can weirdly hear everywhere on site is
+[41:29] John T's recording announcements that happen every five minutes.
+[41:32] Um, I don't know why it's just that vocal seems to be enough loud as in everything else.
+[41:37] Um, so somebody's numbers.
+[41:40] I try to update midtalk, but that's fine.
+[41:42] We have 160 meters of trust.
+[41:44] We have five kilometers of cable.
+[41:47] That number is just an Alexis cable.
+[41:49] I then had to add the power cable higher on 166-fexture lighting fixtures, 18 speakers, 8 panels of video
+[41:56] will 150 watts of lasers, 230 liters of isoprophic alcohol for our full flame machines on the roof.
+[42:03] We only had one small fire and me and Ross put it out with some cider.
+[42:08] Um,
+[42:13] free underly it's a smoke fluid over 40 kilowatts of smoke machines.
+[42:17] Yes, I did have to re-plug many of smoke machines because as much as we had the greatest
+[42:22] within the world to plug them on different circuits, it didn't always happen.
+[42:25] Unfortunately, the photo of Luke isn't here, but Luke who was meant to be our bar manager was not
+[42:31] able to make it to EMF as mentioned in the opening talk.
+[42:34] He fell out of window five weeks ago, tried to recover from that, was doing really well.
+[42:39] And then he got really big food poisoning.
+[42:41] So a huge shout out to the Nolsecde Bar team who have had to scale up to run both bars without
+[42:47] looming on site.
+[42:49] Our Greg Gloria's leadier Charles is also got some ability issues, so Charles is now a professor
+[42:54] Xavier and we only have one incident involving the scooter.
+[42:57] Finally, we really, really, really, really have tried hard to make the
+[43:01] feeling work. We've had a bunch of custom assets, custom audio, custom printing, lots and
+[43:06] lots of dialogue. Hopefully you've enjoyed the little scripted sequences that happen.
+[43:10] And on a very final note, if you are creative and like working, like what thinking about
+[43:15] theming and design and stuff like that, we'd love to hear from you. We love construction people.
+[43:19] We love production people, but we want to push for more creative and storytelling in Nolsecde
+[43:23] next time.
+[43:24] Oh, yep, yeah, video.
+[43:31] I'm going to be very, very quick. We do video surprisingly, it's streaming. It's on demand.
+[43:35] We had five stages, that's two more of a last year and there's two and a half
+[43:38] terabytes of raw and go to video on our fall server. It's not actually that impressive, really.
+[43:42] We do infer beamers as well. They're on a projectors, or doing the apparent caption system
+[43:46] and you submitted a hundred bits of attendee content. Here are some of my favorites.
+[43:52] We are in the tent. We have three BMDA terms. One of them was haunted,
+[43:56] seemingly exercise by a firmware update. Here it is, it's playing half of crab rave,
+[44:00] offset by half a picture. In the tent, we had a companion. We had a stream deck, the button
+[44:06] suck, but it's very, very flexible, so you can control everything from one surface and that was quite convenient.
+[44:11] And then we had an encoder pushing, running lots and lots to feed the pipeline.
+[44:16] You may have noticed, last year the opening ceremony was released just before the closing ceremony.
+[44:20] The rest took a little bit longer. This year, and I should talk to the release already.
+[44:26] And the rest and the YouTube releases will follow.
+[44:32] And seriously, this would not have been possible without the equipment time, the expertise and everything else
+[44:38] from our friends from C3Voc. So seriously, many, many thanks.
+[44:43] One more thing as well. We pulled some favors. So we're happy to announce our latest service.
+[44:52] The MF Stage A feed has been available via AsiaSat 5 for the last 45 minutes.
+[44:59] There it is. So, yeah.
+[45:07] Thank you, volunteers. Thank you very much to everyone who volunteered. You make this event happen.
+[45:13] Lots of shifts to fill. You did. There's a box here, can't see it.
+[45:17] 303 shifts per hour being signed up for. Now we have 39 different volunteers, many of which were made up in the field.
+[45:24] While we were here, 26.6 weeks of volunteer time or 1.2.5 working years for a single person.
+[45:33] Special thanks to people feeling in slots for larping and shipping container, unless an 8 hours, despite
+[45:39] them not counting towards meal tokens. Bizarre is as in for 430 AM shifts, driving a golf
+[45:44] car surround very slowly with apologies to people who arrived today. And the three brave souls who
+[45:49] signed up, walk around the site, giving the composting toy that we live in is a good shake.
+[45:53] Your heroes, we won't be shaking your hand. Sorry.
+[45:59] There's more people sitting around the lake on Wednesday who stepped up and put the chairs out on
+[46:02] the stages everyone who responded to our suits saying that some shifts needed filling almost instantly
+[46:07] and our amazing build and tech crew who spent extended periods living on a construction site and
+[46:11] will still be here long after you have left. Finally, join us. I think that is it.
+[46:19] Thank you very much. Sorry to Robin and for running late. And yeah, that's it.

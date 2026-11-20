@@ -1,0 +1,502 @@
+[00:00] Hello, welcome to stage C. We have Lightning Talks now, which is going to be run by Thor.
+[00:20] Okay, it is a bit of a fact. Lightning, yes, you are not going to have anything like as much of my
+[00:31] vamping this time because we have got a super-package. I do so we are just going to get on with it. Here's Chris.
+[00:36] It's like a video game, but in real life is a phrase that has existed almost as long as a video game's have.
+[00:49] But it's a phrase that's used so much that it needs disambiguation. You've got to specify what type of video game
+[00:57] but in real life it is. One particular type of video game in real life is
+[01:03] cart knowledge us to real life, cooperative Mario party. And it's a little genre that's more popular than you might think.
+[01:12] It's existed since the 20th century. There's more than 250 commercial installations around the world in more than 30 countries.
+[01:19] A lot of these are one-offs, but there are some multinational brands as well, notably prison island and activate.
+[01:26] Often these centres stand alone, but a lot of the time they're in family entertainment centres.
+[01:31] They tend not to compete with each other too much. What you can identify commonalities between game-to-similar formats,
+[01:39] there's some fairly limited recognition of them as a genre.
+[01:42] They're mostly discussed in the escape room space. The French language escape room space is settled on the term
+[01:48] lays actual games for them, but in the English language space we're just about to agree with the term challenge arcades.
+[01:56] My definition of a challenge arcade is a site where teams play many large, quick, physical or mental games
+[02:05] shows them from a wide selection. It's a fairly flexible sort of decommission. The term arcades chosen to
+[02:12] can note a site with a choice of physical machines and which physical machine you choose
+[02:18] determines which game you're going to play. There's also a more console-like form where there's only a single
+[02:25] room, but it has image-mact walls and you get to choose which game that you play on those, and that's the immersive
+[02:32] game box brand. The best games in charge arcades have got size and spectacle. They have interesting
+[02:38] unusual input methods. A common gameplay style is to present to game without instructions and pod the game
+[02:45] is to work out what you have to do in order to win. Many of these games get lost very quickly after which the team
+[02:52] will leave the room, but they may choose to come back in straight away with a new installation they've learned and do a bit better
+[02:59] than next time. Right, there are a few limits as to what sort of games can be played in the charge arcade, and the best of them give you a high end toy box to play with in an adventure playground.
+[03:14] Physical games can involve traversing spaces with the floor its lover being a common sort of trope. They might involve blazers, dodge,
+[03:23] small mazes to go through, you've got balls to throw it targets. Mental games could involve
+[03:29] sliders to decode, they could be pattern matching, they could be clues, deductive or inductive puzzles, riddles much much more.
+[03:39] The photo on the right is going to be, the photo on the left is a site called BodaBorg in Torps Hammer Sweden. This is the first
+[03:51] charge arcade, at least in the main evolutionary line. It opened as far back as 1995. Sweden and
+[03:59] brands and the Bendlux nations remain hotbeds reform. One column cultural touch point between them all is a
+[04:09] thought by art game show which makes the mini game format instantly relatable.
+[04:14] The fourth word inspired by the crystal made here in the UK, which has its own related life experiences.
+[04:21] I think it's very much not coincidence that the places and times which thought by art is most popular are the ones that most inspired charge arcades.
+[04:32] In the UK, most of the charge arcades are concentrated in London and Northwest England. The activate brand is
+[04:43] licensed by a company called WeDoPlay which operates the flip out trampoline centers and the laser quest brand, but they've promised
+[04:51] 30 activate centers across the UK and Ireland in five years. Close to here, there's one caring soon to Cardiff called Vault City so
+[05:01] I look out for that. I like the analogy of escape rooms as being like restaurant. You go to a restaurant,
+[05:12] you go to a steak restaurant if you want to eat a steak, you go to an escape room, you want a horror escape room, you want to play horror game.
+[05:18] Sometimes you're in the mood for a buffet restaurant and if that's the case, you want to charge arcade.
+[05:24] Do you want to do a Q&A turn?
+[05:26] Thank you.
+[05:28] Thank you.
+[05:30] Thank you very much.
+[05:32] Give it up for Chris. Next we have, like give it up at the end. David.
+[05:55] But Pumaing excavator of a carvaker. Alan Turing. You are known for a lot of things. You are known for code breaking,
+[06:02] but you're also the father of modern computing and AI. In fact, there are very few scientists in the history of humanity who have had as much of a distinct
+[06:11] contributions to as many distinct fields as you have. You enjoyed watching movies, no at in the seven dwarves. You went to watch that in the cinema.
+[06:18] You almost qualified to play in the Olympics in the marathon on the team GB.
+[06:23] And here's a photo of me graduating from Manchester University, the Alan Turing building in math.
+[06:28] H23, you wrote this paper, which pretty much put you in the position of the father of modern computing.
+[06:35] But we'll broke out in that time so you couldn't take it further.
+[06:39] Because it was not one on the battlefield, but rather with information.
+[06:43] There was the enigma machine that would decode one letter into another letter and it was incredibly complicated.
+[06:49] And so the British Army decided to recruit people to solve it.
+[06:53] To put it into perspective, using today's computers, they would take an entire year to decode one single message by brute force.
+[07:01] So, there had to be alternative ways to do that. They recruited code breakers including crossword champions, linguists, chess champions, and only a couple of mathematicians.
+[07:11] And they found you and you went alongside them.
+[07:15] But crossword champions in the linguists decided to use pen and graph paper to decode it.
+[07:20] But you decided to build a machine. This is a photo of the machine here.
+[07:24] And you could do that by reducing the number of possibilities.
+[07:27] For example, you worked out the Heil Hitler was in pretty much all the SS messages.
+[07:32] So that could give you clues as to how you could decode it.
+[07:36] Because of the machine that you built, the beach landings on D-Day happened and many other Allied victories.
+[07:43] And Winston Churchill said that you were the single biggest contributor to Allied victory.
+[07:49] Historians estimate that the war was cut short by two years because of the work you did.
+[07:54] And we estimate what might have happened, an atomic bomb probably would have been dropped on Berlin instead of on other places.
+[08:02] So after the war, the computer, the Europe, hypothesized the British government tried to build it, but they thought it was impossible so they gave up.
+[08:09] And you can tell them that you had been involved in it's very similar one a couple years earlier.
+[08:14] Alan, you are the reason why I have a smartphone in my pocket, why we're all using computers, and why AI exists today the way it does.
+[08:25] But the thing is, a lot of the papers you were not accepted at the time and everything was burnt of what you had done during the war.
+[08:32] You were destined to die in nobody, but compared to what happens next, I really wish that what you would have got.
+[08:38] In 1952, there was a burglar that broke into your home.
+[08:42] And when the police came to investigate, they decided not to arrest the burglar but to arrest you because they found evidence that you had been in relationship with another man,
+[08:50] which at the time was not only illegal, but the majority of the British public thought that it was the worst thing that could happen.
+[08:56] You ended up being given the choice of going to prison or calcastration.
+[09:01] You ended up taking the latter and you lost your job and went into a depression as a result.
+[09:06] And then you decided to recreate the scene from one of your favorite movies you took an apple, you put cyanide in it.
+[09:13] And age 41 in the age that I am today, you took your own life.
+[09:19] Soon afterwards, they did actually build the computer that you hypothesized and after that a lot of the papers you were accepted.
+[09:28] But it wasn't until the 1990s that your name was eventually clear.
+[09:33] And after that historians and scientists started asking, why is he not pardoned for what he's done?
+[09:41] When you arrested, you didn't listen to your family or friends, you confessed to everything because you had this crazy idea that a man could love another man and that might be okay.
+[09:51] A crazy idea that in 2013 the rest of the world started to believe.
+[09:55] That same year you got the pardon from the queen.
+[09:59] But then everyone started asking, why just him?
+[10:02] And the most amazing thing happened after that, you're one final legacy.
+[10:06] Because four years later every single gay person that had been arrested for similar actions got pardoned.
+[10:13] Alan, you were the reason why I went to Manchester University and I wish you were alive today to see all the people who are.
+[10:21] I wish you were alive today to see students sharing their love for math at the Alan Turing Building.
+[10:26] The most of all, I wish you were alive today to see, the you are remembered.
+[10:30] Nozacriminal, nozacphagate, but as one of the greatest heroes the world has ever known.
+[10:36] Next up we have Arana.
+[10:51] This is gonna have a sink, I don't know.
+[10:58] Back to start.
+[11:00] Sorry, this isn't you, this is me, but you're just advancing.
+[11:06] It starts with the first like, yes it is.
+[11:13] I didn't even make noises.
+[11:16] That's how fast we are, I am so fast.
+[11:20] That's the wrong name.
+[11:22] That's the wrong name, that's right.
+[11:24] Hello, that's not me, I'm Arana, I'm a fairy.
+[11:27] I have autism, let's talk about this content, wanting for Bonnie horror, I have 64 slides.
+[11:32] That's just the introduction, I knew I'm more a pony was asked by Don Carpetal to do music, but any I'm more a pony,
+[11:37] made the music in the style of John Carpetal, so it was effectively pointless.
+[11:41] This spaceship in the introduction has 128 incandescent bulbs in it.
+[11:48] This is a bin bag in front of a fish tank full of smoke, which slowly burns the thing in play, revealing the letters the thing.
+[11:56] This is, it was filmed on a page in two places, British Columbia and a hider in Alaska.
+[12:04] That's a dog called Jed, Jed is a good boy, we'll get back to Jed.
+[12:08] The actor playing windows, and the background there's playing the only other piece of music that plays in the only diagetic piece of music there, piercing thing.
+[12:15] John Carpetal, playing Arjen, we're pretty, he's back story is that he is a Vietnam helicopter pilot, because whilst would you be a helicopter pilot, he hated being a helicopter pilot.
+[12:27] This is filmed in British Columbia, you can tell because of this blue barrel here, everything on this side of the blue barrel is British Columbia, everything on that side of the blue barrel is in Alaska.
+[12:37] That's the base, they built it in a town called Hider in Alaska.
+[12:41] They had to all cast a crew, had to get a bus every day, John Carpetal, flew in the helicopter.
+[12:47] They actually blew up the helicopter on site, and they didn't take it with them when they left, no, 14 years after the thing was released, a whole bunch of people went up there,
+[12:56] and they got bits of the helicopter and brought them back down, it was really dangerous.
+[13:02] The actor who plays Windows in the script, his character's name is Sanchez, he came onto the set one day wearing sunglasses and set,
+[13:09] I want my name to be Windows and John Carpetal was like, okay, in deleted scene, you see that they have a hyperpony swearhouse at the back of the thing where they are growing or let weed.
+[13:20] The helicopter pilots, they had, all absolutely fucking insane, and they let Kurt Russell fly the helicopter.
+[13:28] Look at the scene where it takes off and then it goes, woo, that's what he flag it.
+[13:32] This is Jed, Jed is an excellent dog, Jed, did this whole scene where she walked all the way through, stopped, looked forward, stopped, looked forward, looked into another room in one take.
+[13:44] Jed is also the dog that was in Baltho, I think, so the other one, but so canonically Baltho is the other thing.
+[13:53] This scene, that is not any of the characters in the film, that is Kurt Russell's stuntman who suffers under the amazing name of Dick Wallock, which implies the existence of penis sorcery.
+[14:04] Unfortunately, he does look quite a lot like the actor who plays Baltho, so this whole thing was kind of pointless.
+[14:10] The Norwegian bass, if it looks very similar to the bass you just saw, yes, they blew up the bass at the end of the film and then they filmed the Norwegian stuff there.
+[14:18] Although we just have a film for it inside the bass to imply a sense of being watched and claustrophobia by the cinematographer Dean Kundey.
+[14:26] The dog is watching them arrive because the dog is evil.
+[14:31] In this scene, which John Carpeficle is a 12-man acting contest, all the characters are breathing in a beast mode.
+[14:38] A beast mode is toxic.
+[14:41] This, the two-headed thing there, don't you want to recognize him? This is Robert Picardo, the doctor from Star Trek Voyager.
+[14:49] Robert Dean, the prop master for the show, had a head of this made for the howling and just reused for the thing.
+[14:56] John Carpeficle is a staunch support around him on the right, as you all fucking should be, and this dog is being shot in the face with Carb Poul, which is the ingredient in the middle of Twinkies.
+[15:07] This is the only full frontal unity in the film.
+[15:10] This is the only scene which Robert Dean didn't actually do the tricks for, because he worked himself to exhaustion,
+[15:19] like making the props for the show.
+[15:22] That dog has somebody's hand up from underneath it, wiggling it around.
+[15:25] These tendrils are all filmed in reverse, so they go back into the thing and they play the form backward.
+[15:30] It's a really good effect.
+[15:32] This thing is made up of hundreds of little dog teeth, but you don't don't have teeth attached, but you don't really see it in the film, because it's five seconds.
+[15:40] I'll skip that one.
+[15:42] He touches, he touches the thing with that, when he touches it to his mouth, he's a fucking idiot, especially a scientist.
+[15:48] One of those is John Carpeficle.
+[15:50] That is the map painting.
+[15:53] There's a fucking dude here, they didn't take him out of the shot.
+[15:57] This is filmed in the Universal Studio a lot.
+[16:00] This is a big map painting.
+[16:02] They didn't think that they thought this scene was unrealistic, because computers would not be powerful enough to do these effects.
+[16:09] This is Chad GPD.
+[16:14] This guy is freezing to death because this was the only special effect they filmed on site in Alaska.
+[16:20] They made it, they could hear, my best friend says that his hands look like a mirror on me.
+[16:25] You can't see actor playing, he's fucking name, and this is because he is not, I'm not a guy.
+[16:40] It's a good thing.
+[16:50] Thank you, Arona. Next up, we have got Andy.
+[16:55] I'm going to be a bit of a happy one.
+[17:00] I'm going to be a bit of a happy one.
+[17:04] I'm going to be a bit of a happy one.
+[17:08] I want to do a quick talk about how you can make your own truly source.
+[17:12] Who likes chilli sauce?
+[17:14] Most of the chilli sauce you get in the UK is shit, as far as I'm concerned.
+[17:19] The staff you get in the supermarket is either tremendously banned.
+[17:23] It's not very hot, and often the stuff that is hot tastes absolutely ghastly.
+[17:28] I came across this stuff in the States, it's called Ring of Fire, and despite the name and the logo,
+[17:33] it's actually not that hot. It's quite a moderate heat, really tasty, really nice.
+[17:38] I used to be able to get it in the UK, just can't seem to get it anymore, and of course,
+[17:42] an absolute fortune to get it sent across to the US.
+[17:45] I thought I'd have a go at making my own chilli sauce.
+[17:48] It's not actually that hard.
+[17:50] The process is a thing called lacto fermentation, and this is where lactobacillus
+[17:54] in a salty, brine environment will convert sugars, fruits and vegetables into
+[18:00] lactic acid. It changes the flavor, tends to kill off the bad bacteria,
+[18:05] and apparently it also has some probiotic effects, so I'm told.
+[18:08] Not that I really care about that.
+[18:10] You can use most of your fruit or vegetables. You put it into a glass container,
+[18:16] you cover it in a salty brine that's usually about 3%
+[18:20] 3% salt by weight. You let it ferment for a week or two depending on what sort of effect you're trying to get.
+[18:26] You chuck away most of the brine, and then you add some vinegar, and you can just buy this in bulk,
+[18:31] fairly cheaply, just sort of a side of vinegar, for example.
+[18:35] And then you blend it all up, and then you can just bottle it at that point.
+[18:41] But what tends to happen is the fermentation continues, the CO2 builds up,
+[18:45] and then suddenly one day you get a big bang come from your bottle,
+[18:49] and there's glass and chili sauce everywhere, and your wife gets very upset.
+[18:53] So what I tend to do is I put it in a saucepan, and I simmer it,
+[18:58] and that has the effect of thickening it, because it boils off a lot of the fluid,
+[19:02] but it also kills off all the bacteria that are causing the fermentation,
+[19:06] which means it shouldn't continue to ferment.
+[19:11] Okay, and then finally you pour it into a bowl, and I just use your old sauce bottles.
+[19:16] Okay, a couple of important things to mention, when you're doing the fermenting,
+[19:21] you can either sort of loosen the lid and let the carbon dioxide out,
+[19:25] but if you forget things will go bang, so it's much better to have one of these
+[19:29] little bubbler things here to keep any little fruit flies and things out,
+[19:33] and make sure you clean it well, keep it nice and sterile,
+[19:37] or you can get like a 10 pounds in Amazon or whatever your preferred supplier,
+[19:42] you can get a glass jar with a little air lock in it.
+[19:46] Okay, disclaimer, botulism very bad, okay.
+[19:51] One microgram of inhaled botulism can kill an adult male.
+[19:56] If you're not careful with bottling or canning, you can end up getting botulin and bacteria,
+[20:02] which produces this incredibly deadly toxin,
+[20:05] most deadly toxin's known to man.
+[20:07] So if you need to keep everything clean, either boil it all or use cleaning solutions,
+[20:12] if anything starts to go furry, okay, nothing gets furry,
+[20:16] but if any of your fruit and vegetables to go furry, you need to throw the whole lot away
+[20:21] because you just don't want to risk it.
+[20:22] You can get a white sort of scum on top of the thing, and that's just yeast,
+[20:27] and that's okay, but if it's furry, weird colored or smells bad, you need throughout away.
+[20:33] I made a batch of stuff with garlic in it, and it all went blue,
+[20:37] and I threw it all away, and then I read the next day,
+[20:40] garlic goes blue when you lack to ferment it.
+[20:42] So, there's a bit of trial and error there.
+[20:46] So these are some of my results, so my first attempt,
+[20:49] I tried to make something like ring a fire with chilies,
+[20:52] an onions which are lacto-famented, and then I added some canned tomatoes and herbs,
+[20:57] and coriander and things, and it tasted pretty good.
+[21:01] Okay, just wrapping up now. That was not bad.
+[21:04] chilies and pineapples, lacto-famented pineapples, plus and tin mango.
+[21:08] This was amazing, better than anything I've ever had at a shop.
+[21:11] chilies and blackberry look great, tasted terrible.
+[21:15] chilies and banana, absolutely disgusting, okay.
+[21:18] So it requires a bit of experimentation, but it's not difficult.
+[21:24] Go ahead and have a go at it, keep everything clean, throw away anything furry.
+[21:28] Thank you.
+[21:29] Okay, thank you, Andy. Next up, we have Louis.
+[21:42] Hello, electro-emagnetic field festival. Are we well?
+[21:51] This is my first ever talk here.
+[21:56] So I used to work at Penguin Books in the office next to the guy who made rough guides.
+[22:01] Give me a cheer if you've heard of rough guides.
+[22:04] Well, my free time, I made something much more important.
+[22:07] This is my quirky guide to London, to South London.
+[22:12] Here we have something I've built my free time, and I'll take you through some of the curiosities
+[22:18] of South London. So give me a shout, the first one you'd like to see.
+[22:24] Vigam Raster, I heard Skypool, because this is a PDF slide presentation.
+[22:29] This is the Skypool, near Vox, where we're doing a walk along the tens, and came across this.
+[22:34] It's a swimming pool between two skyscrapers, or perhaps it's a wet shortcut between them.
+[22:42] Next, we have, I was only working here last week.
+[22:47] The sumo wrestling tournament in South London is going to move to Shoreditch soon.
+[22:53] So if you'd like to hear about that, there's a QR code. You can sign up to my newsletter and find out about it.
+[23:00] Someone just went, that's cool.
+[23:02] Yeah, it was. Yeah, and I got to hang out.
+[23:04] I went to the closing party of this, and there were some very drunk sumos.
+[23:09] We'll go, go, go.
+[23:12] And the little guy on the left, he often won.
+[23:16] It wasn't necessary always the big guy who won, because he'd run around a trip people up.
+[23:20] Where should we go next? You don't know. It's going to be, ah, this is where all started.
+[23:25] This is Canada Water Library Cafe, which I think looks a lot like the Stahl's Sand Crawler.
+[23:32] So I started, and then very, started making this on my mobile phone, and I started off as a software developer.
+[23:40] We sort of complicated technology, and then over the years, and now this sort of beauty in just keeping it as simple as possible.
+[23:46] And being able to update it on my phone.
+[23:49] Anyway, it was in there, and Lloyd reads these days. They have a hard time because they have to serve lots of purposes.
+[23:54] It's not just quite reading. There's so noisine there.
+[23:57] It was actually 83 decibels, which is the volume of an automobile.
+[24:02] Going to this app. So you can read about that on new cross-sties.
+[24:06] And then, oh yeah, if I've got time, I just tell you quickly, I started doing this when I was made redundant from a tech job.
+[24:13] So I just bought a flat, and then got made redundant.
+[24:16] So I was sleeping on this campbed, walking around my area, wandering of good app ideas.
+[24:21] Maybe I could do my own business. I didn't think of one, so I made new cross-sties instead.
+[24:26] And finally, the latest entry that I did yesterday, and you can go on the QR code or the website and have a look at this.
+[24:33] It's electromeagnetic field festival.
+[24:36] And you've jumped it's got on the phone already.
+[24:39] And what I wrote there was its Britain's answer to the Burning Man festival.
+[24:43] But less sexy Californian dancers, more Wollison, grommet inventors.
+[24:48] Quinters, entry, British.
+[24:50] Well, I'll come to self as one of those inventors.
+[24:52] Thank you. That was New Cross-sties. My name's Andrew Christie.
+[24:54] You can write it.
+[25:04] Alright, thank you, Louis. Next up, we have got padding.
+[25:10] APPLAUSE
+[25:12] APPLAUSE
+[25:15] So I got...
+[25:17] No, hello. This is going to be a bit of a brief guide to eSports commentating at work, I tend to ask people,
+[25:23] What if you do over a weekend and they come up with on, like, oh, I've worked for dog. I went and watched TV.
+[25:29] But given the kind of people who haven't eaten AMF, a lot of people I've ever weekend dominated by one negative specific hobby, I mean, just look at these photos from the last few years.
+[25:38] My name is eSports. I do a lot of kind of tournament organisations. I do broadcast production.
+[25:44] And most relevant, I do casting.
+[25:47] That is me at a tournament in the loan, not too long ago.
+[25:52] I've got to go to a few amazing place, Clones. One of them got to go to Vilnius earlier this year, and this year, and this year, I've got to go to Stoke on Trent.
+[25:58] Then you were sick, Stoke on Trent.
+[26:02] Wasn't my game of choice, the racing game, or track mania? Who's her to track mania?
+[26:07] That was not what I had written in my script. I was supposed to make a joke about how no one's heard of it.
+[26:11] That's a pleasure to surprise.
+[26:13] Yeah, it's an arcade racing game, very high-pays, a lot of very tight margins, a few of the young and bright recognisers.
+[26:18] As a background video from TikTok when someone's reading a Reddit, and I've got a whole story.
+[26:24] But I want to talk about esports, stuff, how it kind of... Well, it's in general, I'm one of the things to go up there with it's fact that you don't get to commentate alone.
+[26:31] You always have a pair, and it's trying to work out how do you commentate over esports event or esports event when you've got another person?
+[26:38] So, for me, I tend to try and do a bit of an even split, where we try and switch every 30 seconds. It requires a really specific skill of being able to make it very clever to you, about to end a sentence.
+[26:49] Because if you can't do that, the other person doesn't know when to try and min and pick up when you're at land events, you'll often have someone put a finger say, hey, I've got a point to make, or give a bit of a signal say, look, I'm about to wrap up.
+[27:00] This is how I tend to look as trackmen in his very fast pace. Most of the referees bought have a split. I didn't change title correctly, but you have a plate-like playcaster and a color cast, a web, a plate-like play kind of gets very excited.
+[27:10] And they go for the kill, whereas a color cast will go into those quieter sections, where they sit down and go, I think the economics of this situation hasn't really worked out very well.
+[27:19] Both are equally important, the color cast that is terrifying. This is an example of one of setups I get to use. This was in Villius at the Baltic Gaming Expo.
+[27:29] A really interesting note is the directional microphones are very directional, and in order to make sure that we actually speak directly into them, we have our own voices monitoring going back into our ears, which for a lot of people hearing your own voice would drive you bananas, and it took me a little while to get used to it, but it's super helpful.
+[27:46] So, it's called Fats, they have these incredibly directional microphones, because they don't want to pick up crown noise with our commentating, and they broadcast Fats out to the audience, they heard online, or app venue.
+[27:57] They then got to be very careful, not too broad cast into the players, because there's a concept in video games called Follows 4, where you can't see anything outside the second, this is a dark raft 2, and the issue with E4 to compare the most conventional sport is it's quite personal, the things are hidden.
+[28:13] There's very famous incident in the early days of League of Legends, where they put the big projection behind the players, so the players just turned around, back I got to sued $30,000 for that event.
+[28:27] They now put them under the staging, which is a lot more sensible or under the screens.
+[28:32] But that's how they block out the videos, I got to block out the audio, so an interesting note is most players have a kind of dual headset approach where they have these big bulky AVA headphones.
+[28:42] These headphones actually just blast white noise pretty much, or some kind of generic background sound, well the microphone does that key feed into a computer.
+[28:51] They then have a second pair of earbuds that are going, so they can actually hear the game sound towards players.
+[28:58] This entire set of the bass people have sold perps, blocking out everything I say.
+[29:02] I like E4, if you want to talk to me about E4, it's great.
+[29:12] Thank you, Patty, next up we have got a...
+[29:21] So, that's a hall, don't worry, the rest of this talk will be in English.
+[29:33] Welcome to my talk on Chinese domestic market microcontrollers.
+[29:37] So, how do you get OWN? How do you get access to Chinese domestic market controllers? This is LCSC. LCSC is an electronics component distributor, but they're based in Asia.
+[29:48] But their sister company is JLCPCB, and you might have heard of one or the other because they're really cheap, well sometimes.
+[29:55] And they know how to talk to Westerners, well, usually.
+[29:58] On LCSC, we can go into the category called microcontrollers, and in the bottom you can see you can filter for Asian brands that are in stock, and we have almost 2000 items.
+[30:07] If we let it take this list and we filter for the absolute cheapest items, we get some of these 8-bit things.
+[30:14] Don't use these, don't even try to use these, you will hate yourself.
+[30:18] So, if you want something that actually works, here's a vendor that makes parts that actually work.
+[30:23] In English, they're known as WCH, and their parts are primarily risk-five cores of their own design, with STM32 style peripherals around them.
+[30:32] But then they start adding interesting IO peripherals of their own.
+[30:36] For example, they have stuff with built-in Bluetooth O energy, or they have stuff with a built-in 5 for talking to USB power delivery, so you can ask for extra power, or they have built-in even.
+[30:47] One problem with a bunch of these is that if you're using Bluetooth low energy, which a lot of people want to use them for, that stack is a binary blob.
+[30:54] Fortunately, I and a few others have reverse engineered enough of it to transmit and receive packets, without using the binary blob, but no one has written a full BLE stack.
+[31:05] So if anyone wants to help contribute, please come talk to me.
+[31:09] These cores have special additional proprietary op codes that do kind of normal things, but they have different encodings.
+[31:16] If you need support for that in Gidra or LLVM, it is upstream in LVM because I added it.
+[31:24] One thing that a bunch of people really hate about most or many of these Chinese microcontrollers is many of them are inspired by the STM32 designs,
+[31:35] which means that their STKs are inspired by STM32 design, which many people don't like.
+[31:43] So a bunch of people have been working on alternatives, for example, people have been taking the raw registers, including rust, crates, and so on,
+[31:49] but there is a huge lack of coordination between the different groups that are hacking on all of these parts.
+[31:55] So if anyone is good at hurting the cats in an open source project, also please come talk to me.
+[32:01] So now for a quick speedrun of other interesting parts that I have found while browsing LCC.
+[32:06] This is a company called AGM. They make a risk-five microcontroller that is embedded in an Altarostyle FPGA fabric.
+[32:14] And I have done enough reverse engineering to understand how all of the titles in the fabric are connected, but there is no place in route tool because that requires a lot of planning and executive functions.
+[32:24] So if you want a risk-five plus an FPGA with FPGA is connected to the memory bus also come talk to me.
+[32:32] This vendor makes this called G-Lead that makes the chips in all of the cheap low end Bluetooth audio stings,
+[32:40] so I think that makes noise or receives Bluetooth or transmit Bluetooth. They're all built around one of these chips.
+[32:45] This company somehow managed to make their own in-house clone of the Blackfin DSP architecture that is not binary compatible, but just works kind of similar.
+[32:57] So if you really like dealing with weird compiler nonsense, they have a hacked version of LVM version 4.
+[33:04] If anyone wants to make this actually usable, also come talk to me.
+[33:10] This company, Lingo Semi, makes a bunch of the chips that go in almost all of the e-scooters that are not using to even cheaper chip.
+[33:18] This is an arm microcontroller with high voltage MOSFET gate drivers, so the microcontroller can directly drive high voltage transistors for controlling models.
+[33:26] And it is all built in into one package that doesn't cost very much.
+[33:30] And finally for something wacky, this company makes an arm microcontroller that some of has built in high voltage generation for doing tens.
+[33:40] I have no idea why, but it exists.
+[33:43] And yes, that is the end.
+[33:48] Come talk to me if you're interested.
+[33:51] Okay, how are we doing EMF?
+[34:01] I'm not fully yet.
+[34:03] So unfortunately, Mark Smith's slides, but Mr. Briefing.
+[34:08] So Mark, you're not in the audience anymore, I think you probably briefly have a mind.
+[34:13] And yes, so I'm just going to move through these.
+[34:19] You might want to just imagine the do do do do do do do do do music.
+[34:25] And keep that we go. Okay.
+[34:28] That's it.
+[34:30] Fine, right, after that briefcase, thank you.
+[34:32] Thanks up. We have got EM.
+[34:34] Hi, yeah, my name's EM.
+[34:42] And about 10 year well, I say about almost exactly 10 years ago, I formed like formalized a thing that I ended up calling.
+[34:57] I was like, I'm a holistic colleague.
+[35:01] And so I'd been hailing for a while, just kind of informally.
+[35:05] Started, I had a girlfriend, hard to believe.
+[35:09] And I used to, she had a flatmate, there was a bit funny, and didn't like me ringing the doorbell.
+[35:15] And so I would have had her window, and I thought that was kind of a man's egg.
+[35:19] And she would come to window and she would come and let me in and it was very sweet.
+[35:23] I'd, in my spare time, I liked to write neurotic pop songs in my bedroom.
+[35:30] And for kind of backing vocals and harmonies, I started using more house.
+[35:36] And yeah, so I suppose it always been been hailing a bit.
+[35:42] And if that's just, let's just do a little, little, little house.
+[35:46] So it's really simple.
+[35:47] We start with an R in the end with an U, and you sort of transition in the back of your throat.
+[35:52] So I'll do one first one, and then you can turn it, you can join it.
+[35:55] So yeah, let's see, I'll do it.
+[35:58] So I'll do a 3, 3, 2, 1.
+[36:00] There we go, there, thank you.
+[36:06] So that's hailing.
+[36:08] Now, the methodology of holistic hailing is, notice how you feel, and then do a how, and then notice how you feel again.
+[36:17] So let's try again.
+[36:19] So notice how you feel, yeah, we're like tuning, intersection as well.
+[36:24] And then do a how, and then notice how you feel again.
+[36:30] And almost, I mean, I've never heard anyone say that they feel worse after a how.
+[36:36] And it's a great unifying thing.
+[36:38] It brings people together.
+[36:39] I've only got two slides. I'm going to bring on the next thing.
+[36:42] So the the form it takes now, uh, primarily is, is two WhatsApp groups.
+[36:49] There's this one, which is, uh, hailing only, uh, which is literally a WhatsApp group where you how.
+[36:55] I'll just do a quick demo.
+[36:57] We use WhatsApp, unfortunately, because that was, I got really into a lixia, uh, in the summer of 2016.
+[37:05] And uh, and WhatsApp was written in a lang.
+[37:09] And, you know, it was all, and then met a boat them, like, a couple of, like, a year later, something.
+[37:14] But right up. But, uh, so here's the, here's the the group.
+[37:19] So I'm going to do a howling to that, feel for the joining.
+[37:23] Oh.
+[37:25] Oh.
+[37:26] Oh.
+[37:28] That I was doing some advanced techniques there.
+[37:30] But, I mean, they just tell the, uh, you think of the hang of it.
+[37:33] You're seeing it hangover. So that's now been beamed out to people. We've currently got about 60 members. I think I did I would lost 80 bang on right now. So at our peak we had 80
+[37:44] People come and go. So yeah, this one's Houting. This one is the back channel where we share just kind of like wolfy chat
+[37:52] Pictures of wolves, spitches of dogs, that sort of thing
+[37:56] What can Houting be useful? Team building. So if you're doing like you know I do sort of motivational howling sessions for
+[38:03] The teams that kind of bring them together. We have a how camp every normally every year
+[38:08] We have Mr. Feu over the last 10 but we've done about six or seven of them and they're always really good fun. We have lazes,
+[38:13] sound systems and a lot of howling obviously
+[38:17] If you lose somebody in a supermarkets market very easy you can just go
+[38:23] And then you listen there we go and the road with their somewhere you know that's so like echo location
+[38:28] What else can you tell me about that I just been cool really? The trick to howling is really just visualise
+[38:37] Your head turning into a really cool wolf and then
+[38:47] I think you get it anyway thank you so much
+[38:49] Oh
+[38:57] Why don't my tell you MF that was very cathartic
+[39:01] You know my my nephew Femres really into howling
+[39:04] Next up we have got Stefan. Thank you to the one person that got that joke next up. Stefan
+[39:10] All right, so I'm usually a developer but I have a heart for
+[39:21] Typography and graphic design and I brought that together in the concept called waltz. This is a German word
+[39:28] I don't know an exact
+[39:30] Expression in English maybe journeyman's years so what are we talking about so basically after your education
+[39:39] You go out in the world and you exchange your knowledge with other people's knowledge and usually how it worked in
+[39:47] Like in the history it started like 12 13 century so you went away for two years and you brought your knowledge to other
+[39:58] Like locations to other workshops and you took
+[40:01] Knowledge and brought it to others so it was an exchange
+[40:05] That happens not through books but really like through the the professional through a person that brings knowledge to another workshop
+[40:14] So when you are from Germany or Swiss or somewhere close you might know these kind of people
+[40:22] They are carpenter. They have their uniform and they're still doing it today
+[40:26] So it's kind of a thing in these craftsmen
+[40:30] Trades so it's not an internship
+[40:33] It's really you are already a professional so it's just like an exchange of knowledge and
+[40:40] It's basically to gain also for yourself and experience so I did that in
+[40:47] Kind of a different setting because I'm another carpenter so
+[40:52] And maybe like my experience that I did for only three months
+[40:56] Can also inspire you so we were two people in front was a
+[41:03] Michael his graphic designer and I was more like the developer and we did some preparation before we left
+[41:09] So we did our uniform with our logo on it we did some
+[41:14] Screen printing at home we produced some stickers we produced some flyers
+[41:19] So that we were able to advertise when we were in the new city we did a website
+[41:25] Where we held a block and then we just went to the states and we bought like a really old car and we did some
+[41:34] Carpenters crafts here and we built a little shelf in our van so that we were able to sleep underneath and have still our stock
+[41:45] We did us so and that was then our mobile we traveled for like as I said three months and we went to work in
+[41:54] Professional fields sometimes with graphic designers we were working outside we were visiting some spots
+[42:01] We got to know some technology we were were co-working spaces where we worked we had
+[42:07] Like meetings with some professionals
+[42:10] We were having meetings with clients we visited smaller studios
+[42:15] But also we made friends so we had some
+[42:19] houses we were really close with family and we visited big studios and the deal was always we go there
+[42:28] We don't ask for money we just get shelter and food and in exchange we get the experience
+[42:36] And as you can see we had like also like really stupid hats it helps
+[42:41] People to spots like okay these are the two crazy guys and let's talk to them and why are they dressed like that and why are they
+[42:49] Kind of weird uniform so it helps to start a conversation
+[42:55] Sometimes we were also like invited to like hot springs we met people for
+[43:02] Work in the garden like as our office we had some chickens helping us we met some artists and all that was just great
+[43:11] It was a real great
+[43:13] Inspiration we had some media attention because as I said it's kind of unusual that the graphic designer and the developer are
+[43:20] Doing that and yeah, it also brought me here to that stage to the electromachnetic fields and if
+[43:28] Yeah, it goes on so I also host that's other people and
+[43:33] Yeah, if you can help me out and if you have some ideas how we can learn in the 21st century come hit me up
+[43:43] Thank you
+[43:53] MF we have come to our last lightning talk for today
+[43:58] Absolutely we we started with Chris I think it is only fitting we end with the Chris
+[44:04] Hello
+[44:09] So this is sort of really the story of how a small idea ends up turning into a massive rabbit hole that you go to I think a lot of us in this room with probably experience that
+[44:19] So I've been making these kind of like cool led with the badges for the last couple of years basically and
+[44:25] And it all kind of started
+[44:27] Here doing a glass workshop with my mum that she wanted to do it and that's a bit of a strange connection right
+[44:33] Well, I kind of like saw this thing in preparation for that workshop and thought that could be a PCB
+[44:41] So it was a PCB but you know it's 2022 or whatever so it's got some LEDs on it so you know
+[44:47] And then things snowballed so of course we have to make a few more
+[44:52] And then I do a lot of stuff with postgres so I had to make some elephants because that's our logo
+[44:58] So this is kind of then where this sort of journey got a bit bigger
+[45:02] I'm first off made some kind of simple ones where we got the actual control
+[45:07] CPU on the main board and it was all just a sort of one off and
+[45:12] This all designed and keycats the whole thing designed with over saw software as well programs via Arduino
+[45:18] And then I thought you know how can I sort of try and make this a bit more feasible to scale up and make a few more of them because I decided I wanted to make a one of them to give away at a
+[45:27] Conference and so that's where I kind of came with the idea of while I need to split the control off and control module
+[45:32] Then I can go and make like a thousand of these to just keep the cost down
+[45:36] So it's got a little tiny 80 tiny 1616 so we kind of run a whole four megahertz
+[45:41] Only two kilobytes of RAM and whole 16 kilobytes of storage
+[45:46] And then all of the patterns are actually kind of stored like this as
+[45:53] Originally like hard coding them just used up way too much code space so I brought an op code engine which effectively
+[45:59] Takes a bite to ready and interpret it so for example rx5 is like flash LED five
+[46:05] So this is where project status no-balling a bit now kind of got a whole like
+[46:11] Basically mini computer running inside the microcontroller
+[46:14] That can interpret these patterns but it's all designed to be very space efficient so
+[46:18] Fetitably to flash one LED as one bite
+[46:21] And then of course well now I need to make the program disease here. I'll build on the sembler
+[46:26] So I wrote a little assembler though we can just like have some simple nomotics and then compile the bike code from it
+[46:33] And then of course you know I built an entire web base editor where I can actually just click on the program it generates and then it does all the assembly
+[46:41] And it downloads like I kind of see header file at that point in time
+[46:45] And then
+[46:48] You know how can we go about sort of program with this a bit easier so the actual programming adapter for the chip just needs
+[46:55] Effectively nothing more than a diode
+[46:56] It just turns a USB TT old-dongle into the app mill and UDPI program protocol
+[47:02] So I kind of had some space based on panels so I built a bunch of little pro-grade actors so I could give to people
+[47:07] But I want to try and make this even more accessible so
+[47:10] Can we actually program them directly from the browser without using our dream studio or anything like that and
+[47:15] In 10 to 16 to six it turns out we can
+[47:18] So there's a whole bunch of stuff had to change both in the code and then also in the whole website to make all this work
+[47:23] So when a biggest things was I didn't want to have to basically kick start a compiler off on some service and where so
+[47:29] I redesigned all the firmware to effectively just have all of the metadata for all the programs and the
+[47:33] different of the patterns all into one massive biter
+[47:36] That the firmware can then just load and process as a time of contents and that kind of stuff
+[47:41] Which then sort of ends up with like this is the actual kind of cool part now that's in the code
+[47:46] It's just this massive array of bytes that makes no sense
+[47:50] Except that we can now basically generate that blob in the browser
+[47:54] Mangal into a hex file and then we can program it stay onto the chip via web serial
+[48:01] Strayton browser
+[48:02] So now we've basically got straight from there to program it onto a badge with nothing more than a diode and a USB TT old-dongle
+[48:09] So thank you much
+[48:22] All right, stay see another big hand for all of us because
+[48:28] Or how loving how we are back tomorrow evening on stage b
+[48:33] Oh
+[48:35] We are back on stage b at 10 to 8 tomorrow evening
+[48:39] So if you feel like another another another grazing platter of information for your earholes come along to that
+[48:47] And have a great rest of your afternoon good night good night good afternoon
+[49:03] You

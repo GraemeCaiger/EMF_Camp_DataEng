@@ -1,0 +1,462 @@
+[00:00] So, everyone, thank you for being here and thank you for having me.
+[00:20] So, my name is João Cabral.
+[00:24] Yeah, and this is the talk. It's like teaching out value of probably new it.
+[00:28] Yeah, so it's about teaching out control and learning playfulness because I'm a teacher.
+[00:32] Back in Portugal, as I'll mention in the sec, and I teach a course across actually two classes,
+[00:37] but I teach two classes on alternative controllers.
+[00:41] And this is talk is a bit about what we're doing and what we,
+[00:47] yeah, the results we've had, what's been happening in Portugal.
+[00:51] Yeah, and some insights about the whole thing, because I honestly,
+[00:55] at the time, don't really, well, I still kind of don't have a clue what I'm doing.
+[00:59] So, we're kind of learning, it's a learning experience for me as well.
+[01:03] So, like I said, my name is João Cabral.
+[01:05] I come from Portugal, Lisbon.
+[01:07] I like to put LEDs on stuff, basically in my personal time, and my freelance work.
+[01:13] Partly as a freelance artist, digital artist, I come from a computer science background,
+[01:21] but I'm kind of sick of computers. So, I take every chance, I can get to get my arts and crafts done.
+[01:31] Yeah, I was a coder and a game designer for a while, in a video games,
+[01:37] in the studio company called Nal Monkeys.
+[01:41] Yeah, that didn't go very well as you can imagine.
+[01:45] And yeah, for the last five, six years, I've been lecturing at the Luzoff New University in Lisbon.
+[01:53] And it's really funny how I got there, because basically what happened is what was that I met a few
+[02:00] deep-loor, he's a director of the video games course.
+[02:04] And we met at the global game jam a few years ago.
+[02:08] And I have kids, I have twins at the time, they were like three, and I was like, okay, I'll go to a game jam.
+[02:14] And I went to Zoff New because the friend of mine is also teaching there,
+[02:18] a friend of mine from the industry.
+[02:20] And I was tired because I had twins, like I said, they were three years old at the time.
+[02:26] So I didn't want to code, so I brought all my electronic junk, LEDs and buttons and all that kind of crap.
+[02:32] And and Felipe was like, oh, I'm sorry, I'm not going to participate this year because I just came from a conference from abroad, my family.
+[02:40] But he didn't resist.
+[02:42] And he ended up teaming up with me and with my friend.
+[02:46] And we did like this crazy, yeah, so he brought his Vespa motorbike into the classroom.
+[02:52] And we did a scape room kind of game where you had to open up the lids of the bike,
+[02:56] or do some, solve some puzzle game on the brake handles and things like that.
+[03:02] So it was a nice introduction.
+[03:04] And after that, Felipe invited me to teach alternative controllers.
+[03:10] And so I'd really like to point out that what we're doing back home, in Portugal is really,
+[03:16] comes from the vision of Felipe's vision that something like alternative controllers is actually useful in a game development course,
+[03:26] which is, which I kind of feel like it does because it's the video games industry is very,
+[03:32] packed, very, has a lot of people wanted to do games and a lot of games selling.
+[03:38] And so it's hard to make yourself noticeable.
+[03:42] And using this alternative controller, since it's an niche,
+[03:46] you can really kind of do your thing and be a bit more visible.
+[03:52] Yeah, so as you can imagine, we started out, so I have no background in teaching.
+[03:58] And I actually don't have a much background in electronics and stuff.
+[04:03] But at the time I did some things at a personal level,
+[04:06] but I had not like, I came from a computer science purely software type of course.
+[04:11] So as you can imagine, we started out with cardboard,
+[04:15] dots and crafts made mostly.
+[04:17] Then we got to the point where, well, it was nice,
+[04:22] but students were spending a lot of time doing the cardboard and not doing the actual games,
+[04:27] because you need, you want to put buttons and sensors,
+[04:30] but then you need to put them somewhere.
+[04:32] So we started by cardboard, and it was really, a lot of effort and a lot of big time consuming.
+[04:37] And so we started then, we had the idea of going to softness junky,
+[04:42] our dumpster diving.
+[04:43] Yeah, so this is within the university as any big corporation,
+[04:48] I guess, it's a private university, but as any big thing,
+[04:52] it has a big dumpster.
+[04:55] And yeah, so we started dumpster diving,
+[04:58] and we started adapting rubbish, basically.
+[05:01] So this is like an IKEA greater, that was thrown away,
+[05:05] and someone picked it up and someone made some my students made a fishing game out of it.
+[05:10] Yeah, but we eventually, we kind of realized that what provided the best games
+[05:20] and the best interfaces for games was actually these kind of devices that we found.
+[05:25] So we did a whole semester, just based on old telephones,
+[05:30] so we hacked them, we opened them up, put an Arduino inside,
+[05:34] you go get the key pads and go get the lifting and putting down the receiver,
+[05:39] and then we hacked the tiny speaker on the phone,
+[05:43] the microphone is well, but it's a bit more difficult to use.
+[05:47] And yeah, we did a whole semester about just using five or six of these telephones.
+[05:54] There was actually a very cool game in which it was a detective murder mystery game,
+[06:01] and you use a real phone book.
+[06:05] So you go to the phone, like, you would get an audio saying,
+[06:08] oh, yeah, you have to call the jewelry store, called whatever,
+[06:12] and you would have to go to the phone book, find the jewelry store,
+[06:16] find the number, type in the number, then you receive the next audio to progress in your storyline.
+[06:22] Yeah, so that came through the suggestion,
+[06:27] that's where the students making a game, and then you kind of,
+[06:31] it's cool because I get to learn through the, through what the students make,
+[06:35] and it has been like this progression of, alright, I'm teaching about this,
+[06:39] but actually I'm also finding cool ideas and cool stuff about what we're making,
+[06:45] so it's really fun.
+[06:47] Yeah, so what we currently are doing, so, yeah, so the problem, sorry,
+[06:53] it's probably, so the problem was that when we were dubbster diving,
+[06:58] it really depended on the season, so if they were, if at the university,
+[07:02] there were dismantling this weird electronics room or some bio-medical room,
+[07:10] we had a lot of good stuff to work with, but sometimes we went there,
+[07:14] and there just wasn't enough things useful to make games,
+[07:18] and since we wanted these kind of devices, what we're doing now,
+[07:22] is actually go to those off-nose, two, these ones biggest,
+[07:25] three-market, it's called the Teves Market, actually.
+[07:28] It's very deep in my heart, because that's where I went as a child
+[07:31] to buy N64 second-hand games, so I really like it a lot.
+[07:35] And so we take students there,
+[07:38] it's student takes five years in their pockets, yes,
+[07:42] and we get there and they're looking out for junk,
+[07:46] and for, well, the same junk, for junk and interactable devices, yes?
+[07:51] So we find a lot of second-hand stuff,
+[07:54] more, many of them have buttons, and they have interactability on them,
+[07:58] so that's what we're going for.
+[08:01] We find some purely mechanical stuff,
+[08:05] and they're really hard to hack,
+[08:07] but some students are really drawn to that kind of stuff.
+[08:10] We find obviously the junk, I'm sure you'll find here
+[08:16] and a bit of everywhere as well.
+[08:21] Some things are really, really weird.
+[08:24] You can't really tell what they are, but they're interesting,
+[08:29] and we find some things which are just too expensive, although they're really,
+[08:35] so this is a fan, a learn-fock, radio, and light, all the same time,
+[08:42] but they were asking for, like, yeah, this is really expensive, so just wind and bring it.
+[08:49] Sorry?
+[08:50] I just thought, yeah, it's in the next version.
+[08:55] All right, so I got to a student, they take five euros,
+[09:00] they take photographs of stuff, they gang up to buy things,
+[09:04] yeah, because things are usually more than five euros,
+[09:07] they group up, they buy the things, and we bring it back to class,
+[09:11] and this is how the class looks like.
+[09:14] My class is actually done in the first two weeks of the semester,
+[09:18] where no other classes are taking are going on,
+[09:22] so that's really good, because the students are really focused on my thing,
+[09:25] and also we can make the room the mess and leave them a mess,
+[09:29] and just clean up at the end, because that was also, like, a big thing,
+[09:33] always having to clean up at the end of each class,
+[09:35] it's really, really time consuming.
+[09:38] Yeah, and so it's a two week class,
+[09:42] and during the first week, basically we're just taking objects apart,
+[09:46] and finding out what they are, and what we have inside,
+[09:50] because this is a really challenging week for me,
+[09:54] because you really honestly don't know what you're going to find.
+[09:58] Well, in most, some cases you do, but you don't know what's on the inside,
+[10:02] and sometimes things don't work, because you thought they would,
+[10:06] so you really have to adapt and adjust to the objects that the students got,
+[10:12] and so this first week is really challenging, because we're figuring the objects out.
+[10:16] We're like, how can we make a, actually,
+[10:18] you know what alternative controllers, I mean,
+[10:21] anything you look at in this festival is an alternative controller,
+[10:25] so I think, I'm all right, and yeah.
+[10:29] Yeah, so first week we're just taking the objects apart,
+[10:32] figuring out what to do with them,
+[10:34] and I, my job is to suggest and to tell the students,
+[10:38] maybe this will be easier, this won't be easier,
+[10:41] because I'm also doing this first week,
+[10:45] I'm introducing them to electronics, and not Windows,
+[10:48] and digital electronics, because they don't know any of this stuff,
+[10:52] when I, before these two weeks, so this is like the introductory class
+[10:56] to, Arduino's electronics and physical computing, yeah.
+[11:01] It's also important to have a box of electronic components,
+[11:05] because what students can do with the objects and what kind of games
+[11:09] they can make really depends on what you have available.
+[11:12] We just have the basic stuff to the fun,
+[11:15] because once in a while you'll find new partners,
+[11:19] like, oh, this is really good to make this kind of stuff,
+[11:21] and now we buy a bunch of it, so, yeah,
+[11:24] just basic electronics, color sensors,
+[11:27] these sensors, light sensors, buttons, knobs,
+[11:31] toggles, just the basic things,
+[11:34] especially because they're students, and they're going to
+[11:37] break some stuff, but I usually tell them that if they burn some,
+[11:42] if you have smoke, like, let's do and we'll get the next regret,
+[11:45] because it means they're trying and then they're messing with it,
+[11:49] yeah, they're not afraid of experimenting.
+[11:51] Yeah, I could just add a solder, obviously,
+[11:54] because that's an important part, it's really fun,
+[11:57] because they're not really expecting it.
+[11:59] It's a video game development course, by the way,
+[12:03] I don't know if I mentioned that.
+[12:05] Yeah, and so, and they start to integrate electronics into the devices,
+[12:09] so they have to hack the objects themselves,
+[12:11] I really help out a lot in this first week,
+[12:13] but the idea is that they have to think about what they want to do
+[12:19] with the objects in order to hack them,
+[12:21] because for I always against this example,
+[12:23] it's a real tough game, but if you're hacking a toaster to make a game out of it,
+[12:27] you need to know what kind of sensors you need, right?
+[12:30] You might want to put several types of bread in,
+[12:32] so you need a bread detector of some sort, right?
+[12:35] So maybe each slice can be of different breads,
+[12:38] can be a different color, and we'll use a color sensor for that,
+[12:41] or maybe not, we'll do something else,
+[12:43] maybe the toaster themselves have LEDs,
+[12:45] because you want to show if it's burnt or not.
+[12:48] So it really depends on what type of game,
+[12:50] how you hack the objects depends on what game you're building,
+[12:54] so the first week is about what they're doing and figuring the thing out,
+[12:59] and come up with solutions for when they choose objects
+[13:04] that actually don't aren't very good,
+[13:07] so this is a tough one, like a short roulette,
+[13:11] anything that's moving around rotating is really, really hard,
+[13:15] so yeah, but they found it out.
+[13:19] By the end of the first week, I always asked for a game design document of some sort,
+[13:24] and this isn't a reminder picture, this is not the document.
+[13:29] But yeah, because it's nice to have students think through what they want to make,
+[13:35] and have that on paper, because then at the end,
+[13:38] when they turn up with something completely different,
+[13:40] we can go like, okay, what happened from there?
+[13:43] How did this process happen?
+[13:46] And it's nice to put on paper, because then they have a guide,
+[13:52] when they forget what they're doing, they can all go back to the document,
+[13:55] and kind of remember.
+[13:57] All right, and then in the second week, I'm kind of on holiday,
+[14:01] I'm not really on holiday, but then it's up to them.
+[14:04] So at the end of the first week, we have a device with,
+[14:07] we should have a device with a USB out,
+[14:10] and possibly an audio jack,
+[14:13] and they usually, since they use Unity mainly on the course for development,
+[14:19] they connect devices through USB to the computer,
+[14:24] and then I suggested them to develop the game in Unity,
+[14:28] not purely on the microcontroller, some do, but it's up to them to figure it out,
+[14:34] because that way they can use whatever environment they want,
+[14:38] and make the games.
+[14:40] Yeah, and so in the second week it's more chill for me,
+[14:43] not for the students, obviously.
+[14:45] But for me, I can kind of just go around and see if everything's going okay,
+[14:51] if they have problems, they'll always have problems with electronics,
+[14:54] that's one of the key takeaways from this talk.
+[14:56] You'll see in the second.
+[14:58] Let me just check on time, because, all right, we're good.
+[15:01] I think.
+[15:03] So, yeah, and by the end of the second week,
+[15:07] they should deliver a weird game.
+[15:11] Yeah, that's how we do it.
+[15:14] Thank you.
+[15:15] Yeah, and this two week, the fact that they're not taking any more classes,
+[15:20] it's really, it's really helpful in this,
+[15:22] because they're really just focused on this,
+[15:25] and doing this thing alone, and really makes them more,
+[15:30] yeah, they have more dedication to it.
+[15:33] All right, and I have some examples of some games
+[15:36] that were developed by some international students,
+[15:39] so I do this class, not only for national BA,
+[15:42] but also for the international masters.
+[15:46] So, these are students from all over the world
+[15:50] that develop these games with, yeah, in my classes, yeah?
+[15:56] Well, please, and I think it's real, don't.
+[16:06] Thank you.
+[16:36] Thank you.
+[16:46] Don't make me angry, darling.
+[16:52] It's not such.
+[16:57] Remember this piece, we are going to take a look
+[17:01] for others, I love you.
+[17:03] I love you so much, darling.
+[17:07] Hello, I am Connor from Ireland.
+[17:10] I am fully in up from Germany.
+[17:12] I am from Laezemba, Russia.
+[17:14] I'm the Schenferm Céferport.
+[17:16] I am well-designed from Pakistan, and we have no team to work.
+[17:20] So we made a game for nobody, if you treat your eyes, of course.
+[17:27] Then they're going to explain the game in all of some
+[17:29] of the things we have to do.
+[17:31] All right, I will terminate it in a thousand.
+[17:59] Yeah, and I have one more thing.
+[18:13] Yeah, most of these things.
+[18:59] All right, and I'd like to give a shout out to these guys.
+[19:15] All of them, like, these international masters students,
+[19:19] they really took the thing to do in the whole different level,
+[19:25] because they're really good.
+[19:27] And actually, we...
+[19:31] Sorry, I did that.
+[19:34] All right, I'll just tell you.
+[19:35] So we did an alternative.
+[19:37] Some of the games, some of these games you saw,
+[19:39] the one in the mannequin head, it was accepted to GDC.
+[19:42] So they were showing off at GDC.
+[19:44] Although since I've been here for the last two days,
+[19:47] it's the first time in the near-meft, I think this would be a more suitable place.
+[19:52] It's just some of the things, so hopefully something will come out of that.
+[19:56] All right, so I still have...
+[19:58] So that's what we're doing.
+[20:00] And I have some insight of come across, while teaching,
+[20:04] I think, might be interesting.
+[20:06] I don't know if any of you is teaching or is teaching related,
+[20:10] yeah, all right, anybody else?
+[20:12] All right.
+[20:14] Yeah, so this, I don't know if your teaching is related to this kind of stuff,
+[20:18] or not, but, well, hopefully something's useful, all of this, all right.
+[20:22] So the first, and I think the main insight I've got,
+[20:25] so I don't come from a video game background, kind of,
+[20:29] but not from alternative controllers background.
+[20:32] And I'm not a researcher of any kind, so my these insights are just that.
+[20:37] The insights that I've had over the last few years,
+[20:41] while teaching, because of the things that happened in the way.
+[20:46] So the first, I think the main biggest, or one of the biggest insights
+[20:51] are more interesting one, is about how we play games.
+[20:55] So we, in traditional video games, this is my kids actually,
+[21:01] but in traditional video games, the way you play doesn't really matter for the game,
+[21:06] so the playing the game, the physical action to take while playing,
+[21:11] of using a controller, it should be transparent.
+[21:14] It's all done when it doesn't get in the way,
+[21:16] because we humans have this amazing capacity of expanding our bodies,
+[21:20] so when you're using a hammer to nail, a nail to hammer a nail,
+[21:25] that's what it's all right.
+[21:27] The hammer becomes part of your body as well.
+[21:30] You get that while driving, like, you, you, you're the car is part of you.
+[21:35] And that's kind of what happens in traditional video games,
+[21:38] so the controller, the controllers, or the controls,
+[21:41] should not get in the way, and it should be able to wrap,
+[21:45] transmit your brain directly into the screen and what's happening on the screen.
+[21:49] But with alternative controllers, actually, the way you play really matters for the experience.
+[21:55] Like, how you play the game is very important,
+[21:59] it's a direct, it's a really correlated to what your experience
+[22:03] and experiencing the game itself.
+[22:06] And so on one hand, you have, how you play the game,
+[22:10] doesn't really matter, it should not get in the way,
+[22:12] then you have alternative controllers,
+[22:15] where you, how you play the game,
+[22:17] matters for the game in any part of the game,
+[22:19] but then you have a whole different set of games,
+[22:22] in which how you play is the actual game.
+[22:26] There's no distinction between how you play and the game itself,
+[22:29] and you will play it, everyone's played them.
+[22:32] Anyone, I don't know, you know?
+[22:35] Huh?
+[22:36] Sorry?
+[22:38] Not so much sport, yeah, sports, kind of like,
+[22:41] you haven't seen traditional child games,
+[22:44] because if you think about like,
+[22:46] kind of seek or play in tag, like, how do you play,
+[22:48] kind of seek you going hide and other people seek?
+[22:51] How do you play tag you run around and you touch people?
+[22:54] So by describing the game,
+[22:56] you're also describing the actions and how what you have to do to play the game.
+[23:01] So I find that, well, in this idea,
+[23:05] traditional video games and playground games are kind of,
+[23:09] almost a spectrum of the alternative controls,
+[23:11] somewhere in the middle.
+[23:14] Yeah. Other than that,
+[23:16] I think in terms of game design,
+[23:18] it's really important to keep like,
+[23:20] push to the starting sword, keeping it simple,
+[23:22] because things got really complicated really fast.
+[23:25] And so even the smallest,
+[23:27] most simple electronics will often break,
+[23:29] so it's really important to push them into making very simple interactions
+[23:33] in very simple things.
+[23:35] Thanks.
+[23:37] We have a bit careful while choosing the objects like some students. These were really hardworking students,
+[23:44] but they decided to make a game within a flash of a camera, photography camera, and it was just really small.
+[23:52] So tiny, everything got packed up and everything was disconnecting all the time.
+[23:56] So it's really unfortunate and it's about choosing the objects, but they took a gun with it.
+[24:02] It was alright.
+[24:04] Also designed to your strength.
+[24:06] So this game was also for the masters.
+[24:08] And the team didn't really have the developers or didn't have people with knowledge in coding.
+[24:16] And so they did this really, really simple game.
+[24:19] They focused more on the art, the art, and the electronics, and how to present the things that they were doing.
+[24:25] So they used these buttons.
+[24:26] So it's kind of ninja.
+[24:28] We have to tap other people's hands, I think.
+[24:30] Yeah, but they did the electronic version of Ninja, where you had buttons, lights,
+[24:35] which is on your hands, and you had to hit the other people.
+[24:39] And this is a really good example of the team of designing to the strengths of the team that they had.
+[24:45] So I think that's also a good insight.
+[24:48] I try to push students not to use screens, because they have the screen in their game.
+[24:57] Then they'll have to do all these work to make things to put on the screen.
+[25:04] And so usually I just push them out of screens and try, and that kind of,
+[25:09] the object itself kind of loses some focus.
+[25:12] And so usually I try to push them into making a no screen game and having feedback to audio or to LEDs or whatever it is.
+[25:20] Or 5 minutes 5, 5.
+[25:22] But I'm easily convinced, right?
+[25:24] So if they tell me, no, no, we really need a screen.
+[25:26] We really need this or otherwise it won't work.
+[25:29] Well, if they convince me, it's good, but I'm easily convinced.
+[25:34] Especially because I let them fall on their own traps.
+[25:37] So they're going to say that they really need to have this really complex thing.
+[25:41] And I don't think you should, but they'll be, no, no, yes, we'll, we'll, all right, you'll do it then.
+[25:50] But I think it's important because they feel responsible, I feel, for what they're making.
+[25:56] So if it goes badly, it's on them, they decided to actually do something really complex.
+[26:01] So, so they have a good learning experience, yeah?
+[26:05] Yeah, be wary about the setting setting.
+[26:10] So you need to, not only is your device the game, but the table around the device or whatever is physically around the device.
+[26:18] It's also part of the game because that's where you get some immersion.
+[26:22] And so students, well, yeah, usually they don't think a lot about that, but that's really important part of it.
+[26:28] And also taking a bar about the performative side of the thing.
+[26:33] So maybe, yeah, some games end up being really performative.
+[26:38] And that's also what I mentioned of these types of games because you might have someone hosting the game or helping the game out.
+[26:45] So this is, I didn't show the video, but this was a master Galgabean.
+[26:50] Well, it was like a space intergalactic, intergalactic cooking show.
+[26:57] So like humans got abducted and you're in this intergalactic cooking show.
+[27:02] And yeah, that's, that's the dish you had to cook at the end.
+[27:08] It's real fun.
+[27:11] Yeah, something that we also important about the grading thing.
+[27:14] So students are also always very worried about the grading stuff.
+[27:18] And I think some of the decisions we've made kind of help out.
+[27:21] And so basically, first, I think mentioning that these are all just prototypes and proofs of concepts really helps.
+[27:30] Because in two weeks, you're not going to get a very polished thing by the end.
+[27:34] And so I think that takes the stress out of actually having to build something really complex.
+[27:41] Also, that the time they are away from keyboard and actually just painting,
+[27:46] like this is the dollhouse from before.
+[27:48] So this is the inside of the dollhouse.
+[27:50] They turned it into a murder mystery game.
+[27:52] And they spent a long time painting the thing.
+[27:55] And so making, getting across that, that is also work.
+[28:01] And that is also meaningful.
+[28:03] It's important because they don't think they're wasting the time.
+[28:06] If they're not making developing stuff directly.
+[28:11] Also, that it's okay to fake it.
+[28:13] So sometimes you want to do this really complex thing.
+[28:17] Or maybe it's not complex, but you just don't add electronics for it.
+[28:21] And it's okay to fake.
+[28:23] Like, if for the user, it's the same experience.
+[28:25] You can have just someone sitting back on the keyboard and when they do this.
+[28:28] Press about and when they do that, they press the other button.
+[28:31] It's okay, because for the user, it's the exact same experience.
+[28:34] It's fine.
+[28:36] Yes, the electronics sometimes doesn't work.
+[28:38] And that's part of the learning experience.
+[28:40] And also, I don't demand that the games are good by the end.
+[28:46] So they might have the liver really lousy game.
+[28:50] But maybe they really hard, because they tried this, didn't work.
+[28:53] They tried that, didn't work.
+[28:54] And then they end up with a really horrible thing.
+[28:57] But they'll have a good grade.
+[28:59] And I make sure that that's part of the great system.
+[29:01] If you work hard and you try different things, then you're going to get it in grade.
+[29:07] Also, the liver balls are really important, I think.
+[29:10] So we force them to deliver a niche IO page.
+[29:14] And also to do a trailer like the ones you saw.
+[29:17] So we make them do not, not a presentation video, but a trailer for the thing.
+[29:24] And I feel that really makes a distinction, because you saw those trailers are really good.
+[29:29] And they, well, they, yeah.
+[29:33] And by the end of it, like you can't some games, you can't keep the objects.
+[29:37] So the trailer and this page that they make is actually what ends up.
+[29:43] The proof that they were there working.
+[29:45] And so it's really important to register stuff.
+[29:48] And that's part of the evaluation of grading as well.
+[29:51] Yeah, so I just only have one minute.
+[29:56] But yeah, tech breaks easily.
+[29:59] We can do a lot with just the small stuff.
+[30:01] Physical world is really cool because we have physical bodies since we were born.
+[30:04] So you have a lot more interaction in the physical world than you're having in digital environment.
+[30:09] And also, I really feel that these types of games are actual augmented reality.
+[30:15] Because looking at reality through a screen is not augmenting reality in any way.
+[30:19] But these types of games actually embed technology into the physical world.
+[30:24] And I think that's a more honest augmented reality.
+[30:30] Very important bits.
+[30:32] We're repurposing junk.
+[30:34] Yes, which is cool.
+[30:36] We're doing low tech games.
+[30:38] So everyone's moving on to AI and also to really,
+[30:40] also realistic graphics.
+[30:41] And reality is out there.
+[30:43] You can just go outside and you'll find it.
+[30:45] So you don't really have to do all these really complex stuff.
+[30:48] And that also ties to an ecological theme, which is important because,
+[30:53] yeah, computers, waste lot of energy, waste, spend.
+[30:58] And everyone has a really good time.
+[31:01] And I think that's the most important bit.
+[31:03] I would like to add that, yeah, kids, kids, students really relate.
+[31:08] And I think I hope it's a favorite class because they really get to experiment and try different things.
+[31:15] And I actually wanted to add that to the end of the talk.
+[31:18] But actually, I wanted to just make another point because I'm,
+[31:22] for the first time here at EMF.
+[31:24] And this is like the perfect playing ground to show this kind of stuff.
+[31:29] So I'm hoping I can go back.
+[31:31] So I came with the university game with some money to come.
+[31:34] So I'm kind of like the ambassador, I guess.
+[31:36] So I'm really hoping that we will have Lisbon, Lisbon village somewhere or something like that.
+[31:43] Because I think this would be, if the students knew,
+[31:48] they would have the opportunity to come here and show their games.
+[31:51] I think they would work really hard for it.
+[31:53] And so thank you all for having me and thank you all for, yeah, for being here.

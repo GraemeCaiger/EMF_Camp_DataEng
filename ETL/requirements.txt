@@ -8,3 +8,4 @@ yt-dlp          # For downloading audio from EMF 2026 playlist
 openai-whisper  # For audio transcription
 imageio-ffmpeg  # For handling FFmpeg integration with imageio
 rapidfuzz 
+pyarrow         # for parquet support
