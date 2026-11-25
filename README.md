@@ -45,6 +45,11 @@ Questions to consider: what normalisation level? Reasons to choose given fact or
 
 
 # Current todo 
+- Should Use the logging libary for more pizzas instead of print statements and use .exists to ingraine the habit and as part of that. Maybe revist elements with some try: except: logic. 
+
+https://app.datacamp.com/campus/courses/etl-and-elt-in-python/advanced-etl-techniques?ex=1
+
+- Should consider ELT for the mqtt stuff,
 - Should refactor to a medalian arcitecture. 
     - Bronze: Raw, append only, never modified, metadata abot loadtimes etc. 
     - Silver is clean, typed, duplicated and conformed, no buisness definitions/metrics. 
@@ -57,7 +62,6 @@ Having the boilerplate for a retention policy even though this isnt really appli
 [] Refactor to send not tabular data to landing zone and then subseqently to bronze silver gold etc.
 - Seperate notebooks into folders Extract, Transform and load refactoring as neccesary. 
 - Data from experements like getting weather, villages etc should have their own notebooks. mqtt_get_villages.ipynb etc. 
-
 
 
 
