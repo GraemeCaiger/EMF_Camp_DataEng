@@ -1,59 +1,162 @@
-# Locate project directory
-$ProjectFolder = $PSScriptRoot # Path of currently executing script
-$VenvFolder = Join-Path $ProjectFolder ".venv" # add .venv to path to define virtual environment folder location. 
-$VenvPython = Join-Path $VenvFolder "Scripts\python.exe" # Specify the expected location of the virtual environment's Python executable.
+# ---------------------------------------------------------
+# Configuration
+# ---------------------------------------------------------
+$ErrorActionPreference = "Stop"
+$ProjectFolder = $PSScriptRoot
+$VenvFolder = Join-Path $ProjectFolder ".venv"
+$VenvPython = Join-Path $VenvFolder "Scripts\python.exe"
 $PythonVersion = "3.13"
+
+# Locate requirements.txt (ETL folder or repository root)
+$RequirementsFile = Join-Path $ProjectFolder "requirements.txt"
+if (-not (Test-Path $RequirementsFile)) {
+    $ParentRequirements = Join-Path (Split-Path $ProjectFolder -Parent) "requirements.txt"
+
+    if (Test-Path $ParentRequirements) {
+        $RequirementsFile = $ParentRequirements
+    }
+}
+if (-not (Test-Path $RequirementsFile)) {
+    throw "Could not find requirements.txt."
+}
 
 Write-Host "`n---------------- Setting up Python environment ----------------`n"
 
-# Check that the Python launcher and requested version are available.
-if (-not (Get-Command py -ErrorAction SilentlyContinue)) {
-    Write-Host "ERROR: Python launcher 'py' was not found. Install Python $PythonVersion and try again."
-    exit 1
-}
-& py "-$PythonVersion" --version
-if ($LASTEXITCODE -ne 0) {
-    Write-Host "ERROR: Python $PythonVersion is not installed. Install it or change `$PythonVersion in this script."
-    exit 1
+# ---------------------------------------------------------
+# Find or install uv
+# ---------------------------------------------------------
+function Find-Uv {
+
+    $Command = Get-Command uv -CommandType Application -ErrorAction SilentlyContinue |
+        Select-Object -First 1
+
+    if ($Command) {
+        return $Command.Path
+    }
+
+    $DefaultPath = Join-Path $HOME ".local\bin\uv.exe"
+
+    if (Test-Path $DefaultPath) {
+        return $DefaultPath
+    }
+
+    return $null
 }
 
-# Rebuild the environment if it is missing or uses a different Python version.
-$RebuildVenv = -not (Test-Path $VenvPython)
-if (-not $RebuildVenv) {
-    $ExistingPythonVersion = & $VenvPython --version 2>&1
-    if ($ExistingPythonVersion -notlike "Python $PythonVersion*") {
-        Write-Host "Existing environment uses $ExistingPythonVersion; rebuilding it with Python $PythonVersion."
-        $RebuildVenv = $true
-    } else {
-        Write-Host "Using existing Python $PythonVersion environment at $VenvFolder."
+$UvExe = Find-Uv
+if (-not $UvExe) {
+
+    Write-Host "uv not found. Installing uv..."
+
+    try {
+        Invoke-RestMethod "https://astral.sh/uv/install.ps1" | Invoke-Expression
+    }
+    catch {
+        throw "Failed to install uv. Check your internet connection."
+    }
+
+    $UvExe = Find-Uv
+}
+if (-not $UvExe) {
+    throw "Could not locate uv after installation."
+}
+Write-Host "Using uv: $UvExe"
+
+# ---------------------------------------------------------
+# Check existing virtual environment
+# ---------------------------------------------------------
+$VenvIsValid = $false
+if (Test-Path $VenvPython) {
+
+    try {
+
+        $ExistingVersion = & $VenvPython --version 2>&1
+        $VersionExitCode = $LASTEXITCODE
+
+        $VenvCheck = & $VenvPython -c "import sys; print(sys.prefix != sys.base_prefix)" 2>&1
+        $VenvCheckExitCode = $LASTEXITCODE
+
+        if (
+            $VersionExitCode -eq 0 -and
+            $VenvCheckExitCode -eq 0 -and
+            "$ExistingVersion" -match "^Python $([regex]::Escape($PythonVersion))(\.|$)" -and
+            "$VenvCheck".Trim() -eq "True"
+        ) {
+            $VenvIsValid = $true
+            Write-Host "Existing Python $PythonVersion environment found."
+        }
+
+    }
+    catch {
+        $VenvIsValid = $false
     }
 }
-if ($RebuildVenv) {
+# ---------------------------------------------------------
+# Create virtual environment if required
+# ---------------------------------------------------------
+
+if (-not $VenvIsValid) {
+
+    Write-Host "`nInstalling Python $PythonVersion..."
+
+    & $UvExe python install $PythonVersion
+
+    if ($LASTEXITCODE -ne 0) {
+        throw "Python installation failed."
+    }
+
+    # Remove existing environment if necessary
     if (Test-Path $VenvFolder) {
+
+        Write-Host "Removing existing virtual environment..."
+
         Remove-Item -Recurse -Force $VenvFolder
     }
 
-    Write-Host "Creating virtual environment with Python $PythonVersion..."
-    & py "-$PythonVersion" -m venv $VenvFolder
+    Write-Host "`nCreating virtual environment..."
+
+    & $UvExe venv --python $PythonVersion --seed $VenvFolder
 
     if ($LASTEXITCODE -ne 0) {
-        Write-Host "ERROR: Virtual environment creation failed."
-        exit 1
+        throw "Virtual environment creation failed."
     }
 }
 
+
+# ---------------------------------------------------------
+# Install dependencies
+# ---------------------------------------------------------
+
 Write-Host "`n---------------- Installing Python dependencies ----------------`n"
-# Upgrade pip before installing project dependencies.
-& $VenvPython -m pip install --upgrade pip
+
+# Upgrade pip
+Write-Host "Upgrading pip..."
+
+& $UvExe pip install --python $VenvPython --upgrade pip
+
 if ($LASTEXITCODE -ne 0) {
-    Write-Host "ERROR: pip upgrade failed."
-    exit 1
+    throw "pip upgrade failed."
 }
-# Install requirements into the project-local virtual environment.
-& $VenvPython -m pip install -r (Join-Path $ProjectFolder "requirements.txt")
+
+# Install project requirements
+Write-Host "`nInstalling requirements..."
+
+& $UvExe pip install --python $VenvPython -r $RequirementsFile
+
 if ($LASTEXITCODE -ne 0) {
-    Write-Host "ERROR: Dependency installation failed."
-    exit 1
+    throw "Dependency installation failed."
 }
-Write-Host "`n--- Environment built ---`n"
+
+
+# ---------------------------------------------------------
+# Complete
+# ---------------------------------------------------------
+
+Write-Host "`n---------------- Environment built ----------------`n"
+
 Write-Host "Setup complete!"
+
+Write-Host "`nPython environment: $VenvFolder"
+
+Write-Host "`nTo activate your environment, run:"
+Write-Host "& `"$VenvFolder\Scripts\Activate.ps1`""
